@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "HOMEPAGE",
+      "symbolSize": 0,
+      "value": "/"
+    },
+    {
+      "id": "1",
+      "name": "Tags Page",
+      "symbolSize": 0,
+      "value": "/tags/"
+    },
+    {
+      "id": "2",
+      "name": "IP Access Controller",
+      "symbolSize": 1,
+      "value": "/ELT/IP%20Access%20Controller/"
+    },
+    {
+      "id": "3",
+      "name": "B\u00e0i 1- T\u1ed5ng Qu\u00e1t",
+      "symbolSize": 0,
+      "value": "/SOFT/DIALUX%20EVO/B%C3%A0i1/"
+    },
+    {
+      "id": "4",
+      "name": "Access Control",
+      "symbolSize": 1,
+      "value": "/Sample/Access%20Control/"
+    },
+    {
+      "id": "5",
+      "name": "TCVN5738 2021",
+      "symbolSize": 0,
+      "value": "/TCVN/TCVN5738_2021/"
+    }
+  ],
+  "links": [
+    {
+      "source": "4",
+      "target": "2"
+    }
+  ]
+}
