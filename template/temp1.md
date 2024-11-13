@@ -1,7 +1,6 @@
 ---
-title: "{{title}}"
-aliases:
-  - "{{title}}"
+title: 
+aliases: 
 tags: 
 date: 
 url: 
