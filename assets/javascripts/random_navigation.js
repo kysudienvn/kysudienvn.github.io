@@ -1,38 +1,30 @@
 document.addEventListener("DOMContentLoaded", function () {
-    // Lấy danh sách các URL bài viết từ sitemap.xml
-    const basePath = window.location.origin + window.location.pathname;
-    fetch(basePath + "sitemap.xml")
-        .then(response => response.text())
-        .then(data => {
-            const parser = new DOMParser();
-            const sitemap = parser.parseFromString(data, "application/xml");
-            const urls = Array.from(sitemap.querySelectorAll("url > loc")).map(el => el.textContent);
+    // Danh sách tất cả các tệp Markdown trong thư mục ELT
+    const markdownFiles = [
+        "docs/ObsidianVault/ELT/file1.md",
+        "docs/ObsidianVault/ELT/file2.md",
+        "docs/ObsidianVault/ELT/file3.md"
+    ];
 
-            // Lọc chỉ các URL liên quan đến `docs/ObsidianVault/`
-            const vaultUrls = urls.filter(url => url.includes("docs/ObsidianVault/"));
-            vaultUrls.sort(); // Đảm bảo danh sách theo thứ tự (nếu cần)
+    // URL hiện tại
+    const currentPath = window.location.pathname;
+    const currentIndex = markdownFiles.findIndex(path => currentPath.endsWith(path));
 
-            // Lấy URL hiện tại
-            const currentUrl = window.location.href;
+    // Xác định bài viết trước (Previous) và bài viết sau (Next)
+    const prevFile = currentIndex > 0 ? markdownFiles[currentIndex - 1] : null;
+    const nextFile = currentIndex < markdownFiles.length - 1 ? markdownFiles[currentIndex + 1] : null;
 
-            // Xác định bài trước (Previous) và bài sau (Next)
-            const currentIndex = vaultUrls.indexOf(currentUrl);
-            const prevUrl = currentIndex > 0 ? vaultUrls[currentIndex - 1] : null;
-            const nextUrl = currentIndex < vaultUrls.length - 1 ? vaultUrls[currentIndex + 1] : null;
+    // Cập nhật liên kết Previous và Next
+    const prevButton = document.querySelector('.md-footer__button--prev');
+    const nextButton = document.querySelector('.md-footer__button--next');
 
-            // Cập nhật nút Previous và Next
-            const prevButton = document.querySelector('.md-footer__button--prev');
-            const nextButton = document.querySelector('.md-footer__button--next');
+    if (prevButton && prevFile) {
+        prevButton.href = "/" + prevFile;
+        prevButton.textContent = "Previous";
+    }
 
-            if (prevButton && prevUrl) {
-                prevButton.href = prevUrl;
-                prevButton.textContent = "Previous";
-            }
-
-            if (nextButton && nextUrl) {
-                nextButton.href = nextUrl;
-                nextButton.textContent = "Next";
-            }
-        })
-        .catch(error => console.error("Error loading sitemap:", error));
+    if (nextButton && nextFile) {
+        nextButton.href = "/" + nextFile;
+        nextButton.textContent = "Next";
+    }
 });
