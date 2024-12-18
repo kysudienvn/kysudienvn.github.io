@@ -4,6 +4,7 @@ aliases:
   - TOA
 tags:
   - LOA
+  - CATALOGUE
 date: 
 url: 
 author: 

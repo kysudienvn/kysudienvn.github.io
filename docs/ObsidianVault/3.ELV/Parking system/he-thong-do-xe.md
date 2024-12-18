@@ -5,6 +5,7 @@ aliases:
 tags:
   - parking_system
   - ELV
+  - CATALOGUE
 date: 
 url: 
 author: 

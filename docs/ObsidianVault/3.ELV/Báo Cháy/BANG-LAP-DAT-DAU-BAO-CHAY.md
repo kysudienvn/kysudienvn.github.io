@@ -1,11 +1,11 @@
 ---
-title: 
-aliases:
-  - BẢNG LẮP ĐẶT ĐẦU BÁO CHÁY
+title: KHOẢNG CÁCH CÁC ĐẦU BÁO CHÁY
+aliases: 
 tags:
   - TCVN5738
   - FA
   - TABLE
+  - KHOANG_CACH_DAU_BAO_CHAY
 date: 
 url: 
 author: 
