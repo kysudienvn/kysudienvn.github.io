@@ -1,9 +1,10 @@
 ---
-title: TÍNH ĐỘ PHỦ VÀ BỐ TRÍ LOA
+title: khoảng cách bố trí loa âm thanh thông báo
 aliases: 
 tags:
   - PAGA
   - KHOANG_CACH
+  - khoang_cach_loa_thong_bao
 date: 
 url: 
 author: 
