@@ -1,0 +1,4 @@
+![](https://i.imgur.com/GYs3nvg.png)
+#ifc #xuatIFC
+
+Cách xuất IFC các đối tượng đang được nhìn thấy
