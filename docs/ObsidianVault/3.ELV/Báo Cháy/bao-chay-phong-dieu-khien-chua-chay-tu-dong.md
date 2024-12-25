@@ -1,5 +1,5 @@
 ---
-title: 
+title: báo cháy phòng điện, phòng máy phát
 aliases: 
 tags: 
 date: 
