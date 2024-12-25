@@ -1,7 +1,8 @@
 ---
 title: Mặt cắt dây trung tính tối thiểu
 aliases: 
-tags: 
+tags:
+  - day_trung_tinh
 date: 
 url: 
 author: 
