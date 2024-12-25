@@ -20,3 +20,5 @@ page 15
 
 # [[TCVN5738_2021]]
 
+![](https://i.imgur.com/i9hAEyH.png)
+## xem thêm [[bao-chay-tren-tran-gia]]
