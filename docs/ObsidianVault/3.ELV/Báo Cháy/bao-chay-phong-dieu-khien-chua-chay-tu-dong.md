@@ -1,7 +1,8 @@
 ---
 title: báo cháy phòng điện, phòng máy phát
 aliases: 
-tags: 
+tags:
+  - FA
 date: 
 url: 
 author: 
