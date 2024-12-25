@@ -1,7 +1,9 @@
 ---
 title: Tiêu chuẩn TCVN nào cho phép đặt máy biến áp ở tầng hầm 1
 aliases: 
-tags: 
+tags:
+  - MBA
+  - LOCATION
 date: 
 url: 
 author: 
