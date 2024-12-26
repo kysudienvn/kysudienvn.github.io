@@ -20,13 +20,13 @@ TCVN 5738 : 2021 do Cục Cảnh sát Phòng cháy, chữa cháy và Cứu nạn
 
 **_Fire protection - Automatic fire alarm system - Technical requirements_**
 
-**1. Phạm vi áp dụng**
+## **1. Phạm vi áp dụng**
 
 Tiêu chuẩn này quy định yêu cầu kỹ thuật đối với hệ thống báo cháy tự động cho nhà, công trình.
 
 Tiêu chuẩn này không quy định yêu cầu kỹ thuật đối với hệ thống báo cháy tự động cho nhà và công trình được thiết kế theo quy định đặc biệt.
 
-**2. Tài liệu viện dẫn**
+## **2. Tài liệu viện dẫn**
 
 Các tài liệu viện dẫn sau là cần thiết khi áp dụng tiêu chuẩn này. Đối với các tài liệu viện dẫn ghi năm công bố thì áp dụng bản được nêu. Đối với tài liệu viện dẫn không ghi năm công bố thì áp dụng phiên bản mới nhất, bao gồm cả các bản sửa đổi, bổ sung (nếu có).
 
@@ -34,17 +34,15 @@ TCVN 7568-14:2015 (ISO 7240-14:2013): Hệ thống báo cháy - Phần 14: Thi�
 
 TCVN 7568-10:2015 (ISO 7240-10:2012) Hệ thống báo cháy - Phần 10: đầu báo cháy lửa kiểu điểm.
 
-**3. Thuật ngữ và định nghĩa**
+## **3. Thuật ngữ và định nghĩa**
 
 Trong tiêu chuẩn này sử dụng các thuật ngữ, định nghĩa sau:
 
-**3.1**
-
-**Hệ thống báo cháy tự động** (Automatic fire alarm system)
+### **3.1 Hệ thống báo cháy tự động** (Automatic fire alarm system)
 
 Hệ thống tự động phát hiện và thông báo địa điểm cháy.
 
-**3.1.1**
+ **3.1.1**
 
 **Hệ thống báo cháy thường** (Conventional fire alarm system)
 
@@ -196,7 +194,7 @@ Cung cấp cảnh báo bằng âm thanh cho tất cả con người bên trong n
 
 Cung cấp cảnh báo bằng ánh sáng cho tất cả con người bên trong nhà và công trình biết khi có cháy.
 
-**4. Quy định chung**
+### **4. Quy định chung**
 
 **4.1**  Việc thiết kế, lắp đặt hệ thống báo cháy phải tuân thủ các yêu cầu, quy định của các tiêu chuẩn hiện hành có liên quan.
 
@@ -246,7 +244,7 @@ Không nên sử dụng đầu báo cháy nhiệt cố định trong môi trư�
 
 CHÚ THÍCH: Hiện tượng đặc trưng của sự cháy là hiện tượng được phát hiện ở giai đoạn ban đầu của đám cháy trong thời gian ngắn nhất.
 
-**5. Trung tâm báo cháy**
+### **5. Trung tâm báo cháy**
 
 **5.1**  Trung tâm báo cháy phải có chức năng tự động kiểm tra tín hiệu từ các đầu báo cháy, kênh báo cháy và các thiết bị báo cháy khác truyền về để loại trừ các tín hiệu báo cháy giả. Không được dùng các trung tâm không có chức năng báo cháy làm trung tâm báo cháy tự động.
 
@@ -258,7 +256,7 @@ Nơi đặt các trung tâm báo cháy phải có điện thoại liên lạc tr
 
 **5.4**  Nếu trung tâm báo cháy được lắp trên các cấu kiện xây dựng bằng vật liệu cháy thì những cấu kiện này phải được bảo vệ bằng lá kim loại dầy từ 1 mm trở lên hoặc bằng các vật liệu không cháy khác có độ dầy không dưới 10 mm. Trong trường hợp này tấm bảo vệ phải có kích thước sao cho mỗi cạnh của tấm bảo vệ vượt ra ngoài cạnh của trung tâm tối thiểu 100 mm về mọi phía.
 
-**5.5**  Khoảng cách giữa các trung tâm báo cháy và trần nhà bằng vật liệu cháy được không nhỏ hơn 1,0 m.
+**5.5**  <font color="#ff0000">Khoảng cách giữa các trung tâm báo cháy và trần nhà bằng vật liệu cháy được không nhỏ hơn 1,0 m.</font>
 
 **5.6**  Trong trường hợp lắp cạnh nhau, khoảng cách giữa các trung tâm báo cháy không được nhỏ hơn 50 mm.
 
@@ -270,7 +268,7 @@ Nơi đặt các trung tâm báo cháy phải có điện thoại liên lạc tr
 
 **5.10**  Việc lắp các đầu báo cháy tự động với trung tâm báo cháy phải chú ý đến sự phù hợp của hệ thống (điện áp cấp cho đầu báo cháy, dạng tín hiệu báo cháy, phương pháp phát hiện sự cố, bộ phận kiểm tra đường dây).
 
-**5.11**  Dung lượng trung tâm báo cháy của hệ thống báo cháy thường phải có số kênh dự trữ ít nhất là 10%.
+**5.11**  ==Dung lượng trung tâm báo cháy của hệ thống báo cháy thường phải có số kênh dự trữ ít nhất là 10%.==
 
 **6. Đầu báo cháy tự động**
 
@@ -284,7 +282,7 @@ Việc lựa chọn đầu báo cháy tự động phải căn cứ vào tính c
 
 **6.3**  Số lượng đầu báo cháy tự động cần phải lắp đặt cho một khu vực bảo vệ phụ thuộc vào yêu cầu phát hiện cháy trên toàn bộ diện tích của khu vực đó và phải bảo đảm yêu cầu kỹ thuật.
 
-Trường hợp hệ thống báo cháy tự động dùng để điều khiển hệ thống chữa cháy tự động thì mỗi điểm trong khu vực bảo vệ phải được kiểm soát bằng 2 đầu báo cháy tự động thuộc 2 kênh hoặc 2 địa chỉ khác nhau.
+Trường hợp hệ thống báo cháy tự động dùng ==để điều khiển hệ thống chữa cháy tự động== thì mỗi điểm trong khu vực bảo vệ phải được kiểm soát bằng 2 đầu báo cháy tự động thuộc 2 kênh hoặc 2 địa chỉ khác nhau.
 
 Trường hợp nhà có trần treo giữa các lớp trần có lắp đặt các hệ thống kỹ thuật, cáp điện, cáp tín hiệu thì phải lắp bổ sung đầu báo cháy ở trần phía trên.
 
@@ -383,7 +381,7 @@ Tại những khu vực có nhiều côn trùng phải sử dụng các đầu b
 
 Diện tích bảo vệ của một đầu báo cháy khói, khoảng cách tối đa giữa các đầu báo cháy khói với nhau và giữa đầu báo cháy khói với tường nhà phải xác định theo Bảng 1, nhưng không được lớn hơn các trị số ghi trong yêu cầu kỹ thuật và tài liệu kỹ thuật của đầu báo cháy khói.
 
-**Bảng 1 - Quy định lắp đặt đầu báo cháy khói kiểu điểm**
+**Bảng 1 - Quy định lắp đặt đầu báo cháy khói kiểu điểm** ^kgxs94
 
 |   |   |   |   |
 |---|---|---|---|

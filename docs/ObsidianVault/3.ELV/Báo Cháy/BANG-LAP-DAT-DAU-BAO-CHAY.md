@@ -12,7 +12,10 @@ url:
 author: 
 Releated:
 ---
+[[TCVN5738_2021_Phòng cháy chữa cháy#^kgxs94]]
 ![](https://i.imgur.com/DujqrTK.png)
+
+
 page 14
 
 ---
