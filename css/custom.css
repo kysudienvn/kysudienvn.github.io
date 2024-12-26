@@ -1,17 +1,16 @@
-﻿/* Thu nhỏ sidebar */
-.md-sidebar {
-    flex: 0 0 15% !important;
+﻿/* Sửa layout tổng thể */
+.md-main {
+    display: grid !important;
+    grid-template-columns: 200px auto 200px !important; /* Sidebar trái, nội dung chính, sidebar phải */
+    gap: 1rem; /* Khoảng cách giữa các cột */
+}
+
+/* Điều chỉnh sidebar và nội dung */
+.md-sidebar, .md-sidebar--secondary {
     max-width: 200px !important;
+    flex: 0 0 200px !important;
 }
 
-/* Mở rộng phần nội dung */
 .md-content {
-    flex: 1 1 auto !important;
-    max-width: 90% !important;
-}
-
-/* Thu hẹp padding của container */
-.md-container {
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
+    max-width: calc(100% - 400px) !important; /* Tổng trừ đi sidebar */
 }
