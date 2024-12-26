@@ -1,6 +1,7 @@
 ---
 title: KHOẢNG CÁCH CÁC ĐẦU BÁO CHÁY
-aliases: 
+aliases:
+  - khoảng cách lắp đặt các đầu báo cháy
 tags:
   - TCVN5738
   - FA
@@ -18,7 +19,6 @@ page 14
 page 15
 ![](https://i.imgur.com/EjKbRs1.png)
 
-# [[TCVN5738_2021]]
+# [[TCVN5738_2021_Phòng cháy chữa cháy]]
 
 ![](https://i.imgur.com/i9hAEyH.png)
-## xem thêm [[bao-chay-tren-tran-gia]]

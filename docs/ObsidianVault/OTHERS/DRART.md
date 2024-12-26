@@ -1,8 +1,8 @@
 ## FA
-### Tiêu Chuẩn : [[TCVN5738_2021]]
+### Tiêu Chuẩn : [[TCVN5738_2021_Phòng cháy chữa cháy]]
 
-- [[BANG-LAP-DAT-DAU-BAO-CHAY]]
-- [[bao-chay-phong-dieu-khien-chua-chay-tu-dong]]
-- [[bao-chay-tren-tran-gia]]
-- [[khoang-cach-dau-bao-den-mieng-gio]]
-- [[NUT-AN-BAO-CHAY]]
+- [[BANG-LAP-DAT-DAU-BAO-CHAY|khoảng cách lắp đặt các đầu báo cháy]]
+- [[bao-chay-phong-dieu-khien-chua-chay-tu-dong|qui định đặt đầu báo cháy tại phòng có điều khiển chữa cháy tự động]]
+- [[bao-chay-tren-tran-gia|Qui định lắp đặt đầu báo cháy trên trần giả]]
+- [[khoang-cach-dau-bao-den-mieng-gio|Khoảng cách đầu báo đến miệng gió]]
+- [[NUT-AN-BAO-CHAY|Nút ấn báo cháy]]

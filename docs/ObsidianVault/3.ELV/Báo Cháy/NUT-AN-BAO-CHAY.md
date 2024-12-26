@@ -1,6 +1,7 @@
 ---
-title: NÚT ẤN BÁO CHÁY
-aliases: 
+title: Nút ấn báo cháy
+aliases:
+  - Nút ấn báo cháy
 tags:
   - TCVN5738
   - NUT_AN_BAO_CHAY

@@ -1,6 +1,7 @@
 ---
 title: đầu báo cháy trên trần giả
-aliases: 
+aliases:
+  - Qui định lắp đặt đầu báo cháy trên trần giả
 tags:
   - FA
   - tran-gia

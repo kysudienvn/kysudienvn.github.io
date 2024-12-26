@@ -1,6 +1,7 @@
 ---
 title: Khoảng cách đầu báo đến miệng gió
-aliases: 
+aliases:
+  - Khoảng cách đầu báo đến miệng gió
 tags:
   - FA
   - khoang_cach_den_mieng_gio
