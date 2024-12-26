@@ -46,7 +46,7 @@ features:
   - content.code.select
 
 plugins:
-  #- obsidian-interactive-graph
+  - obsidian-interactive-graph
   - search
   - callouts
   - embed_file
