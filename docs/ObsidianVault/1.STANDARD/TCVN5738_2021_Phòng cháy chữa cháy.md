@@ -408,7 +408,7 @@ Trong khoảng giữa đầu phát với đầu thu hoặc đầu thu - phát v�
 
 **6.15.1**  Diện tích bảo vệ của một đầu báo cháy nhiệt, khoảng cách tối đa giữa các đầu báo cháy nhiệt với nhau và giữa đầu báo cháy nhiệt với tường nhà phải xác định theo Bảng 2 nhưng không lớn hơn các trị số ghi trong điều kiện kỹ thuật và tài liệu kỹ thuật của đầu báo cháy nhiệt.
 
-**Bảng 2 - Quy định lắp đặt đầu báo cháy nhiệt kiểu điểm**
+**Bảng 2 - Quy định lắp đặt đầu báo cháy nhiệt kiểu điểm** ^kt1txo
 
 |   |   |   |   |
 |---|---|---|---|
