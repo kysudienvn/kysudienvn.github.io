@@ -1,11 +1,13 @@
-﻿/* Giảm lề của toàn bộ nội dung */
-.md-content {
-    margin: 0 !important;
-    padding: 0 !important;
+﻿/* Điều chỉnh độ rộng tối đa và padding của container */
+.md-container {
+    max-width: 100% !important; /* Sử dụng toàn bộ chiều rộng màn hình */
+    padding-left: 20px !important;
+    padding-right: 20px !important;
 }
 
-/* Nếu muốn chỉnh riêng lề của các phần cụ thể */
-.md-main, .md-footer {
-    margin: 0 !important;
-    padding: 0 !important;
+/* Điều chỉnh margin của phần nội dung */
+.md-content {
+    margin: 0 auto !important; /* Đặt nội dung ở giữa */
+    padding: 20px !important; /* Điều chỉnh padding */
 }
+
