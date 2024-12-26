@@ -1,16 +1,26 @@
-﻿/* Đảm bảo vùng nội dung chính mở rộng hết màn hình */
-.md-container {
-    max-width: 100% !important; /* Mở rộng container chính */
-    padding: 0 !important;      /* Loại bỏ khoảng cách bên */
+﻿/* Giảm độ rộng của sidebar */
+.md-sidebar--primary {
+  width: 125px; /* Giảm xuống 1/2 chiều rộng hiện tại (thường mặc định là ~250px) */
+  transition: width 0.3s ease-in-out; /* Hiệu ứng chuyển đổi mượt */
 }
 
-/* Điều chỉnh sidebar */
-.md-sidebar {
-    max-width: 15% !important; /* Sidebar trái chiếm tối đa 15% */
-}
-
-/* Điều chỉnh nội dung chính */
+/* Điều chỉnh nội dung chính để khớp với sidebar hẹp */
 .md-content {
-    max-width: 85% !important; /* Nội dung chính chiếm 85% */
-    margin: 0 auto !important; /* Căn giữa nội dung */
+  margin-left: 130px; /* Tăng khoảng cách cho phù hợp với sidebar hẹp */
+  transition: margin-left 0.3s ease-in-out;
+}
+
+/* Thêm nút ẩn/hiện (toggle button) nếu cần) */
+.sidebar-toggle {
+  position: fixed;
+  top: 10px;
+  left: 125px; /* Đặt vị trí sát bên sidebar */
+  z-index: 1000;
+  background: #ff5722;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
 }
