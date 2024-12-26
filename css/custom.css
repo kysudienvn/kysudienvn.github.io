@@ -1,5 +1,10 @@
-﻿img.center {
-    display: block;
-    margin: 0 auto;
-    text-align: center;
+﻿/* Tăng độ rộng tối đa của trang */
+.md-container {
+    max-width: 90%; /* Hoặc 100% nếu bạn muốn phủ toàn bộ */
+    margin: auto; /* Canh giữa */
+}
+
+/* Điều chỉnh chiều rộng cho nội dung chính */
+.md-main__inner {
+    max-width: 90%;
 }
