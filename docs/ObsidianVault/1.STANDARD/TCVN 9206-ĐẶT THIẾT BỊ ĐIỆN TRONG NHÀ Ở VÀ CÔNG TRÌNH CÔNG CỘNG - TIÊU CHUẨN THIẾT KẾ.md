@@ -2,7 +2,7 @@
 
 **TCVN 9206 : 2012**
 
-ĐẶT THIẾT BỊ ĐIỆN TRONG NHÀ Ở VÀ CÔNG TRÌNH CÔNG CỘNG - TIÊU CHUẨN THIẾT KẾ
+ĐẶT THIẾT BỊ ĐIỆN TRONG NHÀ Ở VÀ CÔNG TRÌNH CÔNG CỘNG - TIÊU CHUẨN THIẾT KẾ ^b10a4c
 
 _Installation of electric equipments in dwellings and public building - design standard_
 
@@ -824,9 +824,9 @@ Cho phép đặt đường dây cấp điện cho căn hộ cùng với đườn
 
 **7.9** Mặt cắt ruột dây dẫn của từng đoạn thuộc lưới điện nhà ở không được nhỏ hơn các trị số quy định ở Bảng 11.
 
-CHÚ THÍCH: Với lưới điện 3 pha 4 dây, khi mặt cắt dây pha đến 16mm2 (đồng) và 25mm2 (nhôm) thì dây trung tính của đoạn đứng phải có mặt cắt bằng mặt cắt dây pha. Nếu mặt cắt dây pha lớn hơn các trị số trên thì mặt cắt dây trung tính không được nhỏ quá 50% mặt cắt dây pha.
+CHÚ THÍCH: Với lưới điện 3 pha 4 dây, khi mặt cắt dây pha đến 16mm2 (đồng) và 25mm2 (nhôm) thì dây trung tính của đoạn đứng phải có mặt cắt bằng mặt cắt dây pha. Nếu mặt cắt dây pha lớn hơn các trị số trên thì mặt cắt dây trung tính không được nhỏ quá 50% mặt cắt dây pha. ^qj14v1
 
-**Bảng 11 - Quy định về mặt cắt ruột dây dẫn nhỏ nhất của lưới điện trong nhà**
+**Bảng 11 - Quy định về mặt cắt ruột dây dẫn nhỏ nhất của lưới điện trong nhà** ^n0iztd
 
 |   |   |   |
 |---|---|---|
