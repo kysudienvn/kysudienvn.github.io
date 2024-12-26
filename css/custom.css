@@ -1,16 +1,16 @@
-﻿/* Sửa layout tổng thể */
-.md-main {
-    display: grid !important;
-    grid-template-columns: 200px auto 200px !important; /* Sidebar trái, nội dung chính, sidebar phải */
-    gap: 1rem; /* Khoảng cách giữa các cột */
+﻿/* Đảm bảo vùng nội dung chính mở rộng hết màn hình */
+.md-container {
+    max-width: 100% !important; /* Mở rộng container chính */
+    padding: 0 !important;      /* Loại bỏ khoảng cách bên */
 }
 
-/* Điều chỉnh sidebar và nội dung */
-.md-sidebar, .md-sidebar--secondary {
-    max-width: 200px !important;
-    flex: 0 0 200px !important;
+/* Điều chỉnh sidebar */
+.md-sidebar {
+    max-width: 15% !important; /* Sidebar trái chiếm tối đa 15% */
 }
 
+/* Điều chỉnh nội dung chính */
 .md-content {
-    max-width: calc(100% - 400px) !important; /* Tổng trừ đi sidebar */
+    max-width: 85% !important; /* Nội dung chính chiếm 85% */
+    margin: 0 auto !important; /* Căn giữa nội dung */
 }
