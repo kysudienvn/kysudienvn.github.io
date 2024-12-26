@@ -1,19 +1,11 @@
-﻿/* Loại bỏ lề hai bên của container chính */
-.md-container {
-    max-width: 100% !important; /* Sử dụng toàn bộ chiều rộng màn hình */
-    padding-left: 0 !important; /* Bỏ lề trái */
-    padding-right: 0 !important; /* Bỏ lề phải */
-}
-
-/* Giảm lề trong nội dung chính */
+﻿/* Giảm lề của toàn bộ nội dung */
 .md-content {
-    padding-left: 20px !important; /* Lề trái nhỏ */
-    padding-right: 20px !important; /* Lề phải nhỏ */
-    margin: 0 auto !important; /* Căn giữa nội dung */
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-/* Điều chỉnh tiêu đề và bảng điều hướng */
-.md-main__inner {
-    padding-left: 20px !important; /* Giảm padding bên trong */
-    padding-right: 20px !important;
+/* Nếu muốn chỉnh riêng lề của các phần cụ thể */
+.md-main, .md-footer {
+    margin: 0 !important;
+    padding: 0 !important;
 }
