@@ -126,51 +126,35 @@ Cáp báo cháy nhiệt có cấu tạo dưới dạng dây được sử dụng
 
 Đầu báo cháy khói có hai bộ phận gồm đầu phát tia sáng và đầu thu tia sáng hoặc đầu phát / thu và gương phản xạ, sẽ tác động khi ở khoảng giữa đầu phát và đầu thu hoặc giữa đầu phát / thu với gương phản xạ xuất hiện nồng độ khói đạt ngưỡng.
 
-**3.2.4**
-
-**Đầu báo cháy lửa** (Flame detector)
+**3.2.4****Đầu báo cháy lửa** (Flame detector)
 
 Đầu báo cháy tự động nhạy cảm với sự bức xạ phát ra của ngọn lửa.
 
-**3.2.5**
-
-**Đầu báo cháy hỗn hợp** (Combine detector)
+**3.2.5****Đầu báo cháy hỗn hợp** (Combine detector)
 
 Đầu báo cháy tự động nhạy cảm với ít nhất 2 hiện tượng kèm theo sự cháy.
 
-**3.2.6**
-
-**Đầu báo cháy khói kiểu hút** (Aspirating Smoke Detector)
+**3.2.6****Đầu báo cháy khói kiểu hút** (Aspirating Smoke Detector)
 
 Tự động lấy mẫu thông qua các miệng hút lấy mẫu không khí trên hệ thống đường ống và đưa mẫu không khí (hút) từ khu vực bảo vệ đến thiết bị để phân tích và phát hiện dấu hiệu cháy (khói, thay đổi thành phần hóa học của môi trường). Mỗi miệng hút tương đương như một đầu báo cháy khói.
 
-**3.2.7**
-
-**Hệ thống báo cháy không dây** (Wireless fire alarm system)
+**3.2.7***Hệ thống báo cháy không dây** (Wireless fire alarm system)
 
 Là hệ thống báo cháy sử dụng sóng vô tuyến để truyền và nhận tín hiệu.
 
-**3.3**
-
-**Nút ấn báo cháy** (Manual call point)
+**3.3****Nút ấn báo cháy** (Manual call point)
 
 Thiết bị để thực hiện việc báo cháy ban đầu bằng tay.
 
-**3.4**
-
-**Nguồn điện** (Electrical power supply)
+**3.4****Nguồn điện** (Electrical power supply)
 
 Thiết bị cấp năng lượng điện cho hệ thống báo cháy.
 
-**3.5**
-
-**Các bộ phận liên kết** (Conjunctive devices)
+**3.5****Các bộ phận liên kết** (Conjunctive devices)
 
 Gồm các linh kiện, hệ thống cáp và dây dẫn tín hiệu, các bộ phận tạo thành tuyến liên kết các thiết bị của hệ thống báo cháy với nhau.
 
-**3.6**
-
-**Trung tâm báo cháy** (Fire alarm control panel)
+**3.6****Trung tâm báo cháy** (Fire alarm control panel)
 
 Thiết bị cung cấp năng lượng cho các đầu báo cháy tự động và các thiết bị khác trong hệ thống và thực hiện các chức năng sau đây:
 
@@ -248,7 +232,7 @@ CHÚ THÍCH: Hiện tượng đặc trưng của sự cháy là hiện tượng 
 
 **5.1**  Trung tâm báo cháy phải có chức năng tự động kiểm tra tín hiệu từ các đầu báo cháy, kênh báo cháy và các thiết bị báo cháy khác truyền về để loại trừ các tín hiệu báo cháy giả. Không được dùng các trung tâm không có chức năng báo cháy làm trung tâm báo cháy tự động.
 
-**5.2**  Trung tâm báo cháy phải đặt ở những nơi thường xuyên có người trực suốt ngày đêm. Trong trường hợp không có người trực suốt ngày đêm, trung tâm báo cháy phải có chức năng truyền các tín hiệu báo cháy và báo sự cố đến nơi trực cháy hay nơi có người thường trực suốt ngày đêm và phải có biện pháp phòng ngừa người không có nhiệm vụ tiếp xúc với trung tâm báo cháy.
+**5.2**  Trung tâm báo cháy phải đặt ở những nơi thường xuyên có người trực suốt ngày đêm. Trong trường hợp không có người trực suốt ngày đêm, trung tâm báo cháy phải có chức năng truyền các tín hiệu báo cháy và báo sự cố đến nơi trực cháy hay nơi có người thường trực suốt ngày đêm và phải có biện pháp phòng ngừa người không có nhiệm vụ tiếp xúc với trung tâm báo cháy.Z
 
 Nơi đặt các trung tâm báo cháy phải có điện thoại liên lạc trực tiếp với đơn vị cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ hay nơi nhận tin báo cháy.
 
@@ -581,33 +565,33 @@ Khi sử dụng ắc quy làm nguồn điện, ắc quy phải được nạp đ
 
 **Chọn đầu báo cháy tự động theo tính chất các cơ sở được trang bị**
 
-|   |   |   |
-|---|---|---|
-|**STT**|**Tính chất cơ sở được trang bị**|**Thiết bị báo cháy**|
-|**A. Cơ sở sản xuất**|   ||
-|I. Cơ sở sản xuất và bảo quản, lưu trữ|   ||
-|1|Gỗ và sản phẩm gỗ, hàng dệt, nhựa quần áo may sẵn, giày da, hàng lông thú, thuốc lá, giấy, xenluloit, bông. Nhựa tổng hợp, sợi tổng hợp, vật liệu pôlime, cao su, sản phẩm cao su, cao su nhân tạo, phim ảnh và phim X quang dễ cháy.|nhiệt, khói, lửa|
-|2|Vecni, sơn, dung môi, chất lỏng cháy, hóa chất, dầu bôi trơn, sản phẩm có còn.|khói, lửa|
-|3|Kim loại kiềm, bột kim loại.|lửa|
-|4|Bột ngũ cốc, thức ăn tổng hợp và thực phẩm khác, vật liệu toả bụi.|nhiệt, lửa|
-|II. Cơ sở sản xuất:|   ||
-||Giấy, các tông, giấy dán tường, thức ăn gia súc và gia cầm.|nhiệt, khói hoặc lửa|
-|III. Cơ sở bảo quản, lưu trữ:|   ||
-|1|Vật liệu không cháy đựng trong bao bì bằng vật liệu cháy được, chất rắn cháy được.|nhiệt hoặc khói|
-|2|Khu vực có thiết bị máy tính, thiết bị radio, tổng đài.|khói|
-|**B. Công trình chuyên dùng:**|   ||
-|1|Phòng đặt dây cáp, phòng máy biến thể, thiết bị phân phối và bảng điện.|nhiệt hoặc khói|
-|2|Phòng để thiết bị và ống dẫn chất lỏng dễ cháy, chất dầu mỡ, phòng thử động cơ đốt trong, phòng thử máy nhiên liệu, phòng nạp khí cháy.|nhiệt hoặc lửa|
-|3|Xưởng bảo dưỡng, sửa chữa ôtô, gara để xe.|nhiệt, khói hoặc lửa|
-|**C. Nhà và công trình công cộng:**|   ||
-|1|Phòng biểu diễn, phòng tập, giảng đường, phòng đọc và hội thảo, phòng diễn viên, phòng hoá trang, phòng để quần áo, nơi sửa chữa, phòng đợi, phòng nghỉ, hành lang, phòng đệm, phòng bảo quản sách, phòng lưu trữ, không gian phía trên trần treo.|khói|
-|2|Khu vực hoạt động Nghệ thuật, tủ quần áo, xưởng phục chế, phòng chiếu phim và ánh sáng, phòng dụng cụ, phòng tối.|nhiệt, khói hoặc lửa|
-|3|Phòng ở, phòng bệnh nhân, kho hàng hóa, nhà ăn công cộng, bếp. Phòng hành chính quản trị, văn phòng, phòng máy, phòng điều khiển.|nhiệt, khói|
-|4|Phòng bệnh, cơ sở thương mại, ăn uống công cộng, dịch vụ, phòng, khách sạn lưu trú và ký túc xá.|nhiệt, khói|
-|5|Phòng trưng bày, phòng lưu trữ hiện vật của viện bảo tàng, triển lãm.|nhiệt, khói hoặc lửa|
-|**D**|**Nhà và công trình có khối tích lớn:**||
-|1|Khoảng thông tầng, sảnh sản xuất, nhà kho, trung tâm logistic, cơ sở mua sắm, nhà ga hành khách, sân vận động và nhà thi đấu thể thao, rạp xiếc, v.v.|khói|
-|2|Phòng máy tính, radio, phòng máy chủ, tổng đài, Trung tâm dữ liệu, trung tâm chăm sóc khách hàng.|khói|
+|                                        |                                                                                                                                                                                                                                                    |                       |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **STT**                                | **Tính chất cơ sở được trang bị**                                                                                                                                                                                                                  | **Thiết bị báo cháy** |
+| **A. Cơ sở sản xuất**                  |                                                                                                                                                                                                                                                    |                       |
+| I. Cơ sở sản xuất và bảo quản, lưu trữ |                                                                                                                                                                                                                                                    |                       |
+| 1                                      | Gỗ và sản phẩm gỗ, hàng dệt, nhựa quần áo may sẵn, giày da, hàng lông thú, thuốc lá, giấy, xenluloit, bông. Nhựa tổng hợp, sợi tổng hợp, vật liệu pôlime, cao su, sản phẩm cao su, cao su nhân tạo, phim ảnh và phim X quang dễ cháy.              | nhiệt, khói, lửa      |
+| 2                                      | Vecni, sơn, dung môi, chất lỏng cháy, hóa chất, dầu bôi trơn, sản phẩm có còn.                                                                                                                                                                     | khói, lửa             |
+| 3                                      | Kim loại kiềm, bột kim loại.                                                                                                                                                                                                                       | lửa                   |
+| 4                                      | Bột ngũ cốc, thức ăn tổng hợp và thực phẩm khác, vật liệu toả bụi.                                                                                                                                                                                 | nhiệt, lửa            |
+| II. Cơ sở sản xuất:                    |                                                                                                                                                                                                                                                    |                       |
+|                                        | Giấy, các tông, giấy dán tường, thức ăn gia súc và gia cầm.                                                                                                                                                                                        | nhiệt, khói hoặc lửa  |
+| III. Cơ sở bảo quản, lưu trữ:          |                                                                                                                                                                                                                                                    |                       |
+| 1                                      | Vật liệu không cháy đựng trong bao bì bằng vật liệu cháy được, chất rắn cháy được.                                                                                                                                                                 | nhiệt hoặc khói       |
+| 2                                      | Khu vực có thiết bị máy tính, thiết bị radio, tổng đài.                                                                                                                                                                                            | khói                  |
+| **B. Công trình chuyên dùng:**         |                                                                                                                                                                                                                                                    |                       |
+| 1                                      | Phòng đặt dây cáp, phòng máy biến thể, thiết bị phân phối và bảng điện.                                                                                                                                                                            | nhiệt hoặc khói       |
+| 2                                      | Phòng để thiết bị và ống dẫn chất lỏng dễ cháy, chất dầu mỡ, phòng thử động cơ đốt trong, phòng thử máy nhiên liệu, phòng nạp khí cháy.                                                                                                            | nhiệt hoặc lửa        |
+| 3                                      | Xưởng bảo dưỡng, sửa chữa ôtô, gara để xe.                                                                                                                                                                                                         | nhiệt, khói hoặc lửa  |
+| **C. Nhà và công trình công cộng:**    |                                                                                                                                                                                                                                                    |                       |
+| 1                                      | Phòng biểu diễn, phòng tập, giảng đường, phòng đọc và hội thảo, phòng diễn viên, phòng hoá trang, phòng để quần áo, nơi sửa chữa, phòng đợi, phòng nghỉ, hành lang, phòng đệm, phòng bảo quản sách, phòng lưu trữ, không gian phía trên trần treo. | khói                  |
+| 2                                      | Khu vực hoạt động Nghệ thuật, tủ quần áo, xưởng phục chế, phòng chiếu phim và ánh sáng, phòng dụng cụ, phòng tối.                                                                                                                                  | nhiệt, khói hoặc lửa  |
+| 3                                      | Phòng ở, phòng bệnh nhân, kho hàng hóa, nhà ăn công cộng, bếp. Phòng hành chính quản trị, văn phòng, phòng máy, phòng điều khiển.                                                                                                                  | nhiệt, khói           |
+| 4                                      | Phòng bệnh, cơ sở thương mại, ăn uống công cộng, dịch vụ, phòng, khách sạn lưu trú và ký túc xá.                                                                                                                                                   | nhiệt, khói           |
+| 5                                      | Phòng trưng bày, phòng lưu trữ hiện vật của viện bảo tàng, triển lãm.                                                                                                                                                                              | nhiệt, khói hoặc lửa  |
+| **D**                                  | **Nhà và công trình có khối tích lớn:**                                                                                                                                                                                                            |                       |
+| 1                                      | Khoảng thông tầng, sảnh sản xuất, nhà kho, trung tâm logistic, cơ sở mua sắm, nhà ga hành khách, sân vận động và nhà thi đấu thể thao, rạp xiếc, v.v.                                                                                              | khói                  |
+| 2                                      | Phòng máy tính, radio, phòng máy chủ, tổng đài, Trung tâm dữ liệu, trung tâm chăm sóc khách hàng.                                                                                                                                                  | khói                  |
 
 **Phụ lục B**
 
