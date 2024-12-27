@@ -2,11 +2,11 @@
 
 **TCVN 9206 : 2012**
 
-ĐẶT THIẾT BỊ ĐIỆN TRONG NHÀ Ở VÀ CÔNG TRÌNH CÔNG CỘNG - TIÊU CHUẨN THIẾT KẾ ^b10a4c
+# ĐẶT THIẾT BỊ ĐIỆN TRONG NHÀ Ở VÀ CÔNG TRÌNH CÔNG CỘNG - TIÊU CHUẨN THIẾT KẾ ^b10a4c
 
 _Installation of electric equipments in dwellings and public building - design standard_
 
-**Lời nói đầu**
+## **Lời nói đầu**
 
 Tiêu chuẩn TCVN 9206 : 2012 thay thế tiêu chuẩn TCXD 27 : 1991
 
@@ -18,13 +18,13 @@ TCVN 9206 : 2012 do Trường Đại học Kiến Trúc Hà Nội biên soạn, 
 
 **_Installation of electric equipments in dwellings and public building - design standard_**
 
-**1 Phạm vi áp dụng**
+## **1 Phạm vi áp dụng**
 
 **1.1** Tiêu chuẩn này được áp dụng để thiết kế đặt các thiết bị điện trong các loại nhà ở (nhà ở có căn hộ, nhà ở có sân vườn, nhà ở kiểu khách sạn, ký túc xá…), đồng thời cũng áp dụng cho các loại công trình công cộng khác.
 
 **1.2** Việc thiết kế đặt các thiết bị điện trong nhà ở và công trình công cộng còn phải thỏa mãn các yêu cầu quy định của các tiêu chuẩn, quy phạm hiện hành có liên quan. Với các công trình công cộng còn phải tuân theo các yêu cầu quy định của các tiêu chuẩn, quy phạm hiện hành của mỗi loại công trình.
 
-**2 Tài liệu viện dẫn**
+## **2 Tài liệu viện dẫn**
 
 Các tài liệu viện dẫn sau rất cần thiết cho việc áp dụng tiêu chuẩn này. Đối với các tài liệu viện dẫn ghi năm công bố thì áp dụng phiên bản được nêu. Đối với các tài liệu viện dẫn không ghi năm công bố thì áp dụng phiên bản mới nhất, bao gồm cả các sửa đổi, bổ sung (nếu có):
 
@@ -72,15 +72,13 @@ Các tài liệu viện dẫn sau rất cần thiết cho việc áp dụng tiê
 
 GHI CHÚ: (1) Tiêu chuẩn đang được chuyển đổi thành TCVN
 
-**3 Thuật ngữ và định nghĩa**
+## **3 Thuật ngữ và định nghĩa**
 
 Để hiểu đúng nội dung của tiêu chuẩn, cần thống nhất một số thuật ngữ và định nghĩa như sau:
 
 **3.1** Nhà ở và công trình công cộng là những loại công trình sau:
 
-**3.1.1**
-
-**Nhà ở**
+#### **3.1.1****Nhà ở**
 
 a) Nhà ở (gia đình) riêng biệt;
 
@@ -100,9 +98,7 @@ e) Nhà trọ;
 
 f) Các loại nhà cho đối tượng đặc biệt.
 
-**3.1.2**
-
-**Công trình công cộng**
+#### **3.1.2** **Công trình công cộng**
 
 a) Công trình văn hóa:
 
@@ -178,27 +174,19 @@ i) Nhà phục vụ giao thông: nhà ga các loại;
 
 j) Các công trình công cộng khác (như công trình tôn giáo).
 
-**3.2**
-
-**Thiết bị đầu vào (ĐV)**
+#### **3.2****Thiết bị đầu vào (ĐV)**
 
 Thiết bị đầu vào (ĐV) là tập hợp của các kết cấu, thiết bị và khí cụ điện đặt ở đầu dây cung cấp điện vào nhà hoặc vào một phần nhà.
 
-**3.3**
-
-**Thiết bị phân phối đầu vào (PPĐV)**
+#### **3.3****Thiết bị phân phối đầu vào (PPĐV)**
 
 Thiết bị phân phối đầu vào (PPĐV) là tập hợp các kết cấu, thiết bị và khí cụ điện đặt ở đầu đường dây cung cấp điện vào nhà hoặc một phần nhà, cũng như đặt ở đầu đường dây từ ĐV ra.
 
-**3.4**
-
-**Bảng (hộp, tủ) phân phối chính (PPC)**
+### **3.4 Bảng (hộp, tủ) phân phối chính (PPC)**
 
 Bảng (hộp, tủ) phân phối chính (PPC) là bảng (hộp, tủ) dùng để cấp điện năng cho nhà hoặc một phần nhà. Có thể dùng PPĐV hoặc bảng (tủ) điện hạ áp của trạm PPC.
 
-**3.5**
-
-**Bảng (hộp, tủ) phân phối phụ (PPP)**
+**3.5****Bảng (hộp, tủ) phân phối phụ (PPP)**
 
 Bảng (hộp, tủ) phân phối phụ (PPP) là bảng (hộp, tủ) phân phối điện năng từ PPC hoặc PPĐV và phân phối tới các bảng (hộp, tủ) điện nhóm và các bảng điện phân phối của nhà.
 
@@ -368,17 +356,17 @@ b) Môi trường hoạt tính hóa học;
 
 c) Đồng thời có 2 yếu tố của phòng hoặc nơi nguy hiểm.
 
-**4 Quy định chung**
+## **4 Quy định chung**
 
 **4.1** Khi thiết kế cấp điện cho nhà ở và công trình công cộng phải đảm bảo các yêu cầu quy định đối với mỗi loại hộ tiêu thụ điện về độ tin cậy cung cấp điện theo chương I.2 quy phạm trang bị điện 11 TCN 18 : 2006. Phân loại các hộ tiêu thụ điện và thiết bị tiêu thụ điện theo độ tin cậy cung cấp điện xem phụ lục A.
 
-**4.2** Điện áp phải tính toán để cấp điện cho các thiết bị điện trong nhà ở và công trình công cộng (trừ cho các động cơ điện) không được lớn hơn 380/220 V. Với những công trình hiện có điện áp lưới 220/110 V cần chuyển sang điện áp lưới 380/220 V nếu xét thấy phù hợp các yêu cầu kinh tế kỹ thuật.
+**4.2** ==Điện áp phải tính toán để cấp điện cho các thiết bị điện trong nhà ở và công trình công cộng (trừ cho các động cơ điện) không được lớn hơn 380/220 V==. Với những công trình hiện có điện áp lưới 220/110 V cần chuyển sang điện áp lưới 380/220 V nếu xét thấy phù hợp các yêu cầu kinh tế kỹ thuật.
 
-**4.3** Cấp điện cho các động cơ điện (máy điện) phải lấy từ lưới điện 380/220 V trung tính nối đất trực tiếp.
+==**4.3** Cấp điện cho các động cơ điện (máy điện) phải lấy từ lưới điện 380/220 V trung tính nối đất trực tiếp.==
 
 **4.4** Trong nhà ở và các công trình công cộng cần dự phòng một công suất không dưới 5% tổng công suất của công trình để cấp điện chiếu sáng quảng cáo, tủ kính quầy hàng, trang trí mặt nhà, các bảng và các tín hiệu chỉ dẫn bằng ánh sáng, các hệ thống tín hiệu âm thanh, phòng chữa cháy, cũng như các đèn báo chướng ngại vật của công trình.
 
-**4.5** Tổn thất điện áp ở cực của các bóng đèn và của các thiết bị động lực đặt xa nhất so với điện áp định mức không được vượt quá các trị số sau:
+**4.5** T<span style="background:rgba(240, 167, 216, 0.55)">ổn thất điện áp ở cực của các bóng đèn và của các thiết bị động lực đặt xa nhất so với điện áp định mức không được vượt quá các trị số sau:</span>
 
 - Đối với chiếu sáng làm việc: 5%;
 
@@ -398,7 +386,7 @@ CHÚ THÍCH 1: Các lưới điện, kể cả lưới điện điều khiển t
 
 CHÚ THÍCH 2: Các lưới điện chiếu sáng, khi ở chế độ sự cố, cho phép giảm điện áp tới 12% trị số điện áp định mức.
 
-**5 Phụ tải tính toán**
+## **5 Phụ tải tính toán**
 
 **5.1** Công suất tính toán cho nhà ở và công trình công cộng được xác định theo số lượng và công  suất của thiết bị điện dự kiến lắp đặt trong công trình, áp dụng hệ số sử dụng lớn nhất Ku, hệ số đồng thời Ks và hệ số yêu cầu Kyc.
 
@@ -412,7 +400,7 @@ Kyc - Hệ số yêu cầu đối với phụ tải chiếu sáng trong công tr
 
 Pdi - Công suất điện định mức của bộ đèn thứ i.
 
-**Bảng 1 - Hệ số yêu cầu cho phụ tải chiếu sáng, xem bảng 220.42 tiêu chuẩn NEC 2008**
+### **Bảng 1 - Hệ số yêu cầu cho phụ tải chiếu sáng, xem bảng 220.42 tiêu chuẩn NEC 2008**
 
 |   |   |   |
 |---|---|---|
@@ -427,7 +415,7 @@ CHÚ THÍCH: Hệ số yêu cầu cho bảng này không áp dụng cho các ph�
 
 b) Khi chưa có thiết kế chiếu sáng cho công trình thì phụ tải chiếu sáng được xác định dựa trên suất phụ tải chiếu sáng trên đơn vị diện tích sàn (m2). Suất phụ tải chiếu sáng phụ thuộc vào kiểu chiếu sáng, loại đèn sử dụng, chỉ số địa điểm chiếu sáng và độ rọi yêu cầu. Suất phụ tải biểu kiến áp dụng cho các công việc khác nhau ứng với chiếu sáng bằng đèn huỳnh quang với máng đèn công nghiệp có bù hệ số công suất cosj tới trị số 0,86 được trong Bảng 2
 
-**Bảng 2 - Suất phụ tải biểu kiến chiếu sáng**
+### **Bảng 2 - Suất phụ tải biểu kiến chiếu sáng**
 
 |   |   |   |
 |---|---|---|
@@ -444,7 +432,7 @@ a) Ổ cắm dùng cho thiết bị điện cụ thể phải được tính to�
 
 b) Khi không có số liệu cụ thể về thiết bị điện sử dụng ổ cắm hoặc ứng dụng cụ thể của ổ cắm thì công suất mạch ổ cắm được xác định như sau:
 
-- Đối với nhà làm việc, trụ sở, văn phòng công suất phụ tải từ các ổ cắm điện phải được tính toán với suất phụ tải không nhỏ hơn 25 VA/m2 sàn, xem điều 220.14 tiêu chuẩn NEC 2008;
+- ==Đối với nhà làm việc, trụ sở, văn phòng công suất phụ tải từ các ổ cắm điện phải được tính toán với suất phụ tải không nhỏ hơn 25 VA/m2 sàn==, xem điều 220.14 tiêu chuẩn NEC 2008;
 
 - Đối với nhà ở và các công trình công cộng khác, công suất cho mỗi ổ cắm đơn không nhỏ hơn 180 VA hoặc đối với mỗi đơn vị ổ cắm trên một giá kẹp. Đối với thiết bị chứa ổ cắm cấu tạo từ 4 đơn vị ổ cắm trở lên thì công suất ổ cắm được tính toán không nhỏ hơn 90 VA trên mỗi đơn vị ổ cắm, xem điều 220.14 tiêu chuẩn NEC 2008.
 
@@ -452,7 +440,7 @@ b) Khi không có số liệu cụ thể về thiết bị điện sử dụng �
 
 Tuy nhiên, phụ tải tính toán cho lộ dây không được nhỏ hơn tổng hai phụ tải bếp lớn nhất.
 
-**Bảng 3 - Hệ số yêu cầu đối với các thiết bị bếp**
+### **Bảng 3 - Hệ số yêu cầu đối với các thiết bị bếp**
 
 |   |   |
 |---|---|
@@ -496,7 +484,7 @@ n - Số căn hộ trong tòa nhà;
 
 Ks - Hệ số đồng thời của phụ tải khối căn hộ, được xác định theo Bảng 4.
 
-**Bảng 4 - Hệ số đồng thời trong nhà tập thể, chung cư**
+### **Bảng 4 - Hệ số đồng thời trong nhà tập thể, chung cư**
 
 |   |   |   |
 |---|---|---|
@@ -538,7 +526,7 @@ n - Số động cơ;
 
 Pbti - Công suất điện định mức (kW) của động cơ bơm nước, quạt thông gió thứ i.
 
-**Bảng 5 - Hệ số yêu cầu Kyc của nhóm phụ tải bơm nước, thông gió**
+### **Bảng 5 - Hệ số yêu cầu Kyc của nhóm phụ tải bơm nước, thông gió**
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
@@ -563,7 +551,7 @@ Pgi - Công suất (kw) tiêu thụ của các khí cụ điều khiển và cá
 Pvi - Hệ số gián đoạn của động cơ điện theo lí lịch thang máy thứ i nếu không có số liệu cụ thể có thể lấy giá trị của Pvi = 1;
 
 Kyc - Hệ số yêu cầu của nhóm phụ tải thang máy, với nhà ở xác định theo bảng 6.
-
+### 
 **Bảng 6 - Hệ số yêu cầu Kyc của thang máy trong các công trình nhà ở**
 
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -581,7 +569,7 @@ Kyc - Hệ số yêu cầu của nhóm phụ tải thang máy, với nhà ở x�
 |25 - 30|-|-|1|1|1|1|0,90|0,85|0,80|0,75|0,62|0,53|
 |31 - 40|-|-|1|1|1|1|0,93|0,87|0,82|0,78|0,64|0,55|
 
-**5.6.2.3 Công suất tính toán (kW) của điều hòa trung tâm hoặc bán trung tâm**
+### **5.6.2.3 Công suất tính toán (kW) của điều hòa trung tâm hoặc bán trung tâm**
 
 Công suất tính toán của phụ tải điều hòa trung tâm hoặc bán trung tâm sẽ được tính toán quy đổi từ yêu cầu công suất trao đổi nhiệt của hệ thống điều hòa trung tâm hoặc bán trung tâm và các thiết bị tiêu thụ điện khác của hệ thống.
 
@@ -623,7 +611,7 @@ Ks - Hệ số đồng thời của phụ tải khối phòng nghỉ, lấy bằ
 
 **5.7.2** Công suất tính toán (kW) của phụ tải động lực trong công trình nhà khách, khách sạn được tính như cho nhà ở tập thể, chung cư, nhà trọ, xem điều 5.3.2, nhưng hệ số yêu cầu đối với nhóm phụ tải thang máy tuân theo Bảng 7.
 
-**Bảng 7 - Hệ số yêu cầu Kyc của thang máy trong nhà khách, khách sạn**
+### **Bảng 7 - Hệ số yêu cầu Kyc của thang máy trong nhà khách, khách sạn**
 
 |   |   |   |
 |---|---|---|
@@ -640,7 +628,7 @@ Ks - Hệ số đồng thời của phụ tải khối phòng nghỉ, lấy bằ
 
 **5.11** Hệ số đồng thời theo số mạch điện của tủ điện phân phối hoặc tủ điện phân phối phụ được xác định theo Bảng 8
 
-**Bảng 8 - Hệ số đồng thời của tủ phân phối theo số mạch**
+### **Bảng 8 - Hệ số đồng thời của tủ phân phối theo số mạch**
 
 |   |   |   |
 |---|---|---|
@@ -655,7 +643,7 @@ Ks - Hệ số đồng thời của phụ tải khối phòng nghỉ, lấy bằ
 
 Hệ số đồng thời dùng cho các mạch cung cấp điện cho tải thông dụng được cho trong Bảng 9.
 
-**Bảng 9 - Hệ số đồng thời theo các chức năng của mạch**
+### **Bảng 9 - Hệ số đồng thời theo các chức năng của mạch**
 
 |   |   |
 |---|---|
@@ -668,7 +656,7 @@ Hệ số đồng thời dùng cho các mạch cung cấp điện cho tải thô
 
 **5.13** Công suất tính toán phụ tải đầu vào công trình công cộng phải lấy theo tính toán kỹ thuật của công trình. Khi lập thiết kế cơ sở cũng như thiết kế kỹ thuật, dùng các trị số ở Bảng 10.
 
-**Bảng 10 - Chỉ tiêu cấp điện công trình công cộng, dịch vụ**
+### **Bảng 10 - Chỉ tiêu cấp điện công trình công cộng, dịch vụ**
 
 |   |   |   |
 |---|---|---|
@@ -704,13 +692,13 @@ n1, n2,… ni­ - Số lượng thiết bị điện cùng làm việc đồng t
 
 **5.16** Khi thiết kế lưới điện nhóm chiếu sáng công trình công cộng phải lấy phụ tải tính toán theo tính toán kỹ thuật chiếu sáng với hệ số đồng thời và hệ số sử dụng lớn nhất bằng 1.
 
-**6 Trạm biến áp, thiết bị đầu vào, bảng (hộp, tủ) điện, thiết bị bảo vệ**
+## **6 Trạm biến áp, thiết bị đầu vào, bảng (hộp, tủ) điện, thiết bị bảo vệ**
 
 **6.1** Vị trí trạm biến áp (TBA)
 
 a) Đối với nhà ở, bệnh viện, trường học:
 
-- Cho phép đặt TBA ở trong nhà nếu TBA sử dụng máy biến áp khô và phải đảm bảo mức ồn cho phép theo tiêu chuẩn TCXD 175 - 1990, không trái với quy định ở điều I.1.13 của quy phạm trang bị điện 11 TCN-18-2006.
+- Cho phép đặt TBA ở trong nhà nếu TBA ==sử dụng máy biến áp khô== và phải đảm bảo mức ồn cho phép theo tiêu chuẩn TCXD 175 - 1990, không trái với quy định ở điều I.1.13 của quy phạm trang bị điện 11 TCN-18-2006.
 
 - Cấm đặt TBA kề sát các phòng ở, phòng bệnh nhân, phòng học và các phòng làm việc.
 
@@ -718,9 +706,9 @@ b) Đối với công trình công cộng khác:
 
 - Được đặt trạm biến áp ở trong nhà hoặc kề sát nhà nhưng phải đảm bảo mức ồn cho phép theo tiêu chuẩn TCXD 175 - 1990, không trái với quy định ở điều I.1.13 của 11 TCN-18-2006, TBA phải có tường ngăn cháy với phòng kề sát và có lối ra thông trực tiếp với không gian bên ngoài.
 
-c) Trạm biến áp nên đặt ở tầng trệt và phải có lối thông trực tiếp ra đường phố theo yêu cầu phòng cháy. Trong trạm có thể đặt máy biến áp (MBA) có hệ thống làm mát bất kỳ.
+<span style="background:rgba(240, 167, 216, 0.55)">c) Trạm biến áp nên đặt ở tầng trệt và phải có lối thông trực tiếp ra đường phố theo yêu cầu phòng cháy. Trong trạm có thể đặt máy biến áp (MBA) có hệ thống làm mát bất kỳ.</span>
 
-**6.2** Bố trí trạm biến áp
+#### **6.2** Bố trí trạm biến áp
 
 a) Nơi đặt thiết bị phân phối điện áp đến 1000V mà người quản lý của hộ tiêu thụ điện tới được không cho phép thông với nơi đặt thiết bị điện phân phối cao áp và máy biến áp mà phải có cửa đi riêng có khóa.
 
@@ -734,7 +722,7 @@ c) Không được bố trí gian máy biến áp và thiết bị phân phối 
 
 - Bố trí và lắp đặt máy biến áp cần tuân theo các quy định trong tiêu chuẩn 11TCN - 20 - 2006 "Quy phạm trang bị điện" phần III trang bị phân phối và trạm biến áp.
 
-**6.3** Yêu cầu đặt thiết bị đầu vào:
+#### **6.3** Yêu cầu đặt thiết bị đầu vào:
 
 a) Ở đầu vào công trình phải đặt ĐV hoặc PPĐV.
 
@@ -778,7 +766,7 @@ Phòng đặt bảng (tủ, hộp) điện phải có cánh cửa mở ra phía 
 
 **6.9** Phòng đặt ĐV, PPĐV, PPC, bảng (tủ, hộp) phân phối điện phải được thông gió tự nhiên và chiếu sáng bằng điện.
 
-**7 Lưới điện trong nhà**
+## **7 Lưới điện trong nhà**
 
 **7.1** Lưới điện trong nhà phải thực hiện theo các yêu cầu sau:
 
@@ -826,20 +814,20 @@ Cho phép đặt đường dây cấp điện cho căn hộ cùng với đườn
 
 CHÚ THÍCH: Với lưới điện 3 pha 4 dây, khi mặt cắt dây pha đến 16mm2 (đồng) và 25mm2 (nhôm) thì dây trung tính của đoạn đứng phải có mặt cắt bằng mặt cắt dây pha. Nếu mặt cắt dây pha lớn hơn các trị số trên thì mặt cắt dây trung tính không được nhỏ quá 50% mặt cắt dây pha. ^qj14v1
 
-**Bảng 11 - Quy định về mặt cắt ruột dây dẫn nhỏ nhất của lưới điện trong nhà** ^n0iztd
+### **Bảng 11 - Quy định về mặt cắt ruột dây dẫn nhỏ nhất của lưới điện trong nhà** 
 
-|   |   |   |
-|---|---|---|
-|**Tên đường dây**|**Mặt cắt nhỏ nhất của ruột dây dẫn (mm2)**|   |
-|**Đồng**|**Nhôm**|
-|- Lưới điện nhóm chiếu sáng không có ổ cắm.|1,5|2,5|
-|- Lưới điện nhóm chiếu sáng có ổ cắm điện; lưới điện nhóm ổ cắm; lưới điện phân phối động lực.|2,5|4|
-|- Đường dây từ tủ điện tầng đến tủ điện các phòng.|4|6|
-|- Đường dây trục đứng cấp điện cho một hoặc một số tầng.|6|10|
+|                                                                                                |                                             |          |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------- | -------- |
+| **Tên đường dây**                                                                              | **Mặt cắt nhỏ nhất của ruột dây dẫn (mm2)** |          |
+|                                                                                                | **Đồng**                                    | **Nhôm** |
+| - Lưới điện nhóm chiếu sáng không có ổ cắm.                                                    | 1,5                                         | 2,5      |
+| - Lưới điện nhóm chiếu sáng có ổ cắm điện; lưới điện nhóm ổ cắm; lưới điện phân phối động lực. | 2,5                                         | 4        |
+| - Đường dây từ tủ điện tầng đến tủ điện các phòng.                                             | 4                                           | 6        |
+| - Đường dây trục đứng cấp điện cho một hoặc một số tầng.                                       | 6                                           | 10       |
 
 **7.10** Khi đặt đường dẫn điện còn phải tuân theo các quy định của tiêu chuẩn đặt đường dây dẫn điện trong nhà ở và công trình công cộng TCXD 25 : 1991 và quy phạm trang bị điện 11TCN 18-2006.
 
-**8 Đặt đèn điện**
+## **8 Đặt đèn điện**
 
 **8.1** Điện áp cung cấp cho các đèn điện chiếu sáng chung không vượt quá 380/220 V với lưới điện xoay chiều có trung tính nối đất trực tiếp và không vượt quá 220 V với lưới điện xoay chiều trung tính cách li và điện một chiều.
 
@@ -897,7 +885,7 @@ Chỉ cho phép dùng những thang thông thường khi đèn đặt cách sàn
 
 Hiệu suất thấp nhất của bóng đèn và tổn thất chấn lưu của các loại đèn phải đáp ứng yêu cầu của QCXDVN - 09 - 2005.
 
-**9 Đật thiết bị điện trong nhà**
+### **9 Đặt thiết bị điện trong nhà**
 
 **9.1** Các thiết bị điện đặt trong nhà phải được chọn phù hợp với điện áp của mạng lưới điện cung cấp, tính chất môi trường và yêu cầu sử dụng.
 
@@ -909,17 +897,17 @@ Hiệu suất thấp nhất của bóng đèn và tổn thất chấn lưu của
 
 **9.5** Cắm đặt ổ cắm điện trong các phòng vệ sinh xí tắm công cộng. Riêng trong các phòng tắm của nhà ở căn hộ, nhà có sân vườn, nhà ở kiểu khách sạn, nhà nghỉ… cho phép đặt ổ cắm điện nhưng ổ cắm điện này phải là loại ổ cắm chịu nước và đặt ở vùng ít nguy hiểm nhất.
 
-**9.6** Trong các trường học phổ thông cơ sở, trường mẫu giáo, nhà trẻ, và các nơi dành cho thiếu nhi sử dụng, ổ cắm điện phải đặt cao cách sàn 1,5 m.
+==**9.6** Trong các trường học phổ thông cơ sở, trường mẫu giáo, nhà trẻ, và các nơi dành cho thiếu nhi sử dụng, ổ cắm điện phải đặt cao cách sàn 1,5 m.==
 
-Trong các phòng của nhà ở các loại, ổ cắm điện nên đặt cao cách sàn 1,5
+==Trong các phòng của nhà ở các loại, ổ cắm điện nên đặt cao cách sàn 1,5==
 
 Trong các phòng của các công trình công cộng, ổ cắm điện đặt cao cách sàn từ 0,4 m đến 0,5 m tùy thuộc các yêu cầu kỹ thuật, yêu cầu sử dụng và bố trí nội thất.
 
 **9.7** Trong các cửa hàng, nhà hàng, xí nghiệp dịch vụ thương nghiệp và công cộng, các công tắc đèn chiếu sáng làm việc, chiếu sáng sự cố và sơ tán người trong các gian hàng, phòng ăn… và ở các phòng đông người phải đặt ở các nơi chỉ có người quản lí tới được để điều khiển.
 
-**9.8** Công tác đèn phải đặt ở tường, gần cửa ra vào (phía tay nắm của cánh cửa) ở độ cao cách sàn nhà 1,25 m.
+==**9.8** Công tác đèn phải đặt ở tường, gần cửa ra vào (phía tay nắm của cánh cửa) ở độ cao cách sàn nhà 1,25 m.==
 
-Trong các trường học phổ thông cơ sở, trường mẫu giáo, nhà trẻ, vườn trẻ và các nơi dành cho thiếu nhi sử dụng, công tắc đèn phải đặt cách sàn 1,5 m.
+==Trong các trường học phổ thông cơ sở, trường mẫu giáo, nhà trẻ, vườn trẻ và các nơi dành cho thiếu nhi sử dụng, công tắc đèn phải đặt cách sàn 1,5 m.==
 
 **9.9** Trong nhà ở căn hộ, nhà ở có sân vườn, nhà ở kiểu khách sạn, cũng như trong các công trình công cộng cho phép dùng chuông điện áp pha 220 V nhưng phải phù hợp với môi trường xây dựng.
 
@@ -933,21 +921,21 @@ c) Các nút bấm điều khiển thang máy, điều khiển các hệ thống
 
 d) Cho phép đặt động cơ điện ở tầng áp mái nhưng không được đặt trên các phòng ở, phòng làm việc và phải đảm bảo mức ồn cho phép trong các công trình công cộng TCXD 175 - 1990, không trái với quy định của điều I-1.13, 11 TCN-18-2006.
 
-**9.11**  Cấp điện cho thang máy
+#### **9.11**  Cấp điện cho thang máy
 
 a) Thang máy phải được cấp điện trực tiếp từ PPĐV hoặc PPC.
 
-b) Một đường dây chỉ được cấp điện cho từ 1 đến 2 thang máy có cùng tính chất sử dụng trong một gian cầu thang.
+b) ==Một đường dây chỉ được cấp điện cho== từ <span style="background:rgba(240, 167, 216, 0.55)">1 đến 2 thang máy có cùng tính chất sử dụng</span> trong một gian cầu thang.
 
 **9.12** Mạch điều khiển động cơ điện của máy bơm nước vào bể chứa (thùng chứa) nên có thiết bị tự động điều chỉnh mức nước. Điện áp của mạch điện cảm biến đo mức nước ở bể chứa (thùng chứa) không được quá 42 V.
 
-**9.13** Bơm chữa cháy
+#### **9.13** Bơm chữa cháy
 
 a) Động cơ điện của bơm chữa cháy phải được cấp điện theo độ tin cậy cung cấp điện của hộ tiêu thụ điện loại I (phụ lục A).
 
 b) Khi không có động cơ điện dự phòng, động cơ điện của máy bơm chữa cháy làm việc phải được cấp điện bằng 2 đường dây, một trong hai đường dây này phải được nối trực tiếp với bảng phân phối điện của TBA, PPĐV, hoặc PPC. Việc chuyển mạch từ đường dây này sang đường dây khác có thể thực hiện bằng tay hoặc tự động.
 
-**9.14** Điều khiển bằng bơm chữa cháy
+#### **9.14** Điều khiển bằng bơm chữa cháy
 
 a) Ở mỗi họng chữa cháy, phải đặt nút bấm đóng điện cho bơm nước chữa cháy.
 
@@ -957,9 +945,9 @@ c) Khi điều khiển từ xa bơm nước chữa cháy, tại nơi điều khi
 
 **9.15** Phải bố trí các thiết bị đóng cắt mạch điện ở gần động cơ điện để đảm bảo sửa chữa động cơ được an toàn.
 
-**10 Đặt đồng hồ đếm điện**
+### **10 Đặt đồng hồ đếm điện**
 
-**10.1**  Mỗi căn hộ nhà ở phải đặt một đồng hồ đếm điện một pha nhỏ hơn hoặc bằng 40 A. Với căn hộ có yêu cầu đặc biệt hoặc có phụ tải lớn hơn 40 A cho phép đặt một đồng hồ đếm điện 3 pha.
+**10.1**  ==Mỗi căn hộ nhà ở phải đặt một đồng hồ đếm điện một pha== <span style="background:rgba(240, 167, 216, 0.55)">nhỏ hơn hoặc bằng 40 A</span>. <span style="background:rgba(173, 239, 239, 0.55)">Với căn hộ có yêu cầu đặc biệt hoặc có phụ tải lớn hơn 40 A cho phép đặt một đồng hồ đếm điện 3 pha.</span>
 
 **10.2** Trong các công trình công cộng có những hộ tiêu thụ điện không cùng một đơn vị hành chính, phải đặt riêng mỗi hộ một đồng hồ đếm điện.
 
@@ -989,7 +977,7 @@ Khi đồng hồ đếm điện đặt tại các khu vực cầu thang, hành l
 
 **10.13** Ở đầu vào nhà, nếu do yêu cầu khai thác hệ thống thiết bị điện, cho phép đặt ampemét và vôn mét có chuyển mạch để kiểm tra dòng điện và điện áp mỗi pha.
 
-**11 Nối đất, nối trung tính**
+## **11 Nối đất, nối trung tính**
 
 **11.1** Vỏ các thiết bị điện của nhà ở và công trình công cộng phải được nối đất, theo yêu cầu của quy phạm nối đất các thiết bị điện TCVN 4756 : 1989 và quy phạm trang bị điện QTĐ 11 TCN 18 : 2006.
 
@@ -1013,7 +1001,7 @@ Trong các phòng nói trên chỉ nối đất vỏ kim loại của đồ dùn
 
 (Quy định)
 
-**Phân loại các hộ và thiết bị tiêu thụ điện theo độ tin cậy cung cấp điện**
+##### **Phân loại các hộ và thiết bị tiêu thụ điện theo độ tin cậy cung cấp điện**
 
 |   |   |   |   |   |
 |---|---|---|---|---|
