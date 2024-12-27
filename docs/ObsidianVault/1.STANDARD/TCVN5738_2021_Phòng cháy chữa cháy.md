@@ -20,13 +20,13 @@ TCVN 5738 : 2021 do Cục Cảnh sát Phòng cháy, chữa cháy và Cứu nạn
 
 **_Fire protection - Automatic fire alarm system - Technical requirements_**
 
-## **1. Phạm vi áp dụng**
+# **1. Phạm vi áp dụng**
 
 Tiêu chuẩn này quy định yêu cầu kỹ thuật đối với hệ thống báo cháy tự động cho nhà, công trình.
 
 Tiêu chuẩn này không quy định yêu cầu kỹ thuật đối với hệ thống báo cháy tự động cho nhà và công trình được thiết kế theo quy định đặc biệt.
 
-## **2. Tài liệu viện dẫn**
+# **2. Tài liệu viện dẫn**
 
 Các tài liệu viện dẫn sau là cần thiết khi áp dụng tiêu chuẩn này. Đối với các tài liệu viện dẫn ghi năm công bố thì áp dụng bản được nêu. Đối với tài liệu viện dẫn không ghi năm công bố thì áp dụng phiên bản mới nhất, bao gồm cả các bản sửa đổi, bổ sung (nếu có).
 
@@ -34,29 +34,23 @@ TCVN 7568-14:2015 (ISO 7240-14:2013): Hệ thống báo cháy - Phần 14: Thi�
 
 TCVN 7568-10:2015 (ISO 7240-10:2012) Hệ thống báo cháy - Phần 10: đầu báo cháy lửa kiểu điểm.
 
-## **3. Thuật ngữ và định nghĩa**
+# **3. Thuật ngữ và định nghĩa**
 
 Trong tiêu chuẩn này sử dụng các thuật ngữ, định nghĩa sau:
 
-### **3.1 Hệ thống báo cháy tự động** (Automatic fire alarm system)
+ **3.1 Hệ thống báo cháy tự động** (Automatic fire alarm system)
 
 Hệ thống tự động phát hiện và thông báo địa điểm cháy.
 
- **3.1.1**
-
-**Hệ thống báo cháy thường** (Conventional fire alarm system)
+ **3.1.1****Hệ thống báo cháy thường** (Conventional fire alarm system)
 
 Hệ thống báo cháy tự động khi báo cháy sẽ báo đến một khu vực, khu vực đó có thể có một hoặc nhiều đầu báo cháy.
 
-**3.1.2**
-
-**Hệ thống báo cháy địa chỉ** (Addressable fire alarm system)
+**3.1.2****Hệ thống báo cháy địa chỉ** (Addressable fire alarm system)
 
 Hệ thống báo cháy tự động có chức năng thông báo địa chỉ của từng đầu báo cháy.
 
-**3.1.3**
-
-**Hệ thống báo cháy thông minh** (Intelligent fire alarm system)
+**3.1.3***Hệ thống báo cháy thông minh** (Intelligent fire alarm system)
 
 Hệ thống báo cháy tự động ngoài chức năng báo cháy thường và địa chỉ còn có thể đo được một số thông số về cháy của khu vực nơi lắp đặt đầu báo cháy như nhiệt độ, nồng độ khói hoặc / và tự động thay đổi ngưỡng tác động của đầu báo cháy theo yêu cầu của nhà thiết kế và lắp đặt.
 
@@ -178,7 +172,7 @@ Cung cấp cảnh báo bằng âm thanh cho tất cả con người bên trong n
 
 Cung cấp cảnh báo bằng ánh sáng cho tất cả con người bên trong nhà và công trình biết khi có cháy.
 
-### **4. Quy định chung**
+# **4. Quy định chung**
 
 **4.1**  Việc thiết kế, lắp đặt hệ thống báo cháy phải tuân thủ các yêu cầu, quy định của các tiêu chuẩn hiện hành có liên quan.
 
@@ -228,7 +222,7 @@ Không nên sử dụng đầu báo cháy nhiệt cố định trong môi trư�
 
 CHÚ THÍCH: Hiện tượng đặc trưng của sự cháy là hiện tượng được phát hiện ở giai đoạn ban đầu của đám cháy trong thời gian ngắn nhất.
 
-### **5. Trung tâm báo cháy**
+# **5. Trung tâm báo cháy**
 
 **5.1**  Trung tâm báo cháy phải có chức năng tự động kiểm tra tín hiệu từ các đầu báo cháy, kênh báo cháy và các thiết bị báo cháy khác truyền về để loại trừ các tín hiệu báo cháy giả. Không được dùng các trung tâm không có chức năng báo cháy làm trung tâm báo cháy tự động.
 
@@ -254,7 +248,7 @@ Nơi đặt các trung tâm báo cháy phải có điện thoại liên lạc tr
 
 **5.11**  ==Dung lượng trung tâm báo cháy của hệ thống báo cháy thường phải có số kênh dự trữ ít nhất là 10%.==
 
-**6. Đầu báo cháy tự động**
+# **6. Đầu báo cháy tự động**
 
 **6.1**  Các đầu báo cháy tự động phải bảo đảm phát hiện cháy theo chức năng và các đặc tính kỹ thuật quy định tại TCVN 7568-14.
 
@@ -337,7 +331,7 @@ CHÚ THÍCH:
 
 Trường hợp căn phòng có cửa kính hoặc vách kính với hành lang chung mà từ hành lang nhìn được vào trong phòng qua vách kính hoặc cửa kính thì cho phép không lắp đặt các đèn chỉ thị ở phía ngoài căn phòng đó.
 
-**6.10**  Khoảng cách từ đầu báo cháy đến mép ngoài của miệng thổi của các hệ thống thông gió hoặc hệ thống điều hòa không khí không được nhỏ hơn 1 m.
+**6.10**  ==Khoảng cách từ đầu báo cháy đến mép ngoài của miệng thổi của các hệ thống thông gió hoặc hệ thống điều hòa không khí không được nhỏ hơn 1 m.==
 
 Không được lắp đặt đầu báo cháy trực tiếp trước các miệng thổi trên.
 
@@ -364,8 +358,7 @@ Tại những khu vực có nhiều côn trùng phải sử dụng các đầu b
 **6.13**  Đầu báo cháy khói kiểu điểm
 
 Diện tích bảo vệ của một đầu báo cháy khói, khoảng cách tối đa giữa các đầu báo cháy khói với nhau và giữa đầu báo cháy khói với tường nhà phải xác định theo Bảng 1, nhưng không được lớn hơn các trị số ghi trong yêu cầu kỹ thuật và tài liệu kỹ thuật của đầu báo cháy khói.
-
-**Bảng 1 - Quy định lắp đặt đầu báo cháy khói kiểu điểm** ^kgxs94
+### Bảng 1 - Quy định lắp đặt đầu báo cháy khói kiểu điểm** ^kgxs94
 
 |   |   |   |   |
 |---|---|---|---|
@@ -392,7 +385,7 @@ Trong khoảng giữa đầu phát với đầu thu hoặc đầu thu - phát v�
 
 **6.15.1**  Diện tích bảo vệ của một đầu báo cháy nhiệt, khoảng cách tối đa giữa các đầu báo cháy nhiệt với nhau và giữa đầu báo cháy nhiệt với tường nhà phải xác định theo Bảng 2 nhưng không lớn hơn các trị số ghi trong điều kiện kỹ thuật và tài liệu kỹ thuật của đầu báo cháy nhiệt.
 
-**Bảng 2 - Quy định lắp đặt đầu báo cháy nhiệt kiểu điểm** ^kt1txo
+### **Bảng 2 - Quy định lắp đặt đầu báo cháy nhiệt kiểu điểm** ^kt1txo
 
 |   |   |   |   |
 |---|---|---|---|
@@ -432,7 +425,7 @@ Khi khu vực bảo vệ bị che chắn bởi các thiết bị, các giá bả
 
 **6.17.3**  Đầu báo cháy khói kiểu hút phải được lắp đặt theo Bảng 3, tùy thuộc vào loại độ nhạy.
 
-**Bảng 3 - Quy định lắp đặt đầu báo cháy khói kiểu hút**
+### **Bảng 3 - Quy định lắp đặt đầu báo cháy khói kiểu hút**
 
 |   |   |   |
 |---|---|---|
@@ -467,7 +460,7 @@ Thiết bị báo cháy không dây được lắp đặt và sử dụng để 
 
 Thiết bị báo cháy không dây phải được cơ quan có thẩm quyền kiểm định đạt theo tiêu chuẩn ISO 7240-25 hoặc tiêu chuẩn tương đương.
 
-**7. Nút ấn báo cháy**
+# **7. Nút ấn báo cháy**
 
 **7.1**  Nút ấn báo cháy được lắp bên trong cũng như bên ngoài nhà và công trình, được lắp trên tường và các cấu kiện xây dựng ở độ cao 1,4 m ± 0,2 m tính từ mặt sàn hay mặt đất và có một không gian trống dạng nửa đường tròn bán kính 0,6 m xung quanh mặt trước của nút ấn báo cháy.
 
@@ -479,7 +472,7 @@ Thiết bị báo cháy không dây phải được cơ quan có thẩm quyền 
 
 **7.5**  Trường hợp tránh tác động ngoài ý muốn đến nút ấn báo cháy tại nhà chung cư, cơ sở giáo dục phải sử dụng nút ấn báo cháy có nắp trong suốt có bản lề bảo vệ.
 
-**8. Hệ thống cáp và dây tín hiệu, dây cấp nguồn**
+# **8. Hệ thống cáp và dây tín hiệu, dây cấp nguồn**
 
 **8.1**  Việc lựa chọn cáp và dây tín hiệu của hệ thống báo cháy tự động phải thỏa mãn tiêu chuẩn, quy phạm lắp đặt thiết bị và dây dẫn điện hiện hành có liên quan phù hợp với yêu cầu kỹ thuật của tiêu chuẩn này và tài liệu kỹ thuật đối với từng loại thiết bị cụ thể.
 
@@ -507,7 +500,7 @@ Cho phép lắp đặt chung các mạch trên khi có vách ngăn dọc giữa 
 
 **8.10**  Số lượng đầu nối của các hộp đấu dây và số lượng dây dẫn của cáp trục chính phải có dự phòng là 20 %.
 
-**9. Âm thanh và ánh sáng**
+# 9. Âm thanh và ánh sáng**
 
 **9.1** Thiết bị báo động bằng âm thanh:
 
@@ -547,23 +540,23 @@ Lưu ý: Trong trường hợp nhà và công trình có trang bị hệ thống
 
 - Sự cố của thiết bị cảnh báo bằng ánh sáng trong khu vực bất kỳ không làm ảnh hưởng đến hoạt động của các thiết bị cảnh báo bằng ánh sáng trong khu vực khác.
 
-**10. Nguồn điện và tiếp đất bảo vệ**
+# **10. Nguồn điện và tiếp đất bảo vệ**
 
 **10.1**  Trung tâm của hệ thống báo cháy phải có hai nguồn điện độc lập: Một nguồn 220 V xoay chiều và một nguồn là ắc quy dự phòng.
 
-Giá trị dao động của hiệu điện thế của nguồn xoay chiều cung cấp cho trung tâm báo cháy không được vượt quá ±10 %. Trường hợp giá trị dao động này lớn hơn 10 % phải sử dụng ổn áp trước khi cấp cho trung tâm.
+==Giá trị dao động của hiệu điện thế của nguồn xoay chiều cung cấp cho trung tâm báo cháy không được vượt quá ±10 %.== Trường hợp giá trị dao động này lớn hơn 10 % phải sử dụng ổn áp trước khi cấp cho trung tâm.
 
-Dung lượng của ắc quy dự phòng phải bảo đảm ít nhất 24 h cho thiết bị hoạt động ở chế độ thường trực và 1 h khi có cháy.
+<span style="background:rgba(240, 167, 216, 0.55)">Dung lượng của ắc quy dự phòng phải bảo đảm ít nhất 24 h cho thiết bị hoạt động ở chế độ thường trực và 1 h khi có cháy.</span>
 
 Khi sử dụng ắc quy làm nguồn điện, ắc quy phải được nạp điện tự động.
 
 **10.2**  Các trung tâm báo cháy phải được tiếp đất bảo vệ. Việc tiếp đất bảo vệ phải thỏa mãn yêu cầu của quy phạm nối đất thiết bị điện hiện hành.
 
-**Phụ lục A**
+#### **Phụ lục A**
 
 **(Tham khảo)**
 
-**Chọn đầu báo cháy tự động theo tính chất các cơ sở được trang bị**
+##### **Chọn đầu báo cháy tự động theo tính chất các cơ sở được trang bị**
 
 |                                        |                                                                                                                                                                                                                                                    |                       |
 | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
@@ -593,20 +586,20 @@ Khi sử dụng ắc quy làm nguồn điện, ắc quy phải được nạp đ
 | 1                                      | Khoảng thông tầng, sảnh sản xuất, nhà kho, trung tâm logistic, cơ sở mua sắm, nhà ga hành khách, sân vận động và nhà thi đấu thể thao, rạp xiếc, v.v.                                                                                              | khói                  |
 | 2                                      | Phòng máy tính, radio, phòng máy chủ, tổng đài, Trung tâm dữ liệu, trung tâm chăm sóc khách hàng.                                                                                                                                                  | khói                  |
 
-**Phụ lục B**
+#### **Phụ lục B**
 
 **(Tham khảo)**
 
-**Vị trí lắp đặt nút ấn báo cháy tùy thuộc vào mục đích của các tòa nhà và các vị trí**
+#### **Vị trí lắp đặt nút ấn báo cháy tùy thuộc vào mục đích của các tòa nhà và các vị trí**
 
-|   |   |
-|---|---|
-|**Các vị trí**|**Nơi lắp đặt**|
-|1  Công trình công nghiệp, cơ sở vật chất và cơ sở (nhà xưởng, kho, v.v.)|Dọc các tuyến đường thoát nạn, trong các hành lang, tại lối ra từ nhà xưởng, nhà kho|
-|1.1  Một tầng|
-|1.2  Nhiều tầng|Giống như trên và cầu thang của mỗi tầng|
-|2  Các công trình cáp (đường hầm, sàn, vv)|Ở lối vào đường hầm, xuống sàn, tại lối thoát hiểm khẩn cấp từ đường hầm, tại ngã ba của đường hầm|
-|3 Tòa nhà hành chính và công cộng|Trong các hành lang, sảnh, tại khu vực cầu thang, ở lối thoát hiểm của tòa nhà|
+|                                                                           |                                                                                                    |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Các vị trí**                                                            | **Nơi lắp đặt**                                                                                    |
+| 1  Công trình công nghiệp, cơ sở vật chất và cơ sở (nhà xưởng, kho, v.v.) | Dọc các tuyến đường thoát nạn, trong các hành lang, tại lối ra từ nhà xưởng, nhà kho               |
+| 1.1  Một tầng                                                             |                                                                                                    |
+| 1.2  Nhiều tầng                                                           | Giống như trên và cầu thang của mỗi tầng                                                           |
+| 2  Các công trình cáp (đường hầm, sàn, vv)                                | Ở lối vào đường hầm, xuống sàn, tại lối thoát hiểm khẩn cấp từ đường hầm, tại ngã ba của đường hầm |
+| 3 Tòa nhà hành chính và công cộng                                         | Trong các hành lang, sảnh, tại khu vực cầu thang, ở lối thoát hiểm của tòa nhà                     |
 
 **Thư mục tài liệu tham khảo**
 
