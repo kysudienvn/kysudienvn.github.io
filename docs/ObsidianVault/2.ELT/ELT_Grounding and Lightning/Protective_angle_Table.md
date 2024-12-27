@@ -1,5 +1,5 @@
 ---
-title: 
+title: Protective angle Table
 aliases: 
 tags:
   - DEHN

@@ -1,5 +1,5 @@
 ---
-title: KNX
+title: Smart home KNX
 aliases: 
 tags:
   - knx
