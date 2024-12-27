@@ -331,7 +331,7 @@ CHÚ THÍCH:
 
 Trường hợp căn phòng có cửa kính hoặc vách kính với hành lang chung mà từ hành lang nhìn được vào trong phòng qua vách kính hoặc cửa kính thì cho phép không lắp đặt các đèn chỉ thị ở phía ngoài căn phòng đó.
 
-**6.10**  ==Khoảng cách từ đầu báo cháy đến mép ngoài của miệng thổi của các hệ thống thông gió hoặc hệ thống điều hòa không khí không được nhỏ hơn 1 m.==
+**6.10**  ==Khoảng cách từ đầu báo cháy đến mép ngoài của miệng thổi của các hệ thống thông gió hoặc hệ thống điều hòa không khí không được nhỏ hơn 1 m.== ^nwd64l
 
 Không được lắp đặt đầu báo cháy trực tiếp trước các miệng thổi trên.
 

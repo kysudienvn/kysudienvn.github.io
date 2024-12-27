@@ -12,3 +12,4 @@ Releated:
 ---
 
 ![](https://i.imgur.com/IlilqYd.png)
+# LINK [[TCVN5738_2021_Phòng cháy chữa cháy#^nwd64l]]
