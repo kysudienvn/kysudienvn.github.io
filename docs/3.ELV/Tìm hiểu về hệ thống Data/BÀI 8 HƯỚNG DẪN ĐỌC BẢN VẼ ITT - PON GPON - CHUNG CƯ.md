@@ -1,6 +1,7 @@
 ---
-title: 
-aliases: 
+title: BÀI 8 HƯỚNG DẪN ĐỌC BẢN VẼ ITT - PON GPON - CHUNG CƯ
+aliases:
+  - BÀI 8 HƯỚNG DẪN ĐỌC BẢN VẼ ITT - PON GPON - CHUNG CƯ
 tags:
   - nontag
 date: 

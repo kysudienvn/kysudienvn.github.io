@@ -1,6 +1,7 @@
 ---
-title: 
-aliases: 
+title: GIẢI THÍCH GIÁ TRỊ TRỞ KHÁNG CỦA AMPLI  TRONG HỆ THỐNG LOA
+aliases:
+  - GIẢI THÍCH GIÁ TRỊ TRỞ KHÁNG CỦA AMPLI  TRONG HỆ THỐNG LOA
 tags:
   - nontag
 date: 
