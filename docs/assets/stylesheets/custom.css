@@ -1,13 +1,14 @@
-﻿/* Điều chỉnh độ rộng tối đa và padding của container */
-.md-container {
-    max-width: 100% !important; /* Sử dụng toàn bộ chiều rộng màn hình */
-    padding-left: 20px !important;
-    padding-right: 20px !important;
+﻿@media only screen and (min-width: 76.25em) {
+  .md-main__inner {
+    max-width: none;
+  }
+  .md-sidebar--primary {
+    left: 0;
+  }
+  .md-sidebar--secondary {
+    right: 0;
+    margin-left: 0;
+    -webkit-transform: none;
+    transform: none;   
+  }
 }
-
-/* Điều chỉnh margin của phần nội dung */
-.md-content {
-    margin: 0 auto !important; /* Đặt nội dung ở giữa */
-    padding: 20px !important; /* Điều chỉnh padding */
-}
-
