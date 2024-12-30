@@ -1,3 +1,14 @@
+---
+title: 
+aliases: 
+tags:
+  - nontag
+date: 
+url: 
+author: 
+Releated:
+---
+
 
 ### Ứng dụng của cáp 1000Base-T UTP:
 

@@ -1,3 +1,15 @@
+---
+title: TCVN 9206-ĐẶT THIẾT BỊ ĐIỆN TRONG NHÀ Ở VÀ CÔNG TRÌNH CÔNG CỘNG - TIÊU CHUẨN THIẾT KẾ
+aliases: 
+tags:
+  - nontag
+date: 
+url: 
+author: 
+Releated:
+---
+
+
 **TIÊU CHUẨN QUỐC GIA**
 
 **TCVN 9206 : 2012**

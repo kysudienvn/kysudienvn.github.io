@@ -1,3 +1,16 @@
+---
+title: TCVN5738_2021_Phòng cháy chữa cháy
+aliases:
+  - TCVN5738_2021_Phòng cháy chữa cháy
+tags:
+  - nontag
+date: 
+url: 
+author: 
+Releated:
+---
+
+
 ## [Nguồn download](https://luatvietnam.vn/an-ninh-trat-tu/tieu-chuan-quoc-gia-tcvn-5738-2021-phong-chay-chua-chay-he-thong-bao-chay-tu-dong-yeu-cau-ky-thuat-221100-d3.html)
 
 **TIÊU CHUẨN QUỐC GIA**
