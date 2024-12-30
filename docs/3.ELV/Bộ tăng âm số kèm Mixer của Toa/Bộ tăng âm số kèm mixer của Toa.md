@@ -1,6 +1,7 @@
 ---
-title: 
-aliases: 
+title: Bộ tăng âm số kèm mixer của Toa
+aliases:
+  - Bộ tăng âm số kèm mixer của Toa
 tags:
   - nontag
 date: 

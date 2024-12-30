@@ -1,5 +1,5 @@
 ---
-title: 
+title: khoảng cách cat5e cat6
 aliases: 
 tags:
   - nontag

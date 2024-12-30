@@ -1,6 +1,7 @@
 ---
-title: 
-aliases: 
+title: Bộ điều khiển tích hợp âm ly
+aliases:
+  - Bộ điều khiển tích hợp âm ly
 tags:
   - nontag
 date: 

@@ -1,6 +1,7 @@
 ---
-title: 
-aliases: 
+title: Các thành phần khác của hệ thống
+aliases:
+  - Các thành phần khác của hệ thống
 tags:
   - nontag
 date: 
