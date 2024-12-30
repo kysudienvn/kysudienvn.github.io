@@ -1,3 +1,15 @@
+---
+title: 
+aliases: 
+tags:
+  - nontag
+date: 
+url: 
+author: 
+Releated:
+---
+
+
 GIẢI THÍCH GIÁ TRỊ TRỞ KHÁNG CỦA AMPLI  TRONG HỆ THỐNG LOA
 
 ![](https://i.imgur.com/gOROCqs.png)

@@ -1,3 +1,16 @@
+---
+title: 
+aliases: 
+tags:
+  - nontag
+date: 
+url: 
+author: 
+Releated:
+---
+
+
+
 Việc lựa chọn sử dụng hệ thống 100V hay 70V trong hệ thống âm thanh thông báo (PA - Public Address) phụ thuộc vào một số yếu tố như **khoảng cách truyền tín hiệu**, **mức độ phổ biến trong khu vực**, và **yêu cầu cụ thể của dự án**. Dưới đây là chi tiết khi nào sử dụng mỗi loại:
 
 ---

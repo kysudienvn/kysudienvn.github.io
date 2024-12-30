@@ -1,3 +1,15 @@
+---
+title: 
+aliases: 
+tags:
+  - nontag
+date: 
+url: 
+author: 
+Releated:
+---
+
+
 ### 3. **So sánh loa trở kháng cao và thấp**
 
 1. **Loa trở kháng cao (170Ω hoặc 83Ω)**:

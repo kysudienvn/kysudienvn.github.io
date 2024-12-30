@@ -1,3 +1,15 @@
+---
+title: 
+aliases: 
+tags:
+  - nontag
+date: 
+url: 
+author: 
+Releated:
+---
+
+
 ### 3. **Nhánh loa (Zone) là gì?**
 
 - **Khái niệm**: Một nhánh loa hay "zone" là nhóm loa được đấu nối với nhau. ==Các nhánh có thể được điều khiển độc lập (tăng, giảm âm lượng hoặc tắt bật) thông qua amply hoặc bộ điều khiển.==
