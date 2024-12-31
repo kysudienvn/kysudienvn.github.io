@@ -913,13 +913,13 @@ Hiệu suất thấp nhất của bóng đèn và tổn thất chấn lưu của
 
 ==Trong các phòng của nhà ở các loại, ổ cắm điện nên đặt cao cách sàn 1,5==
 
-Trong các phòng của các công trình công cộng, ổ cắm điện đặt cao cách sàn từ 0,4 m đến 0,5 m tùy thuộc các yêu cầu kỹ thuật, yêu cầu sử dụng và bố trí nội thất.
+Trong các phòng của các công trình công cộng<span style="background:rgba(255, 183, 139, 0.55)">, ổ cắm điện đặt cao cách sàn</span> từ 0,4 m đến 0,5 m tùy thuộc các yêu cầu kỹ thuật, yêu cầu sử dụng và bố trí nội thất. ^63h6gv
 
 **9.7** Trong các cửa hàng, nhà hàng, xí nghiệp dịch vụ thương nghiệp và công cộng, các công tắc đèn chiếu sáng làm việc, chiếu sáng sự cố và sơ tán người trong các gian hàng, phòng ăn… và ở các phòng đông người phải đặt ở các nơi chỉ có người quản lí tới được để điều khiển.
 
 ==**9.8** Công tác đèn phải đặt ở tường, gần cửa ra vào (phía tay nắm của cánh cửa) ở độ cao cách sàn nhà 1,25 m.==
 
-==Trong các trường học phổ thông cơ sở, trường mẫu giáo, nhà trẻ, vườn trẻ và các nơi dành cho thiếu nhi sử dụng, công tắc đèn phải đặt cách sàn 1,5 m.==
+==Trong các trường học phổ thông cơ sở, trường mẫu giáo, nhà trẻ, vườn trẻ và các nơi dành cho thiếu nhi sử dụng, công tắc đèn phải đặt cách sàn 1,5 m.== ^dhwl1h
 
 **9.9** Trong nhà ở căn hộ, nhà ở có sân vườn, nhà ở kiểu khách sạn, cũng như trong các công trình công cộng cho phép dùng chuông điện áp pha 220 V nhưng phải phù hợp với môi trường xây dựng.
 
