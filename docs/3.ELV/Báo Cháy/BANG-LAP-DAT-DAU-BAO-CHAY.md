@@ -22,6 +22,11 @@ page 14
 page 15
 ![](https://i.imgur.com/EjKbRs1.png)
 
+
+# Khoảng cách đầu báo cháy tia chiếu
+
+![](https://i.imgur.com/M4WVZuP.png)
+
 # [[TCVN5738_2021_Phòng cháy chữa cháy]]
 
 ![](https://i.imgur.com/i9hAEyH.png)
