@@ -19,3 +19,5 @@ Releated:
 
 
 [[TCVN 9206-ĐẶT THIẾT BỊ ĐIỆN TRONG NHÀ Ở VÀ CÔNG TRÌNH CÔNG CỘNG - TIÊU CHUẨN THIẾT KẾ#^63h6gv]]
+
+![](https://i.imgur.com/kQB6Hac.png)
