@@ -18,3 +18,5 @@ Releated:
 
 ![](https://i.imgur.com/rohw003.png)
 ![](https://i.imgur.com/shIIYvY.png)
+## [Sơ đồ công tắc cầu thang dùng cảm biến](https://suadiennuochanoi.vn/tin-tuc/138/mach-dien-dao-chieu-cau-thang)
+![](https://i.imgur.com/N5BbMcK.png)
