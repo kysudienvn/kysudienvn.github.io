@@ -29,9 +29,12 @@ category: docs
 ## Khoảng cách lắp đặt loa trền trần
 
 [[BO-TRI-LOA-AM-THANH-THONG-BAO]]
-## Tiêu chuẩn chiếu sáng
+## 🍀Tiêu chuẩn chiếu sáng
 
 [[TCXDVN_333_2005]] : Tiêu chuẩn chiếu sáng nhân tạo bên ngoài các công trình công cộng và kỹ thuật hạ tầng đô thị
 
 [[TCVN7114]]  : Chiếu sáng trong nhà
 
+[[EN12464_lighting]]
+
+[[ISO_CIE_8995_1_2002_E]]

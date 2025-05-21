@@ -1,5 +1,5 @@
 ---
-title: EN12464_lighting
+title: EN12464_lighting Lighting -Indoor
 aliases: 
 tags:
   - STANDARD
