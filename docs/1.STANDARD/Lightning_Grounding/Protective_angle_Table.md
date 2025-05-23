@@ -1,5 +1,5 @@
 ---
-title: Protective angle Table
+title: Protective angle Table_PAGE 71-DEHN
 aliases: 
 tags:
   - DEHN
@@ -11,7 +11,6 @@ url:
 author: 
 Releated:
 ---
-
 
 # PAGE 71-DEHN
 ![](https://i.imgur.com/dgCqAS2.png)
