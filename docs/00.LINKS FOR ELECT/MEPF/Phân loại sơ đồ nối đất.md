@@ -22,9 +22,11 @@ tags:
 
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t65-G_3kQTs?si=GSsQcPPOyxkyOM--" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1749467078/pgamk6ogr5knxjuzcks0.png)
 ### Nối đất lặp lại dây PEN, Nối đất lặp lại càng nhiều càng tốt ?
 ### Tuyệt đối không sử dụng tại những nơi có hỏa hoạn cao 
 
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SakgoVvvBss?si=KpdJCFgIv-I0d1LY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
