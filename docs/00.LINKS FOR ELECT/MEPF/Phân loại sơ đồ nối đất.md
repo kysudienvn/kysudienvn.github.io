@@ -24,3 +24,7 @@ tags:
 
 
 ---
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1749467078/pgamk6ogr5knxjuzcks0.png)
+### Nối đất lặp lại dây PEN, Nối đất lặp lại càng nhiều càng tốt ?
+### Tuyệt đối không sử dụng tại những nơi có hỏa hoạn cao 
+
