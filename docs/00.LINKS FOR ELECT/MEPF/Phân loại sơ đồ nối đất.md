@@ -18,3 +18,4 @@ tags:
 - N: Vỏ kim loại của thiết bị nối với dây trung tính
 ## Chữ thứ 3: thể hiện sự liên hệ của dây trung tính và dây tiếp địa bảo vệ
 
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1749464992/mmw7zrekuhfzk0eqen1m.png)
