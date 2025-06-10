@@ -1,5 +1,5 @@
 ---
-title: Tính cáp chho loa
+title: Tính Cáp cho Loa
 tags:
   - PAGA
   - CABLE_CALCULATION
