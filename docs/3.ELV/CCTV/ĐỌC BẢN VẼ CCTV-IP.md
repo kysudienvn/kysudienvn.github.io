@@ -20,3 +20,4 @@
 - ==Khoảng cách truyền tối đa 90m==
 
 ## Phần mềm  mô phỏng camera![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1749811423/dbakqdokd2rnmhywyf6r.jpg)
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1749811931/bscrkvcp74fk9hhnzvsy.png)
