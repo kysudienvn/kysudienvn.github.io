@@ -3,10 +3,12 @@
 		{"id":"35ab2d076d6c1911","type":"text","text":"Chuẩn mã hóa","x":-375,"y":-370,"width":250,"height":50},
 		{"id":"2da79d8a1e87f280","type":"text","text":"H265\n","x":-40,"y":-300,"width":250,"height":60},
 		{"id":"d6faeb6a6ff9ea99","type":"text","text":"H264","x":-60,"y":-430,"width":250,"height":60},
-		{"id":"283e142d8ce7bff7","type":"text","text":"Tính toán khả năng lưu trữ của camera","x":-940,"y":-120,"width":250,"height":60},
-		{"id":"59b0a15c4911651e","x":-626,"y":160,"width":626,"height":153,"type":"file","file":"docs/3.ELV/CCTV/Camera-Storage.md"},
-		{"id":"8884f5c833cf5c9c","type":"text","text":"Tốc độ Frame","x":-920,"y":-240,"width":250,"height":60},
-		{"id":"e0349198c3d0b33a","type":"text","text":"ĐỘ PHÂN GIẢI CAMERA ?","x":-900,"y":-560,"width":250,"height":60}
+		{"id":"59b0a15c4911651e","type":"file","file":"docs/3.ELV/CCTV/Camera-Storage.md","x":-626,"y":160,"width":626,"height":153},
+		{"id":"e0349198c3d0b33a","type":"text","text":"ĐỘ PHÂN GIẢI CAMERA ?","x":-900,"y":-560,"width":250,"height":60},
+		{"id":"964e721e5124f240","x":-900,"y":-460,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b7f65fd84472cee0","x":-900,"y":-360,"width":250,"height":60,"type":"text","text":""},
+		{"id":"8884f5c833cf5c9c","type":"text","text":"Tốc độ Frame","x":-900,"y":-240,"width":250,"height":60},
+		{"id":"283e142d8ce7bff7","type":"text","text":"Tính toán khả năng lưu trữ của camera","x":-900,"y":-140,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"104b9ff4dd5e7a58","fromNode":"35ab2d076d6c1911","fromSide":"top","toNode":"d6faeb6a6ff9ea99","toSide":"left"},
