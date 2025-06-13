@@ -4,7 +4,7 @@ tags:
   - camera_storage
   - dungluong
 ---
-## [[Phần mềm tính toán]]
+## ![[Phần mềm tính toán dung lượng lưu trữ camera]]
 
 ### Video Tham Khảo ( xem từ phút 21:02)
 

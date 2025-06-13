@@ -3,3 +3,7 @@
 ### Link Gốc tham khảo
 
 https://tools.hikvision.com/calculatorTool/
+
+
+### Notes lại để không bị quên 
+
