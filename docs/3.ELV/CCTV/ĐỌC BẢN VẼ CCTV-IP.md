@@ -14,4 +14,9 @@
 	2. **Loại tập trung** : Đầu ghi hình loại tập trung: có 1 đầu ghi hình có thể ghi hình từ 1 đến 128 kênh; Từ 1 đến 312 kênh; từ 1 đến 640 kênh tùy thuộc hãng
 
 
-- camera loại tập trung thì nó sẽ đắt hơn, nhưng nó quản lý tập trung hơn
+- 🚩camera loại tập trung thì nó sẽ đắt hơn, nhưng nó quản lý tập trung hơn
+
+
+- ==Khoảng cách truyền tối đa 90m==
+
+## Phần mềm  mô phỏng camera![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1749811423/dbakqdokd2rnmhywyf6r.jpg)
