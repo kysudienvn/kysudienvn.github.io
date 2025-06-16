@@ -28,3 +28,10 @@ VÍ DỤ 32 CAMERA-> CẦN 1 NVR - 32 KÊNH; MỖI MỘT KÊNH LÀ 1 CAMERA
 
 
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1749812296/zdcv6pyqcxr6pozinj8b.png)
+
+
+
+
+## Notes 
+
+### [[ Tiêu chuẩn Onvif là gì]]
