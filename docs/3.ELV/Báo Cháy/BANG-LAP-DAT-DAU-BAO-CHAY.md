@@ -30,3 +30,4 @@ page 15
 # [[TCVN5738_2021_Phòng cháy chữa cháy]]
 
 ![](https://i.imgur.com/i9hAEyH.png)
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1750229332/Test/pskuydrrixhriru6lqdb.png)
