@@ -1,3 +1,6 @@
+
+## Vai trò
+- Trong Active DAS, Master units còn được gọi là ==BASE UNIT== hoặc ==HEAD-END UNIT==
 ## Chức năng
 - Là thiết bị trung tâm
 - nhận tín hiệu từ nhà mạng thông qua anten thu ngoài trời hoặc kết nối với [[trạm BTS]] của nhà mạng và xử lý tín hiệu đó.
