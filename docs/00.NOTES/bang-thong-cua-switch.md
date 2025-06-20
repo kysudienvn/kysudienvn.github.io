@@ -34,7 +34,7 @@ Khái niệm bạn cần hiểu ở đây là **"Switching Capacity" (Băng thô
     
     - Switching Capacity là **khả năng tổng hợp dữ liệu mà Switch có thể xử lý và chuyển tiếp giữa tất cả các cổng của nó cùng một lúc**, theo cả hai chiều (chiều đi và chiều về - Full-duplex).
     - Một Switch hoạt động hiệu quả (non-blocking hay wire-speed) phải có **Switching Capacity bằng hoặc lớn hơn gấp đôi tổng băng thông lý thuyết của tất cả các cổng.**
-    - Tại sao lại là gấp đôi? Vì mỗi cổng có thể đồng thời **nhận (receive)** và **gửi (transmit)** dữ liệu ở tốc độ tối đa của nó (Full-duplex).
+    -<font color="#d83931"> Tại sao lại là gấp đôi? </font>Vì mỗi cổng có thể đồng thời **nhận (receive)** và **gửi (transmit)** dữ liệu ở tốc độ tối đa của nó (Full-duplex).
         - Ví dụ: một cổng 1Gbps có thể nhận 1Gbps VÀ gửi 1Gbps đồng thời.
         - Do đó, để tất cả các cổng có thể hoạt động ở tốc độ tối đa mà không bị tắc nghẽn, tổng băng thông chuyển mạch của Switch cần phải đủ lớn để đáp ứng nhu cầu này.
 3. **Áp dụng vào ví dụ của bạn:**
