@@ -6,3 +6,7 @@ Hãy tưởng tượng bạn đang xây dựng một hệ thống giám sát. N�
 
 Tiêu chuẩn này được sáng lập vào năm 2008 bởi ba "ông lớn" trong ngành công nghiệp an ninh là **Axis Communications, Bosch Security Systems và Sony**. Kể từ đó, ONVIF đã phát triển mạnh mẽ và trở thành một yêu cầu gần như bắt buộc đối với các sản phẩm giám sát IP hiện đại.
 
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1750391957/kysudienvn/pvdccco0hrzkdem4pkl4.jpg)
+
+
+## [[Chỉ số vùng nhìn của camera]]
