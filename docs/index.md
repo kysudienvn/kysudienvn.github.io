@@ -16,6 +16,18 @@ category: docs
 - [[khoang-cach-dau-bao-den-mieng-gio|Khoảng cách đầu báo đến miệng gió]]
 - [[NUT-AN-BAO-CHAY|Nút ấn báo cháy]]
 ---
+### [[TCVN7568-14-2025]]
+
+
+## [[Khoảng cách đầu báo cháy khói- TCVN 5768-14-2025]]
+## [[KHOẢNG CÁCH ĐẦU BÁO CHÁY NHIỆT-TCVN 7568-14-2025]]
+
+### [[Khoảng cách đầu báo cháy tia chiếu TCVN 7568-14-2025]]
+### [[Khoảng cách từ đầu báo cháy khói tới miệng gió-TCVN 7568-2025]]
+### [[Khoảng cách từ đầu báo nhiệt tới miệng gió-TCVN-7568-2025]]
+
+
+
 # Hệ thống âm thanh thông báo FV-200 TOA
 
 
