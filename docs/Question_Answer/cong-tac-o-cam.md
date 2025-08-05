@@ -9,11 +9,12 @@ date:
 url: 
 author: 
 Releated: 
-image: "![[1-đèn cột.png]]"
+image: "![[12.png]]"
+ 
 icon: 
-cover:
+cover: "![[12.png]]"
 ---
-
+![[12.png]]
 # Chiều cao lắp đặt công tắc theo TCVN
 
 [[TCVN 9206-ĐẶT THIẾT BỊ ĐIỆN TRONG NHÀ Ở VÀ CÔNG TRÌNH CÔNG CỘNG - TIÊU CHUẨN THIẾT KẾ#^dhwl1h]]
