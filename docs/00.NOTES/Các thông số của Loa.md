@@ -4,3 +4,4 @@ Khi công suất loa tăng gấp đôi thì mức áp suất âm [[SPL]] sẽ t�
 
 
 
+
