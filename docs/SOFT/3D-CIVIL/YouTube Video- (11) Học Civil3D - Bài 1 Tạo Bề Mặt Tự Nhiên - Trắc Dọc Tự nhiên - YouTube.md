@@ -16,3 +16,8 @@ tags:
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1754878331/civil%203D/flyf36bf2z13hhpd5d5k.png)
 
 ## Thiết lập đơn vị cho bản vẽ
+Toolspace->setting
+
+- kích phải chuột chọn" Edit drawing Setting"
+-![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1754879024/civil%203D/exg6hneqlmqm6sr95myf.png)
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1754879042/civil%203D/ptkmudsohcul1jzhdwph.png)
