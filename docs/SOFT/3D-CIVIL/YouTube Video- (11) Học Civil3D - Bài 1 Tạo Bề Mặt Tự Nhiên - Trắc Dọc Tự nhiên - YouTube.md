@@ -21,3 +21,4 @@ Toolspace->setting
 - kích phải chuột chọn" Edit drawing Setting"
 -![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1754879024/civil%203D/exg6hneqlmqm6sr95myf.png)
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1754879042/civil%203D/ptkmudsohcul1jzhdwph.png)
+
