@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: View
+  - type: cards
+    name: "01"
+    image: note.image
+    imageAspectRatio: 0.65

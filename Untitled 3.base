@@ -6,6 +6,12 @@ views:
         direction: ASC
   - type: cards
     name: ELT
+    filters:
+      and:
+        - file.inFolder("docs")
     image: note.image
     imageFit: contain
     imageAspectRatio: 0.45
+  - type: cards
+    name: STANDARD
+    image: note.image
