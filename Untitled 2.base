@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: View
+    cardSize: 170
+    image: note.image
+    imageFit: contain
