@@ -5,7 +5,8 @@ views:
     name: STANDARD
     filters:
       and:
-        - file.folder == "docs/1.STANDARD"
+        - file.folder == "docs/1.STANDARD/Lighting"
+    limit: 100
     image: note.image
     imageFit: ""
     imageAspectRatio: 0.85
