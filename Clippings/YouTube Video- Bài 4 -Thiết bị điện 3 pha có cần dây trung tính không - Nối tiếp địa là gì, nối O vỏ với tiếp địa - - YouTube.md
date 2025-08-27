@@ -8,3 +8,13 @@ tags: [clippings]
 ---
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/N0LGaKknoZA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+1. 1- Trong thiết bị điện 3 pha, có nối dây trung tính với thiết bị hay không?
+2. Nối tiếp địa là gì
+3. Nối 0 vỏ là gì
+4. Nối 0 vỏ với tiếp địa có được được không
+5. Có cần phải nối đất khi đã có ATM, CB,MCCB Chống giật?
+
+---
+1- Thiết bị điện 3 pha không cần dây trung tính, chỉ thiết bị điện 1 pha mới cần dây trung tính. 
+Tuy nhiên có một số thiết bị để đảm bảo an toàn chống điện rò ra vỏ, người ta nối phần vỏ thiết bị bằng kim loại với dây trung tính gọi là nối (0)
