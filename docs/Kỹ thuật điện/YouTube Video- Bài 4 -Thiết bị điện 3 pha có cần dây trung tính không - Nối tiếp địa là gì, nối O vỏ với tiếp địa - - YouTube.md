@@ -22,3 +22,7 @@ Khi điện rò ra vỏ lập tức gây ngắn mạch một pha ( dây lửa ch
 
 ---
 2- Nối tiếp địa là gì
+
+
+---
+4-
