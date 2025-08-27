@@ -25,4 +25,7 @@ Khi điện rò ra vỏ lập tức gây ngắn mạch một pha ( dây lửa ch
 
 
 ---
-4-
+4- Nối 0 vỏ  là người ta nối phần vỏ thiết bị bằng kim loại với dây trung tính gọ là nối (0) vỏ.
+Mục đích của việc này là : Khi điền rò ra vỏ lập tức gây ngắn mạch một pha gây nhảy Át tô mát. tách thiết bị điện khỏi lưới đảm bảo an toàn. ( lưu ý là chỉ khi thiết bị được lắp Át tô mát bảo vệ)
+
+- Nối 0 vỏ với tiếp địa : Nối (0) vỏ bao giờ cùng cần thêm cả nối đất vì nếu xảy ra đứt trung tính nguồn lửa có thể truyền ra dây nguội
