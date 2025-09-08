@@ -4,14 +4,14 @@
 
 ## 🔧 1. **Sự khác nhau giữa Coupler và Splitter**
 
-|Đặc điểm|**Coupler**|**Splitter**|
-|---|---|---|
-|Chức năng chính|Chia tín hiệu **không đồng đều**|Chia tín hiệu **đều nhau**|
-|Tỉ lệ chia|Ví dụ: 10dB, 6dB (90%–10%, 75%–25%)|50–50, 33–33–33... tùy số nhánh|
-|Suy hao (loss)|Thấp hơn Splitter|Cao hơn|
-|Ứng dụng|Dùng để "rẽ nhánh nhẹ" khi tín hiệu mạnh|Dùng để chia đều tín hiệu tới các nhánh|
-|Cấu trúc|Có 3 port: Input, Output chính, Tap|Có 2, 3, 4... port, chia đều tín hiệu|
-|Vị trí thường dùng|Gần nguồn, dọc trục chính|Gần các RU/anten, chia cuối nhánh|
+| Đặc điểm           | **Coupler**                              | **Splitter**                            |
+| ------------------ | ---------------------------------------- | --------------------------------------- |
+| Chức năng chính    | Chia tín hiệu **không đồng đều**         | Chia tín hiệu **đều nhau**              |
+| Tỉ lệ chia         | Ví dụ: 10dB, 6dB (90%–10%, 75%–25%)      | 50–50, 33–33–33... tùy số nhánh         |
+| Suy hao (loss)     | Thấp hơn Splitter                        | Cao hơn                                 |
+| Ứng dụng           | Dùng để "rẽ nhánh nhẹ" khi tín hiệu mạnh | Dùng để chia đều tín hiệu tới các nhánh |
+| Cấu trúc           | Có 3 port: Input, Output chính, Tap      | Có 2, 3, 4... port, chia đều tín hiệu   |
+| Vị trí thường dùng | Gần nguồn, dọc trục chính                | Gần các RU/anten, chia cuối nhánh       |
 
 ---
 
