@@ -20,7 +20,7 @@
 - ==Khoảng cách truyền tối đa 90m==
 
 ## Phần mềm  mô phỏng camera![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1749811423/dbakqdokd2rnmhywyf6r.jpg)
-![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1749811931/bscrkvcp74fk9hhnzvsy.png)
+![|1300](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1749811931/bscrkvcp74fk9hhnzvsy.png)
 ## Thống kê số lượng camera ( mục đích để tính toán số kênh của NVR, VÀ TÍNH CHỌN UPS)
 
 VÍ DỤ 32 CAMERA-> CẦN 1 NVR - 32 KÊNH; MỖI MỘT KÊNH LÀ 1 CAMERA 
