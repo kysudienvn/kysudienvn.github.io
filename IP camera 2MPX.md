@@ -1,0 +1,1 @@
+**amera 2MPX**: Thông số này cho biết độ phân giải của camera. **MPX** là viết tắt của **Megapixel**, tức là một triệu điểm ảnh. Camera 2MPX có độ phân giải khoảng 1920x1080 pixel, hay còn gọi là chuẩn **Full HD 1080p**, cho hình ảnh rõ nét.

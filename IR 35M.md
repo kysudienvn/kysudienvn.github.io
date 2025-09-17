@@ -1,0 +1,1 @@
+**IR: 35M**: **IR** là viết tắt của **Infrared**, tức là tia hồng ngoại. Thông số này chỉ khả năng nhìn đêm của camera. **35M** (35 mét) là khoảng cách tối đa mà đèn hồng ngoại có thể chiếu sáng, giúp camera thu được hình ảnh rõ ràng trong điều kiện thiếu sáng hoặc ban đêm.

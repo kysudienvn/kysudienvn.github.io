@@ -1,0 +1,1 @@
+**Camera Thân IP**: Đây là loại camera có hình dáng thân trụ dài, thường được dùng để lắp đặt ngoài trời. Chữ **IP** ở đây có nghĩa là **Internet Protocol**, cho biết đây là một camera mạng, truyền hình ảnh qua mạng internet hoặc mạng nội bộ (LAN).

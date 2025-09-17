@@ -1,0 +1,1 @@
+**LENS 2.8 - 12MM**: Đây là dải tiêu cự của ống kính camera. Một ống kính có tiêu cự thay đổi được gọi là **ống kính vari-focal**. Tiêu cự **2.8mm** sẽ cho góc nhìn rộng, bao quát nhiều không gian. Ngược lại, tiêu cự **12mm** sẽ cho góc nhìn hẹp hơn nhưng có thể phóng to vật thể ở xa. Với dải tiêu cự này, bạn có thể điều chỉnh góc quay linh hoạt tùy theo nhu cầu giám sát.
