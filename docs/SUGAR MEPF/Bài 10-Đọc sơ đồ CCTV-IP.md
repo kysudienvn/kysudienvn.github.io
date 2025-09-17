@@ -10,6 +10,7 @@ tags:
 ---
 ## LEGENDS
 - ![[mx-img-p19088q22ow84z6e0oawv47a-pt2m53_72s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 02:53|50]] [02:53](https://www.youtube.com/watch?v=26l7qyZHr7o#t=02:53.72) 
+-
  [[Camera Thân]] , [[IP camera 2MPX]] [[IR 35M]], [[LENS 2.8-12MM]], [[12VDC OR POE]], [[ONVIF]]
 
 Camera Dome, IP camera 2MPX, IR 15M, LENS 2.8-12MM, 12VDC OR POE, ONVIF.
@@ -40,3 +41,9 @@ có 3 giải pháp thiết kế
 - ![[mx-img-p19088q22ow84z6e0oawv47a-pt6m27_46s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 06:27|50]] [06:27](https://www.youtube.com/watch?v=26l7qyZHr7o#t=06:27.46) 
 ## Phần mềm thiết kế IP Camera
 - ![[mx-img-p19088q22ow84z6e0oawv47a-pt6m47_92s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 06:47|50]] [06:47](https://www.youtube.com/watch?v=26l7qyZHr7o#t=06:47.92) 
+
+## LƯU Ý
+- Chiều dài dây <= 90m
+
+- ![[mx-img-p19088q22ow84z6e0oawv47a-pt8m47_05s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 08:47|50]] [08:47](https://www.youtube.com/watch?v=26l7qyZHr7o#t=08:47.05) 
+ ( ví dụ: )
