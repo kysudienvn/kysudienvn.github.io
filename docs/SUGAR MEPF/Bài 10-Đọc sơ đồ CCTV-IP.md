@@ -57,3 +57,5 @@ Sau khi đặt camera => Thống kê số lượng camera => 2 mục đích
 - ![[mx-img-p19088q22ow84z6e0oawv47a-pt11m40_84s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 11:40|50]] [11:40](https://www.youtube.com/watch?v=26l7qyZHr7o#t=11:40.84) 
 - => ==1 là để chọn đầu ghi hình==
 - => ==Chọn UPS==
+
+Sau khi có số lượng đầu ghi hình- => tính số lượng màn hình.
