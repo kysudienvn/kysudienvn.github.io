@@ -36,3 +36,7 @@ có 3 giải pháp thiết kế
 - Cáp mạng
 - Bộ thu phát tín hiệu ( không dây)
 
+## Chỉ số vùng nhìn DCRI của camera
+- ![[mx-img-p19088q22ow84z6e0oawv47a-pt6m27_46s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 06:27|50]] [06:27](https://www.youtube.com/watch?v=26l7qyZHr7o#t=06:27.46) 
+## Phần mềm thiết kế IP Camera
+- ![[mx-img-p19088q22ow84z6e0oawv47a-pt6m47_92s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 06:47|50]] [06:47](https://www.youtube.com/watch?v=26l7qyZHr7o#t=06:47.92) 
