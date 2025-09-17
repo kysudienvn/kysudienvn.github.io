@@ -1,9 +1,0 @@
-views:
-  - type: cards
-    name: Table
-  - type: cards
-    name: View
-  - type: cards
-    name: "02"
-    rowHeight: medium
-    image: note.image
