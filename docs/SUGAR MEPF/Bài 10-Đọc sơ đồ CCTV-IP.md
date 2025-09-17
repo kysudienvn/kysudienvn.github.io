@@ -47,3 +47,13 @@ có 3 giải pháp thiết kế
 
 - ![[mx-img-p19088q22ow84z6e0oawv47a-pt8m47_05s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 08:47|50]] [08:47](https://www.youtube.com/watch?v=26l7qyZHr7o#t=08:47.05) 
  ( ví dụ: )
+
+## Chọn đầu ghi hình
+
+- ![[mx-img-p19088q22ow84z6e0oawv47a-pt11m33_19s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 11:33|50]] [11:33](https://www.youtube.com/watch?v=26l7qyZHr7o#t=11:33.19) 
+
+
+Sau khi đặt camera => Thống kê số lượng camera => 2 mục đích
+- ![[mx-img-p19088q22ow84z6e0oawv47a-pt11m40_84s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 11:40|50]] [11:40](https://www.youtube.com/watch?v=26l7qyZHr7o#t=11:40.84) 
+- => ==1 là để chọn đầu ghi hình==
+- => ==Chọn UPS==
