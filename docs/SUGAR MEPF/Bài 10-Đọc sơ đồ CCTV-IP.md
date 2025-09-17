@@ -9,8 +9,9 @@ tags:
   - ELV
 ---
 ## LEGENDS
+
 - ![[mx-img-p19088q22ow84z6e0oawv47a-pt2m53_72s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 02:53|50]] [02:53](https://www.youtube.com/watch?v=26l7qyZHr7o#t=02:53.72) 
--
+
  [[Camera Thân]] , [[IP camera 2MPX]] [[IR 35M]], [[LENS 2.8-12MM]], [[12VDC OR POE]], [[ONVIF]]
 
 Camera Dome, IP camera 2MPX, IR 15M, LENS 2.8-12MM, 12VDC OR POE, ONVIF.
@@ -33,14 +34,17 @@ CAMERA THANG MÁY, IP CAMERA 2MPX, IR 15M, LENS 2.8-12MM, 12VDC OR POE, ONVIF
 
 ## Camera trong thang máy
 có 3 giải pháp thiết kế
+
 - cáp đồng trục
+
 - Cáp mạng
+
 - Bộ thu phát tín hiệu ( không dây)
 
 ## Chỉ số vùng nhìn DCRI của camera
-- ![[mx-img-p19088q22ow84z6e0oawv47a-pt6m27_46s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 06:27|50]] [06:27](https://www.youtube.com/watch?v=26l7qyZHr7o#t=06:27.46) 
+ ![[mx-img-p19088q22ow84z6e0oawv47a-pt6m27_46s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 06:27|50]] [06:27](https://www.youtube.com/watch?v=26l7qyZHr7o#t=06:27.46) 
 ## Phần mềm thiết kế IP Camera
-- ![[mx-img-p19088q22ow84z6e0oawv47a-pt6m47_92s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 06:47|50]] [06:47](https://www.youtube.com/watch?v=26l7qyZHr7o#t=06:47.92) 
+![[mx-img-p19088q22ow84z6e0oawv47a-pt6m47_92s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 06:47|50]] [06:47](https://www.youtube.com/watch?v=26l7qyZHr7o#t=06:47.92) 
 
 ## LƯU Ý
 - Chiều dài dây <= 90m
@@ -59,3 +63,8 @@ Sau khi đặt camera => Thống kê số lượng camera => 2 mục đích
 - => ==Chọn UPS==
 
 Sau khi có số lượng đầu ghi hình- => tính số lượng màn hình.
+
+## Đấu nối NVR với màn hình
+
+- ![[mx-img-p19088q22ow84z6e0oawv47a-pt13m45_71s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 13:45|50]] [13:45](https://www.youtube.com/watch?v=26l7qyZHr7o#t=13:45.71) 
+
