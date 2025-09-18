@@ -4,7 +4,7 @@ media: https://www.youtube.com/watch?v=ltSTwMAtu0o
 TIME: 16
 author:
   - Sugar MEPF
-date:
+date: 2025-09-18
 ---
 # PHÂN LOẠI TỦ DDIENJ VÀ CHỨC NĂNG
 
