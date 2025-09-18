@@ -6,7 +6,7 @@ author:
   - Sugar MEPF
 date: 2025-09-18
 ---
-# PHÂN LOẠI TỦ DDIENJ VÀ CHỨC NĂNG
+# PHÂN LOẠI TỦ ĐIỆN VÀ CHỨC NĂNG
 
 ## PHÂN LOẠI
 ## CÁC FORM TỦ ĐIỆN
