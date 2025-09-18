@@ -8,7 +8,8 @@ tags:
   - CCTV
   - ELV
 ---
-## LEGENDS
+
+- [00:01](https://www.youtube.com/watch?v=yf5gsqevRsg#t=00:01.78) ## LEGENDS
 
 - ![[mx-img-p19088q22ow84z6e0oawv47a-pt2m53_72s.jpg|HỆ THỐNG ĐIỆN NHẸ - BÀI 10: HƯỚNG DẪN ĐỌC BẢN VẼ CCTV IP – CHUNG CƯ  | SUGAR MEPF - 02:53|50]] [02:53](https://www.youtube.com/watch?v=26l7qyZHr7o#t=02:53.72) 
 
