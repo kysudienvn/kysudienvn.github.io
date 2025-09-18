@@ -28,11 +28,14 @@ media: https://www.youtube.com/watch?v=yf5gsqevRsg
 
 
 - ![[mx-img-v0lxffeoc4uuuffkkwjtymrx-pt2m10_15s.jpg|Phân loại cáp mạng, cấu tạo và ứng dụng - 02:10|50]] [02:10](https://www.youtube.com/watch?v=yf5gsqevRsg#t=02:10.15) 
+## Các tiêu chuẩn cáp và lịch sử phát triển
 
 
+- ![[mx-img-v0lxffeoc4uuuffkkwjtymrx-pt3m33_61s.jpg|Phân loại cáp mạng, cấu tạo và ứng dụng - 03:33|50]] [03:33](https://www.youtube.com/watch?v=yf5gsqevRsg#t=03:33.61) 
 
-
-
-## Các tiêu chuẩn cáp và lịch sử phát triên
 ## Ứng Dụng
+
+
+- ![[mx-img-v0lxffeoc4uuuffkkwjtymrx-pt8m52_10s.jpg|Phân loại cáp mạng, cấu tạo và ứng dụng - 08:52|50]] [08:52](https://www.youtube.com/watch?v=yf5gsqevRsg#t=08:52.10) 
+
 ## Tài liệu tham khảo
