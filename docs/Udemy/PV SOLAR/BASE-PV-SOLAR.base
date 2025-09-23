@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("docs/Udemy/PV SOLAR")
+    order:
+      - file.name
+      - tags
+      - title
+      - url
+      - date
+      - author
+      - aliases
+      - file.links

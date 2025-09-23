@@ -24,4 +24,5 @@ Bộ điều khiển MPPT phức tạp và thông minh hơn nhiều. Nó có m�
 
 - **Giá thành cao.**
     
-- Phức tạp hơn, thường có màn hình LCD hiển thị thông số chi tiết.
+- Phức tạp hơn, thường có màn hình LCD hiển thị thông số chi tiết.+
+- ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1758619403/civil%203D/mzlrowdjybd2gsrgqhvf.png)
