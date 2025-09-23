@@ -21,3 +21,5 @@ Bộ điều khiển PWM hoạt động giống như một công tắc điện t
 - **Hiệu suất thấp** (khoảng 70-80%). Do điện áp của pin bị kéo về bằng điện áp ắc quy, nên không tận dụng được tối đa công suất của tấm pin, đặc biệt là trong điều kiện trời nắng gắt.
     
 - Chỉ hiệu quả với các hệ thống nhỏ, công suất thấp.
+
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1758620111/civil%203D/mqcutltmf4eanipthelr.png)
