@@ -23,3 +23,4 @@ Bộ điều khiển PWM hoạt động giống như một công tắc điện t
 - Chỉ hiệu quả với các hệ thống nhỏ, công suất thấp.
 
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1758620111/civil%203D/mqcutltmf4eanipthelr.png)
+---
