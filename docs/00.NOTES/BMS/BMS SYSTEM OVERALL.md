@@ -5,3 +5,5 @@
 3. [[Lập bảng điểm chi tiết cho hệ thống BMS ( POINT SCHEDULE)]]
 
 4. [[ HỆ THỐNG BMS-PHÂN TÍCH ĐỌC BẢN VẼ]]
+5. 
+[[Cấu trúc của một hệ thống BMS]]

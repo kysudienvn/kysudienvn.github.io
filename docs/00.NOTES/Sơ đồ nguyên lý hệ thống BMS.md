@@ -22,3 +22,5 @@ media: https://www.youtube.com/watch?v=jHPqptR1EJ8&t=139s
 ## Sơ đồ nguyên lý chung
 
 3 cấp
+
+- ![[mx-img-a0fb18a4gz9u4memprkv07bm-pt8m12_73s.jpg|SƠ ĐỒ NGUYÊN LÝ HỆ THỐNG BMS | VNK EDU - 08:12|50]] [08:12](https://www.youtube.com/watch?v=jHPqptR1EJ8#t=08:12.73) 
