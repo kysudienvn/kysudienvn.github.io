@@ -19,6 +19,12 @@ media:
 ==PAGE 4==
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1759119231/civil%203D/j5mod8dkas2dbw0x3u9n.png)
 
+## Mạng dự phòng
+
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1759119331/civil%203D/hms643xxid2dwcjrtqni.png)
+
+
+
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1759118986/civil%203D/tdvzviqirgsd2hdrdsyi.png)
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1759119089/civil%203D/txg5aq7x4s0iudnbgccz.png)
 
