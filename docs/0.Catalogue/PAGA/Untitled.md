@@ -1,1 +1,0 @@
-<iframe src="https://toa-vn.com/document/2717-vx-3000-series-voice-evac-brochure-brochure.pdf" width="100%" height="800px" name="the-iFrame" frameborder="0"></iFrame><br>
