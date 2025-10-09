@@ -1,4 +1,4 @@
-#separator:tab
+-#separator:tab
 #html:true
 "<div style=""text-align: Center;  font-size:px;margin-top: 0px;margin-bottom: 4px; font-size: 14px;""><a href=""https://www.facebook.com//"">Anki Support Vietnam</a></div>
 </div>
