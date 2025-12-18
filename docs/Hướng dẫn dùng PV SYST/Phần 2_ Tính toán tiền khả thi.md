@@ -22,3 +22,11 @@ Tilt : góc nghiên của tấm pin so với phương nằm ngang lắp đặt
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766053474/civil%203D/fdqovbucrvebug0idvyh.png)
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766053552/civil%203D/gpdbbdlthzfseo4rnfuk.png)
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766053776/civil%203D/cniwwiljbn2eiuwhnace.png)
+### Cùng xem kết quả
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766053902/civil%203D/zqee80ul2lz0vgmyrpp8.png)
+ Các dạng biểu đồ, thông số của báo cáo 
+ ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766054012/civil%203D/vckh7lfuqmyeaszc3tvn.png)
+ ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766054243/civil%203D/v6oi7fhc2lw5slyr2ief.png)
+
+### IN BÁO CÁO
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766054257/civil%203D/afo6fofbb7dnxx0jhjip.png)
