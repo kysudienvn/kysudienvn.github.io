@@ -16,4 +16,9 @@
 
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766053198/civil%203D/jv8usehncwbqgam4nmoe.png)
 Tilt : góc nghiên của tấm pin so với phương nằm ngang lắp đặt
- Góc phương vị Azimuth  : góc nghiêng của tấm pin theo chiều của hướng 
+ Góc phương vị Azimuth  : góc nghiêng của tấm pin theo chiều của hướng ==bắc, đông, Nam==
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766053406/civil%203D/cf0iaoxbo66pj4hm4mcr.png)
+### Khi chỉnh góc ta sẽ tìm được điểm tối ưu
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766053474/civil%203D/fdqovbucrvebug0idvyh.png)
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766053552/civil%203D/gpdbbdlthzfseo4rnfuk.png)
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766053776/civil%203D/cniwwiljbn2eiuwhnace.png)
