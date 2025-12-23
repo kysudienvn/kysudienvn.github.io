@@ -9,6 +9,7 @@
 | S  > 800                                                        | S/4                                                             |
 ### [[TCVN9207]] - xem bảng 12
 
+![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1766482479/civil%203D/diq4zovtgpujx5kdkykn.png)
 
 
 Tương tự TCVN 7447-5-54-2015 - TƯƠNG TỤ
