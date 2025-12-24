@@ -16,7 +16,7 @@ category: docs
 - [[khoang-cach-dau-bao-den-mieng-gio|Khoảng cách đầu báo đến miệng gió]]
 - [[NUT-AN-BAO-CHAY|Nút ấn báo cháy]]
 ---
-### [[TCVN7568-14-2025]]
+### [[TCVN 7568-14-2025]]
 
 
 ## [[Khoảng cách đầu báo cháy khói- TCVN 5768-14-2025]]

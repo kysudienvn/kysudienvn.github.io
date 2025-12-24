@@ -1,6 +1,6 @@
 
 
-# Theo  [[TCVN7568-14-2025]]
+# Theo  [[TCVN 7568-14-2025]]
 các khu vệ sinh, phòng tắm có diện tích nhỏ hơn 3.5m2 thì không cần đầu báo cháy. 
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1750743276/kysudienvn/upm5ynabhznbkqlu2nmb.png)
 
