@@ -1,5 +1,5 @@
  ## Tòa nhà cao trên 60m 
- Trích dẫn tiêu chuẩn ==PAGE 31/75[[QCVN12-2014 Quy chuẩn kỹ thuật quốc gia về hệ thống điện của nhà ở và nhà công cộng]]==
+ Trích dẫn tiêu chuẩn ==PAGE 31/75[[QCVN12-2014]]==
 
  ### 2.8.4  Toà nhà cao trên 60 m 
 <font color="#d83931">2.8.4.1  Phải lắp đặt bộ phận thu sét để bảo vệ phần chiều cao phía trên 60 m của toà nhà và </font>thiết bị lắp đặt trên đó (đặc biệt phần 20 % trên cùng chiều cao toà nhà khi phần này nằm ở độ cao cách mặt đất quá 60 m). 
