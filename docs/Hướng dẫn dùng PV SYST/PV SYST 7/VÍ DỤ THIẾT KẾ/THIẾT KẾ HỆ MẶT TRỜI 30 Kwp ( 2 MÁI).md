@@ -42,3 +42,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YFXUW85cQNI?si=r1YMHwveRUkPGtr6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+## PHẦN 9 : CHẠY MÔ PHỎNG 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HOdpHxCvCy8?si=EAH7qUeFbKLQpmaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
