@@ -6,8 +6,7 @@ tags:
 
 # TCVN 7114-1-2008 Chiếu sáng nơi làm việc trong nhà
 
-
-<div style="position:relative;padding-top:max(60%,324px);width:100%;height:0;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/ntjwsz/ezqr/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
+<iframe src="https://drive.google.com/file/d/15QJOvTab-iqq-E_H_GJ28WeBalhktkiD/preview" width="100%" height="800px" name="the-iFrame" frameborder="0"></iFrame><br>
 
 ## Màu ánh sáng
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1750056517/q4ebiptifojbaqmumzcp.png)
