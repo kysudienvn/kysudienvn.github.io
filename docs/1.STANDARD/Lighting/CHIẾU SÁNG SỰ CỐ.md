@@ -7,7 +7,7 @@
 
 > [!NOTE] THEO QCVN 06-2022
 > Điện cấp cho hệ PCCC phải duy trì >=3h
-> [[QCVN06_2022#Điện cấp cho hệ PCCC phải duy trì>=3h kể từ khi có cháy]]
+> [[QCVN06_2022#^c7fb94]]
 
 ## Đèn sự cố phải được lắp tại các khu vực sau
 
