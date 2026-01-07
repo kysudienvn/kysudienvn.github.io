@@ -5,6 +5,9 @@
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1767695878/civil%203D/blrq6zmaryz7nxugauud.png)
 
 
+> [!NOTE] THEO QCVN 06-2022
+> [Điện cấp cho hệ PCCC phải duy trì >=3h](obsidian://open?vault=kysudienvn&file=docs%2F1.STANDARD%2FQCVN%2FQCVN06_2022)
+
 ## Đèn sự cố phải được lắp tại các khu vực sau
 
 ![](https://res.cloudinary.com/dcqf82eor/image/upload/f_auto/v1767695941/civil%203D/u3i26olkvz0txzrtxfni.png)
