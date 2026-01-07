@@ -6,7 +6,8 @@
 
 
 > [!NOTE] THEO QCVN 06-2022
-> [Điện cấp cho hệ PCCC phải duy trì >=3h](obsidian://open?vault=kysudienvn&file=docs%2F1.STANDARD%2FQCVN%2FQCVN06_2022)
+> Điện cấp cho hệ PCCC phải duy trì >=3h
+> [[QCVN06_2022#Điện cấp cho hệ PCCC phải duy trì>=3h kể từ khi có cháy]]
 
 ## Đèn sự cố phải được lắp tại các khu vực sau
 
