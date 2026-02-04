@@ -1,11 +1,12 @@
 ---
 title: Vẽ ống Conduit trong auto cad bằng lips
-aliases: 
+aliases:
 tags:
-  - KHOANG_CACH_DAU_BAO_CHAY
-date: 
-url: 
-author: 
+  - CAD
+  - lips_cad
+date:
+url:
+author:
 Releated:
 ---
 

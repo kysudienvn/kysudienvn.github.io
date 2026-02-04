@@ -2,6 +2,7 @@
 title: load-lips-cad-1lan-dung-mai-mai
 tags:
   - lips_cad
+  - CAD
 ---
 gõ lệnh AP
 
