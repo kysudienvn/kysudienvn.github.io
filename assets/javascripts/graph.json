@@ -1,0 +1,1612 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "HOMEPAGE",
+      "symbolSize": 17,
+      "value": "/"
+    },
+    {
+      "id": "1",
+      "name": "Tags Page",
+      "symbolSize": 0,
+      "value": "/tags/"
+    },
+    {
+      "id": "2",
+      "name": "NYY-J CABLE",
+      "symbolSize": 0,
+      "value": "/0.Catalogue/NYY-JO/"
+    },
+    {
+      "id": "3",
+      "name": "TOA",
+      "symbolSize": 1,
+      "value": "/0.Catalogue/TOA/"
+    },
+    {
+      "id": "4",
+      "name": "Catalogue D\u00e2y c\u00e1p \u0111i\u1ec7n Cadisun",
+      "symbolSize": 0,
+      "value": "/0.Catalogue/CABLE/Catalogue%20D%C3%A2y%20c%C3%A1p%20%C4%91i%E1%BB%87n%20Cadisun/"
+    },
+    {
+      "id": "5",
+      "name": "LS CABLE CATALOGUE",
+      "symbolSize": 0,
+      "value": "/0.Catalogue/CABLE/LS-CABLE-CATALOGUE/"
+    },
+    {
+      "id": "6",
+      "name": "catalogue cable Th\u1ecbnh Ph\u00e1t",
+      "symbolSize": 0,
+      "value": "/0.Catalogue/CABLE/Untitled/"
+    },
+    {
+      "id": "7",
+      "name": "POE EXTENDER",
+      "symbolSize": 0,
+      "value": "/0.Catalogue/CCTV/POE%20EXTENDER/"
+    },
+    {
+      "id": "8",
+      "name": "B\u1ed9 \u00e2m ly t\u00edch h\u1ee3p \u0111i\u1ec1u khi\u1ec3n 4 v\u00f9ng loa",
+      "symbolSize": 0,
+      "value": "/0.Catalogue/PAGA/Bo-am-ly-4-vung-TOA/"
+    },
+    {
+      "id": "9",
+      "name": "KHS 247",
+      "symbolSize": 0,
+      "value": "/00.LINKS%20FOR%20ELECT/KHS%20247/"
+    },
+    {
+      "id": "10",
+      "name": "T\u00ecm hi\u1ec3u \u0111\u1eb7c t\u00ednh c\u1ee7a \u00c1t T\u00f4 M\u00e1t",
+      "symbolSize": 0,
+      "value": "/00.LINKS%20FOR%20ELECT/T%C3%ACm%20hi%E1%BB%83u%20%C4%91%E1%BA%B7c%20t%C3%ADnh%20c%E1%BB%A7a%20%C3%81t%20T%C3%B4%20M%C3%A1t/"
+    },
+    {
+      "id": "11",
+      "name": "T\u1ee7 \u0111i\u1ec7n Meter Cabinet",
+      "symbolSize": 0,
+      "value": "/00.LINKS%20FOR%20ELECT/T%E1%BB%A7%20%C4%91i%E1%BB%87n%20ti%C3%AAu%20chu%E1%BA%A9n%20%C4%91%E1%BB%A9c/"
+    },
+    {
+      "id": "12",
+      "name": "Ph\u00e2n lo\u1ea1i s\u01a1 \u0111\u1ed3 n\u1ed1i \u0111\u1ea5t",
+      "symbolSize": 0,
+      "value": "/00.LINKS%20FOR%20ELECT/MEPF/Ph%C3%A2n%20lo%E1%BA%A1i%20s%C6%A1%20%C4%91%E1%BB%93%20n%E1%BB%91i%20%C4%91%E1%BA%A5t/"
+    },
+    {
+      "id": "13",
+      "name": "khoa-hoc-ELV-MEPF",
+      "symbolSize": 0,
+      "value": "/00.LINKS%20FOR%20ELECT/MEPF/HE-THONG-DIEN-NHE/01.ELV/"
+    },
+    {
+      "id": "14",
+      "name": "12VDC OR POE",
+      "symbolSize": 1,
+      "value": "/00.NOTES/12VDC%20OR%20POE/"
+    },
+    {
+      "id": "15",
+      "name": "4 C\u00e1ch t\u00ednh ch\u1ecdn dung l\u01b0\u1ee3ng t\u1ee5 b\u00f9 tr\u1ea1m bi\u1ebfn \u00e1p v\u00e0 ph\u1ee5 t\u1ea3i",
+      "symbolSize": 0,
+      "value": "/00.NOTES/4%20C%C3%A1ch%20t%C3%ADnh%20ch%E1%BB%8Dn%20dung%20l%C6%B0%E1%BB%A3ng%20t%E1%BB%A5%20b%C3%B9%20tr%E1%BA%A1m%20bi%E1%BA%BFn%20%C3%A1p%20v%C3%A0%20ph%E1%BB%A5%20t%E1%BA%A3i/"
+    },
+    {
+      "id": "16",
+      "name": "BACnet MS TP",
+      "symbolSize": 1,
+      "value": "/00.NOTES/BACnet%20MS-TP/"
+    },
+    {
+      "id": "17",
+      "name": "Camera Th\u00e2n",
+      "symbolSize": 1,
+      "value": "/00.NOTES/Camera%20Th%C3%A2n/"
+    },
+    {
+      "id": "18",
+      "name": "Chu\u1ea9n n\u00e9n h\u00ecnh \u1ea3nh c\u1ee7a camera",
+      "symbolSize": 0,
+      "value": "/00.NOTES/Chu%E1%BA%A9n%20n%C3%A9n%20h%C3%ACnh%20%E1%BA%A3nh%20c%E1%BB%A7a%20camera/"
+    },
+    {
+      "id": "19",
+      "name": "\u00fd ngh\u0129a c\u1ee7a c\u00e1c ch\u1ec9 s\u1ed1 IP",
+      "symbolSize": 0,
+      "value": "/00.NOTES/Ch%E1%BB%89%20s%E1%BB%91%20IP-%20C%E1%BA%A5p%20b%E1%BA%A3o%20v%E1%BB%87%20c%E1%BB%A7a%20thi%E1%BA%BFt%20b%E1%BB%8B%20%C4%91i%E1%BB%87n/"
+    },
+    {
+      "id": "20",
+      "name": "C\u00e1c th\u00f4ng s\u1ed1 c\u1ee7a Loa",
+      "symbolSize": 2,
+      "value": "/00.NOTES/C%C3%A1c%20th%C3%B4ng%20s%E1%BB%91%20c%E1%BB%A7a%20Loa/"
+    },
+    {
+      "id": "21",
+      "name": "Theo  [[TCVN 7568-14-2025]]",
+      "symbolSize": 3,
+      "value": "/00.NOTES/C%C3%B3%20c%E1%BA%A7n%20l%E1%BA%AFp%20%C4%91%E1%BA%B7t%20%C4%91%E1%BA%A7u%20b%C3%A1o%20ch%C3%A1y%20%E1%BB%9F%20nh%C3%A0%20v%E1%BB%87%20sinh/"
+    },
+    {
+      "id": "22",
+      "name": "C\u00f4ng su\u1ea5t \u0111\u1eb7t l\u1edbn nh\u1ea5t cho ph\u00e9p",
+      "symbolSize": 0,
+      "value": "/00.NOTES/C%C3%B4ng%20su%E1%BA%A5t%20%C4%91%E1%BA%B7t%20l%E1%BB%9Bn%20nh%E1%BA%A5t%20cho%20ph%C3%A9p/"
+    },
+    {
+      "id": "23",
+      "name": "C\u1ea5u tr\u00fac c\u1ee7a m\u1ed9t h\u1ec7 th\u1ed1ng BMS",
+      "symbolSize": 0,
+      "value": "/00.NOTES/C%E1%BA%A5u%20tr%C3%BAc%20c%E1%BB%A7a%20m%E1%BB%99t%20h%E1%BB%87%20th%E1%BB%91ng%20BMS/"
+    },
+    {
+      "id": "24",
+      "name": "DAS  ACTIVE",
+      "symbolSize": 1,
+      "value": "/00.NOTES/DAS%20%20ACTIVE/"
+    },
+    {
+      "id": "25",
+      "name": "DAS Th\u1ee5 \u0111\u1ed9ng ( Passive DAS)",
+      "symbolSize": 0,
+      "value": "/00.NOTES/DAS%20Th%E1%BB%A5%20%C4%91%E1%BB%99ng%20%28%20Passive%20DAS%29/"
+    },
+    {
+      "id": "26",
+      "name": "GSM(2G)",
+      "symbolSize": 0,
+      "value": "/00.NOTES/GSM%282G%29/"
+    },
+    {
+      "id": "27",
+      "name": null,
+      "symbolSize": 0,
+      "value": "/00.NOTES/H%E1%BB%86%20TH%E1%BB%90NG%20BMS-PH%C3%82N%20T%C3%8DCH%20%C4%90%E1%BB%8CC%20B%E1%BA%A2N%20V%E1%BA%BC/"
+    },
+    {
+      "id": "28",
+      "name": "IP camera 2MPX",
+      "symbolSize": 1,
+      "value": "/00.NOTES/IP%20camera%202MPX/"
+    },
+    {
+      "id": "29",
+      "name": "IR 35M",
+      "symbolSize": 1,
+      "value": "/00.NOTES/IR%2035M/"
+    },
+    {
+      "id": "30",
+      "name": "KHI N\u00c0O D\u00d9NG COUPLER, KHI N\u00c0O D\u00d9NG SPLITTER",
+      "symbolSize": 2,
+      "value": "/00.NOTES/KHI%20N%C3%80O%20D%C3%99NG%20COUPLER%2C%20KHI%20N%C3%80O%20D%C3%99NG%20SPLITTER/"
+    },
+    {
+      "id": "31",
+      "name": "Kho\u1ea3ng c\u00e1c t\u1edbi c\u1eeda c\u1ea5p kh\u00f4ng kh\u00ed",
+      "symbolSize": 0,
+      "value": "/00.NOTES/Kho%E1%BA%A3ng%20c%C3%A1c%20t%E1%BB%9Bi%20c%E1%BB%ADa%20c%E1%BA%A5p%20kh%C3%B4ng%20kh%C3%AD/"
+    },
+    {
+      "id": "32",
+      "name": "Kho\u1ea3ng c\u00e1ch t\u1edbi t\u01b0\u1eddng nh\u1ecf nh\u1ea5t",
+      "symbolSize": 0,
+      "value": "/00.NOTES/Kho%E1%BA%A3ng%20c%C3%A1ch%20t%E1%BB%9Bi%20t%C6%B0%E1%BB%9Dng%20nh%E1%BB%8F%20nh%E1%BA%A5t/"
+    },
+    {
+      "id": "33",
+      "name": "Kho\u1ea3ng c\u00e1ch t\u1eeb \u0111\u1ea7u b\u00e1o ch\u00e1y kh\u00f3i t\u1edbi mi\u1ec7ng gi\u00f3 TCVN 7568 2025",
+      "symbolSize": 4,
+      "value": "/00.NOTES/Kho%E1%BA%A3ng%20c%C3%A1ch%20t%E1%BB%AB%20%C4%91%E1%BA%A7u%20b%C3%A1o%20ch%C3%A1y%20kh%C3%B3i%20t%E1%BB%9Bi%20mi%E1%BB%87ng%20gi%C3%B3-TCVN%207568-2025/"
+    },
+    {
+      "id": "34",
+      "name": "Kho\u1ea3ng c\u00e1ch t\u1eeb \u0111\u1ea7u b\u00e1o nhi\u1ec7t t\u1edbi mi\u1ec7ng gi\u00f3 TCVN 7568 2025",
+      "symbolSize": 3,
+      "value": "/00.NOTES/Kho%E1%BA%A3ng%20c%C3%A1ch%20t%E1%BB%AB%20%C4%91%E1%BA%A7u%20b%C3%A1o%20nhi%E1%BB%87t%20t%E1%BB%9Bi%20mi%E1%BB%87ng%20gi%C3%B3-TCVN-7568-2025/"
+    },
+    {
+      "id": "35",
+      "name": "Kho\u1ea3ng c\u00e1ch \u0111\u1ea7u b\u00e1o ch\u00e1y kh\u00f3i  TCVN 5768 14 2025",
+      "symbolSize": 1,
+      "value": "/00.NOTES/Kho%E1%BA%A3ng%20c%C3%A1ch%20%C4%91%E1%BA%A7u%20b%C3%A1o%20ch%C3%A1y%20kh%C3%B3i-%20TCVN%205768-14-2025/"
+    },
+    {
+      "id": "36",
+      "name": "Kho\u1ea3ng c\u00e1ch \u0111\u1ea7u b\u00e1o ch\u00e1y nhi\u1ec7t  TCVN 7568 2025",
+      "symbolSize": 2,
+      "value": "/00.NOTES/Kho%E1%BA%A3ng%20c%C3%A1ch%20%C4%91%E1%BA%A7u%20b%C3%A1o%20ch%C3%A1y%20nhi%E1%BB%87t%20-TCVN%207568-2025/"
+    },
+    {
+      "id": "37",
+      "name": "Kho\u1ea3ng c\u00e1ch \u0111\u1ea7u b\u00e1o ch\u00e1y tia chi\u1ebfu TCVN 7568 14 2025",
+      "symbolSize": 5,
+      "value": "/00.NOTES/Kho%E1%BA%A3ng%20c%C3%A1ch%20%C4%91%E1%BA%A7u%20b%C3%A1o%20ch%C3%A1y%20tia%20chi%E1%BA%BFu%20TCVN%207568-14-2025/"
+    },
+    {
+      "id": "38",
+      "name": "LENS 2.8 12MM",
+      "symbolSize": 1,
+      "value": "/00.NOTES/LENS%202.8-12MM/"
+    },
+    {
+      "id": "39",
+      "name": "LTE(4G)",
+      "symbolSize": 0,
+      "value": "/00.NOTES/LTE%284G%29/"
+    },
+    {
+      "id": "40",
+      "name": "MODULE C\u00c1CH LY TRONG H\u1ec6 TH\u1ed0NG  B\u00c1O CH\u00c1Y T\u1ef0 \u0110\u1ed8NG",
+      "symbolSize": 0,
+      "value": "/00.NOTES/MODULE%20C%C3%81CH%20LY%20TRONG%20H%E1%BB%86%20TH%E1%BB%90NG%20%20B%C3%81O%20CH%C3%81Y%20T%E1%BB%B0%20%C4%90%E1%BB%98NG/"
+    },
+    {
+      "id": "41",
+      "name": "MU UNITS",
+      "symbolSize": 1,
+      "value": "/00.NOTES/MU%20UNITS/"
+    },
+    {
+      "id": "42",
+      "name": "M\u1eadt \u0111\u1ed9 c\u00f4ng su\u1ea5t chi\u1ebfu s\u00e1ng t\u1ed1i \u0111a",
+      "symbolSize": 0,
+      "value": "/00.NOTES/M%E1%BA%ADt%20%C4%91%E1%BB%99%20c%C3%B4ng%20su%E1%BA%A5t%20chi%E1%BA%BFu%20s%C3%A1ng%20t%E1%BB%91i%20%C4%91a/"
+    },
+    {
+      "id": "43",
+      "name": "NVR L\u00c0 G\u00cc",
+      "symbolSize": 1,
+      "value": "/00.NOTES/NVR%20L%C3%80%20G%C3%8C/"
+    },
+    {
+      "id": "44",
+      "name": "ONVIF",
+      "symbolSize": 1,
+      "value": "/00.NOTES/ONVIF/"
+    },
+    {
+      "id": "45",
+      "name": "POI",
+      "symbolSize": 1,
+      "value": "/00.NOTES/POI/"
+    },
+    {
+      "id": "46",
+      "name": "Ph\u1ea7n m\u1ec1m t\u00ednh to\u00e1n dung l\u01b0\u1ee3ng l\u01b0u tr\u1eef camera",
+      "symbolSize": 0,
+      "value": "/00.NOTES/Ph%E1%BA%A7n%20m%E1%BB%81m%20t%C3%ADnh%20to%C3%A1n%20dung%20l%C6%B0%E1%BB%A3ng%20l%C6%B0u%20tr%E1%BB%AF%20camera/"
+    },
+    {
+      "id": "47",
+      "name": "Protective angle Table_PAGE 71-DEHN",
+      "symbolSize": 0,
+      "value": "/00.NOTES/Protective_angle_Table/"
+    },
+    {
+      "id": "48",
+      "name": "Qui \u0111\u1ecbnh b\u00e1n k\u00ednh cong t\u1ed1i thi\u1ec3u c\u1ee7a c\u00e1p",
+      "symbolSize": 1,
+      "value": "/00.NOTES/Qui%20%C4%91%E1%BB%8Bnh%20b%C3%A1n%20k%C3%ADnh%20cong%20t%E1%BB%91i%20thi%E1%BB%83u%20c%E1%BB%A7a%20c%C3%A1p/"
+    },
+    {
+      "id": "49",
+      "name": "Router l\u00e0 g\u00ec",
+      "symbolSize": 0,
+      "value": "/00.NOTES/Router%20l%C3%A0%20g%C3%AC/"
+    },
+    {
+      "id": "50",
+      "name": "Server l\u00e0 software hay hardware:",
+      "symbolSize": 0,
+      "value": "/00.NOTES/Server%20l%C3%A0%20software%20hay%20hardware/"
+    },
+    {
+      "id": "51",
+      "name": "S\u01a1 \u0111\u1ed3 nguy\u00ean l\u00fd h\u1ec7 th\u1ed1ng BMS",
+      "symbolSize": 1,
+      "value": "/00.NOTES/S%C6%A1%20%C4%91%E1%BB%93%20nguy%C3%AAn%20l%C3%BD%20h%E1%BB%87%20th%E1%BB%91ng%20BMS/"
+    },
+    {
+      "id": "52",
+      "name": "T\u00ecm hi\u1ec3u v\u1ec1 b\u1ed9 \u0111\u1ecbnh tuy\u1ebfn",
+      "symbolSize": 1,
+      "value": "/00.NOTES/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20b%E1%BB%99%20%C4%91%E1%BB%8Bnh%20tuy%E1%BA%BFn/"
+    },
+    {
+      "id": "53",
+      "name": "T\u00ednh chi\u1ec1u d\u00e0y c\u1ee7a Foundation cho m\u00e1y ph\u00e1t",
+      "symbolSize": 2,
+      "value": "/00.NOTES/T%C3%ADnh%20chi%E1%BB%81u%20d%C3%A0y%20c%E1%BB%A7a%20Foundation%20cho%20m%C3%A1y%20ph%C3%A1t/"
+    },
+    {
+      "id": "54",
+      "name": "T\u00ednh ti\u1ebft di\u1ec7n d\u00e2y d\u1eabn tr\u1ef1c tuy\u1ebfn",
+      "symbolSize": 0,
+      "value": "/00.NOTES/T%C3%ADnh%20ti%E1%BA%BFt%20di%E1%BB%87n%20d%C3%A2y%20d%E1%BA%ABn%20tr%E1%BB%B1c%20tuy%E1%BA%BFn/"
+    },
+    {
+      "id": "55",
+      "name": "T\u1ea7m quan tr\u1ecdng c\u1ee7a \u0111\u1ecbnh tuy\u1ebfn l\u00e0 g\u00ec",
+      "symbolSize": 1,
+      "value": "/00.NOTES/T%E1%BA%A7m%20quan%20tr%E1%BB%8Dng%20c%E1%BB%A7a%20%C4%91%E1%BB%8Bnh%20tuy%E1%BA%BFn%20l%C3%A0%20g%C3%AC/"
+    },
+    {
+      "id": "56",
+      "name": "Untitled 3",
+      "symbolSize": 0,
+      "value": "/00.NOTES/Untitled%203/"
+    },
+    {
+      "id": "57",
+      "name": "V\u00ec sao khi c\u00f4ng su\u1ea5t loa t\u0103ng g\u1ea5p \u0111\u00f4i th\u00ec m\u1ee9c \u00e1p su\u1ea5t \u00e2m s\u1ebd t\u0103ng th\u00eam 3dB",
+      "symbolSize": 1,
+      "value": "/00.NOTES/V%C3%AC%20sao%20khi%20c%C3%B4ng%20su%E1%BA%A5t%20loa%20t%C4%83ng%20g%E1%BA%A5p%20%C4%91%C3%B4i%20th%C3%AC%20m%E1%BB%A9c%20%C3%A1p%20su%E1%BA%A5t%20%C3%A2m%20s%E1%BA%BD%20t%C4%83ng%20th%C3%AAm%203dB/"
+    },
+    {
+      "id": "58",
+      "name": "WCDMA(3G)",
+      "symbolSize": 0,
+      "value": "/00.NOTES/WCDMA%283G%29/"
+    },
+    {
+      "id": "59",
+      "name": "B\u0103ng th\u00f4ng c\u1ee7a switch l\u00e0 g\u00ec",
+      "symbolSize": 0,
+      "value": "/00.NOTES/bang-thong-cua-switch/"
+    },
+    {
+      "id": "60",
+      "name": "kho\u1ea3ng c\u00e1ch t\u1eeb \u0111\u1ea7u b\u00e1o \u0111\u1ebfn T\u01af\u1edcNG,mi\u1ec7ng gi\u00f3 \u0111i\u1ec1u h\u00f2a 7568 2025",
+      "symbolSize": 2,
+      "value": "/00.NOTES/kho%E1%BA%A3ng%20c%C3%A1ch%20t%E1%BB%AB%20%C4%91%E1%BA%A7u%20b%C3%A1o%20%C4%91%E1%BA%BFn%20T%C6%AF%E1%BB%9CNG%2Cmi%E1%BB%87ng%20gi%C3%B3%20%C4%91i%E1%BB%81u%20h%C3%B2a-7568-2025/"
+    },
+    {
+      "id": "61",
+      "name": "Ti\u00eau chu\u1ea9n TCVN n\u00e0o cho ph\u00e9p \u0111\u1eb7t m\u00e1y bi\u1ebfn \u00e1p \u1edf t\u1ea7ng h\u1ea7m 1",
+      "symbolSize": 0,
+      "value": "/00.NOTES/vi-tri-lap-dat-MBA_GENERATOR/"
+    },
+    {
+      "id": "62",
+      "name": "\u0110i\u1ec1u khi\u1ec3n chi\u1ebfu s\u00e1ng",
+      "symbolSize": 0,
+      "value": "/00.NOTES/%C4%90i%E1%BB%81u%20khi%E1%BB%83n%20chi%E1%BA%BFu%20s%C3%A1ng/"
+    },
+    {
+      "id": "63",
+      "name": "\u0110\u1ea7u b\u00e1o ch\u00e1y tr\u00ean tr\u1ea7n gi\u1ea3 ( kh\u00f4ng gian che k\u00edn) tcvn 7568 2025",
+      "symbolSize": 0,
+      "value": "/00.NOTES/%C4%90%E1%BA%A7u%20b%C3%A1o%20ch%C3%A1y%20tr%C3%AAn%20tr%E1%BA%A7n%20gi%E1%BA%A3%20%28%20kh%C3%B4ng%20gian%20che%20k%C3%ADn%29-tcvn%207568-2025/"
+    },
+    {
+      "id": "64",
+      "name": "\u0110\u1ecbnh tuy\u1ebfn l\u00e0 g\u00ec",
+      "symbolSize": 1,
+      "value": "/00.NOTES/%C4%90%E1%BB%8Bnh%20tuy%E1%BA%BFn%20l%C3%A0%20g%C3%AC/"
+    },
+    {
+      "id": "65",
+      "name": "\u0110\u1ed9 s\u1ee5t \u00e1p l\u1edbn nh\u1ea5t cho ph\u00e9p tr\u00ean \u0111\u01b0\u1eddng d\u00e2y d\u1eabn \u0111i\u1ec7n trong ch\u1ebf \u0111\u1ed9 v\u1eadn h\u00e0nh b\u00ecnh th\u01b0\u1eddng ( \u1ed5n \u0111\u1ecbnh t\u0129nh)",
+      "symbolSize": 0,
+      "value": "/00.NOTES/%C4%90%E1%BB%99%20s%E1%BB%A5t%20%C3%A1p%20l%E1%BB%9Bn%20nh%E1%BA%A5t%20cho%20ph%C3%A9p/"
+    },
+    {
+      "id": "66",
+      "name": "Ph\u00f2ng y\u00eau c\u1ea7u chi\u1ebfu s\u00e1ng s\u1ef1 c\u1ed1 l\u1edbn h\u01a1n 60m2",
+      "symbolSize": 0,
+      "value": "/00.NOTES/00.1_Chi%E1%BA%BFu%20s%C3%A1ng/Ph%C3%B2ng%20y%C3%AAu%20c%E1%BA%A7u%20chi%E1%BA%BFu%20s%C3%A1ng%20s%E1%BB%B1%20c%E1%BB%91%20l%E1%BB%9Bn%20h%C6%A1n%2060m2/"
+    },
+    {
+      "id": "67",
+      "name": "\u0110\u1ed9 r\u1ecdi nh\u1ecf nh\u1ea5t cho ph\u00e9p cs nh\u00e2n t\u1ea1o nh\u00e0 \u1edf, nh\u00e0 c\u00f4ng c\u1ed9ng",
+      "symbolSize": 2,
+      "value": "/00.NOTES/00.1_Chi%E1%BA%BFu%20s%C3%A1ng/%C4%90%E1%BB%99%20r%E1%BB%8Di%20nh%E1%BB%8F%20nh%E1%BA%A5t%20cho%20ph%C3%A9p%20%20cs%20nh%C3%A2n%20t%E1%BA%A1o%20nh%C3%A0%20%E1%BB%9F%2C%20nh%C3%A0%20c%C3%B4ng%20c%E1%BB%99ng/"
+    },
+    {
+      "id": "68",
+      "name": "B\u1ea2O V\u1ec6 PH\u1ea6N PH\u00cdA TR\u00caN C\u1ee6A T\u00d2A NH\u00c0 CAO T\u1ea6NG",
+      "symbolSize": 2,
+      "value": "/00.NOTES/00.2_N%E1%BB%91i%20%C4%91%E1%BA%A5t-%20Ch%E1%BB%91ng%20s%C3%A9t/B%E1%BA%A2O%20V%E1%BB%86%20PH%E1%BA%A6N%20PH%C3%8DA%20TR%C3%8AN%20C%E1%BB%A6A%20T%C3%92A%20NH%C3%80%20CAO%20T%E1%BA%A6NG/"
+    },
+    {
+      "id": "69",
+      "name": "B\u1ea3ng 12  Ti\u1ebft di\u1ec7n t\u1ed1i thi\u1ec3u c\u1ee7a d\u00e2y b\u1ea3o v\u1ec7 (PE)",
+      "symbolSize": 1,
+      "value": "/00.NOTES/00.2_N%E1%BB%91i%20%C4%91%E1%BA%A5t-%20Ch%E1%BB%91ng%20s%C3%A9t/B%E1%BA%A3ng%2012%20%20Ti%E1%BA%BFt%20di%E1%BB%87n%20t%E1%BB%91i%20thi%E1%BB%83u%20c%E1%BB%A7a%20d%C3%A2y%20b%E1%BA%A3o%20v%E1%BB%87%20%28PE%29/"
+    },
+    {
+      "id": "70",
+      "name": "Kho\u1ea3ng c\u00e1ch l\u1edbn nh\u1ea5t gi\u1eefa c\u00e1c d\u00e2y d\u1eabn xu\u1ed1ng \u0111\u1ea5t theo c\u1ea5p c\u1ee7a LPS",
+      "symbolSize": 1,
+      "value": "/00.NOTES/00.2_N%E1%BB%91i%20%C4%91%E1%BA%A5t-%20Ch%E1%BB%91ng%20s%C3%A9t/Kho%E1%BA%A3ng%20c%C3%A1ch%20l%E1%BB%9Bn%20nh%E1%BA%A5t%20gi%E1%BB%AFa%20c%C3%A1c%20d%C3%A2y%20d%E1%BA%ABn%20xu%E1%BB%91ng%20%C4%91%E1%BA%A5t%20theo%20c%E1%BA%A5p%20c%E1%BB%A7a%20LPS/"
+    },
+    {
+      "id": "71",
+      "name": "M\u1eb7t c\u1eaft d\u00e2y trung t\u00ednh t\u1ed1i thi\u1ec3u",
+      "symbolSize": 0,
+      "value": "/00.NOTES/00.2_N%E1%BB%91i%20%C4%91%E1%BA%A5t-%20Ch%E1%BB%91ng%20s%C3%A9t/d%C3%A2y%20trung%20t%C3%ADnh/"
+    },
+    {
+      "id": "72",
+      "name": "C\u00e1c Khu v\u1ef1c kh\u00f4ng c\u1ea7n l\u1eafp \u0111\u1ea7u b\u00e1o ch\u00e1y",
+      "symbolSize": 2,
+      "value": "/00.NOTES/00.3_B%C3%A1o%20ch%C3%A1y/C%C3%A1c%20Khu%20v%E1%BB%B1c%20kh%C3%B4ng%20c%E1%BA%A7n%20l%E1%BA%AFp%20%C4%91%E1%BA%A7u%20b%C3%A1o%20ch%C3%A1y/"
+    },
+    {
+      "id": "73",
+      "name": "BMS SYSTEM OVERALL",
+      "symbolSize": 3,
+      "value": "/00.NOTES/BMS/BMS%20SYSTEM%20OVERALL/"
+    },
+    {
+      "id": "74",
+      "name": "L\u1eadp b\u1ea3ng \u0111i\u1ec3m chi ti\u1ebft cho h\u1ec7 th\u1ed1ng BMS ( POINT SCHEDULE)",
+      "symbolSize": 0,
+      "value": "/00.NOTES/BMS/L%E1%BA%ADp%20b%E1%BA%A3ng%20%C4%91i%E1%BB%83m%20chi%20ti%E1%BA%BFt%20cho%20h%E1%BB%87%20th%E1%BB%91ng%20BMS%20%28%20POINT%20SCHEDULE%29/"
+    },
+    {
+      "id": "75",
+      "name": "Vai tr\u00f2 c\u1ee7a h\u1ec7 th\u1ed1ng BMS",
+      "symbolSize": 1,
+      "value": "/00.NOTES/BMS/Vai%20tr%C3%B2%20c%E1%BB%A7a%20h%E1%BB%87%20th%E1%BB%91ng%20BMS/"
+    },
+    {
+      "id": "76",
+      "name": "Untitled",
+      "symbolSize": 0,
+      "value": "/00.NOTES/H%E1%BB%87%20th%E1%BB%91ng%20%C4%91%E1%BB%97%20xe/Untitled/"
+    },
+    {
+      "id": "77",
+      "name": "T\u00ednh \u1ed1ng- Conduit",
+      "symbolSize": 0,
+      "value": "/00.XlS/T%C3%ADnh%20conduit%20lu%E1%BB%93n%20c%C3%A1p/"
+    },
+    {
+      "id": "78",
+      "name": "T\u00ednh nhanh d\u00f2ng, C\u00e1p",
+      "symbolSize": 0,
+      "value": "/00.XlS/T%C3%ADnh%20nhanh%20d%C3%B2ng%2C%20C%C3%A1p/"
+    },
+    {
+      "id": "79",
+      "name": "TCVN 7568-14-2025",
+      "symbolSize": 5,
+      "value": "/1.STANDARD/Fire_Alarm/TCVN%207568-14-2025/"
+    },
+    {
+      "id": "80",
+      "name": "TCVN3890",
+      "symbolSize": 2,
+      "value": "/1.STANDARD/Fire_Alarm/TCVN3890-2023/"
+    },
+    {
+      "id": "81",
+      "name": "TCVN5738_2021",
+      "symbolSize": 1,
+      "value": "/1.STANDARD/Fire_Alarm/TCVN5738_2021/"
+    },
+    {
+      "id": "82",
+      "name": "Catalogue Generator 250kVA",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/Generation/Catalogue_Generator_250kVA/"
+    },
+    {
+      "id": "83",
+      "name": "Generator 150kva",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/Generation/Generator-150kva/"
+    },
+    {
+      "id": "84",
+      "name": "Installation for Generator ( Cumin)",
+      "symbolSize": 2,
+      "value": "/1.STANDARD/Generation/Installation%20for%20Generator/"
+    },
+    {
+      "id": "85",
+      "name": "Ti\u00eau chu\u1ea9n cho ph\u00f2ng m\u00e1y ph\u00e1t \u0111i\u1ec7n - Makawa",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/Generation/Ti%C3%AAu%20chu%E1%BA%A9n%20cho%20ph%C3%B2ng%20m%C3%A1y%20ph%C3%A1t%20%C4%91i%E1%BB%87n%20-%20Makawa/"
+    },
+    {
+      "id": "86",
+      "name": "001.C\u00e1c ti\u00eau chu\u1ea9n chi\u1ebfu s\u00e1ng",
+      "symbolSize": 5,
+      "value": "/1.STANDARD/Lighting/001.C%C3%A1c%20ti%C3%AAu%20chu%E1%BA%A9n%20chi%E1%BA%BFu%20s%C3%A1ng/"
+    },
+    {
+      "id": "87",
+      "name": "CHI\u1ebeU S\u00c1NG S\u1ef0 C\u1ed0",
+      "symbolSize": 3,
+      "value": "/1.STANDARD/Lighting/CHI%E1%BA%BEU%20S%C3%81NG%20S%E1%BB%B0%20C%E1%BB%90/"
+    },
+    {
+      "id": "88",
+      "name": "EN12464_lighting Lighting -Indoor",
+      "symbolSize": 2,
+      "value": "/1.STANDARD/Lighting/EN12464_lighting/"
+    },
+    {
+      "id": "89",
+      "name": "ISO_CIE_8995_1_2002_E Ti\u00eau chu\u1ea9n chi\u1ebfu s\u00e1ng",
+      "symbolSize": 2,
+      "value": "/1.STANDARD/Lighting/ISO_CIE_8995_1_2002_E/"
+    },
+    {
+      "id": "90",
+      "name": "S\u00e1ch h\u01b0\u1edbng d\u1eabn dialux evo",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/Lighting/S%C3%A1ch%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20dialux%20evo/"
+    },
+    {
+      "id": "91",
+      "name": "TCVN7114-1-2008 Chi\u1ebfu s\u00e1ng n\u01a1i l\u00e0m vi\u1ec7c trong nh\u00e0",
+      "symbolSize": 2,
+      "value": "/1.STANDARD/Lighting/TCVN7114-1-2008_chi%E1%BA%BFu%20s%C3%A1ng%20n%C6%A1i%20l%C3%A0m%20vi%E1%BB%87c%20trong%20nh%C3%A0/"
+    },
+    {
+      "id": "92",
+      "name": "TCXDVN 333 2005 Chi\u1ebfu s\u00e1ng nh\u00e2n t\u1ea1o b\u00ean ngo\u00e0i c\u00f4ng tr\u00ecnh c\u00f4ng c\u1ed9ng",
+      "symbolSize": 2,
+      "value": "/1.STANDARD/Lighting/TCXDVN_333_2005%20Chi%E1%BA%BFu%20s%C3%A1ng%20nh%C3%A2n%20t%E1%BA%A1o%20b%C3%AAn%20ngo%C3%A0i%20c%C3%B4ng%20tr%C3%ACnh%20c%C3%B4ng%20c%E1%BB%99ng%20v%C3%A0%20k%E1%BB%B9%20thu%E1%BA%ADt%20h%E1%BA%A1%20t%E1%BA%A7n%20%C4%91%C3%B4%20th%E1%BB%8B/"
+    },
+    {
+      "id": "93",
+      "name": "DEHN",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/Lightning_Grounding/DEHN/"
+    },
+    {
+      "id": "94",
+      "name": "[[TCVN9385-2012]] : CH\u1ed0NG S\u00c9T",
+      "symbolSize": 2,
+      "value": "/1.STANDARD/Lightning_Grounding/TCVN/"
+    },
+    {
+      "id": "95",
+      "name": "NFPA 72 EMERGENCY COMM",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/PAGA/NFPA%2072%20EMERGENCY%20COMM/"
+    },
+    {
+      "id": "96",
+      "name": "TCVN7568 H\u1ec6 TH\u1ed0NG B\u00c1O CH\u00c1Y",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/PAGA/TCVN7568-19/"
+    },
+    {
+      "id": "97",
+      "name": "Tham kh\u1ea3o loa TOA",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/PAGA/Tham%20kh%E1%BA%A3o%20loa%20TOA/"
+    },
+    {
+      "id": "98",
+      "name": "QCVN06_2022: Qui chu\u1ea9n k\u1ef9 thu\u1eadt qu\u1ed1c gia v\u1ec1 an to\u00e0n ch\u00e1y cho nh\u00e0 v\u00e0 c\u00f4ng tr\u00ecnh",
+      "symbolSize": 2,
+      "value": "/1.STANDARD/QCVN/QCVN06_2022/"
+    },
+    {
+      "id": "99",
+      "name": "QCVN09 Quy chu\u1ea9n k\u1ef9 thu\u1eadt qu\u1ed1c gia v\u1ec1 c\u00e1c c\u00f4ng tr\u00ecnh x\u00e2y d\u1ef1ng s\u1eed d\u1ee5ng n\u0103ng l\u01b0\u1ee3ng hi\u1ec7u qu\u1ea3.",
+      "symbolSize": 1,
+      "value": "/1.STANDARD/QCVN/QCVN09-2013/"
+    },
+    {
+      "id": "100",
+      "name": "QCVN 12-2014 Quy chu\u1ea9n k\u1ef9 thu\u1eadt qu\u1ed1c gia v\u1ec1 h\u1ec7 th\u1ed1ng \u0111i\u1ec7n c\u1ee7a nh\u00e0 \u1edf v\u00e0 nh\u00e0 c\u00f4ng c\u1ed9ng",
+      "symbolSize": 5,
+      "value": "/1.STANDARD/QCVN/QCVN12-2014/"
+    },
+    {
+      "id": "101",
+      "name": "TCVN 9250 2012 TRUNG T\u00c2M D\u1eee LI\u1ec6U Y\u00caU C\u1ea6U V\u1ec0 H\u1ea0 T\u1ea6NG K\u1ef8 THU\u1eacT VI\u1ec4N TH\u00d4NG",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/TCVN/TCVN%209250-2012%20TRUNG%20T%C3%82M%20D%E1%BB%AE%20LI%E1%BB%86U-Y%C3%8AU%20C%E1%BA%A6U%20V%E1%BB%80%20H%E1%BA%A0%20T%E1%BA%A6NG%20K%E1%BB%B8%20THU%E1%BA%ACT%20VI%E1%BB%84N%20TH%C3%94NG/"
+    },
+    {
+      "id": "102",
+      "name": "TCVN 9358 -2012 L\u1eaeP \u0110\u1eb6T H\u1ec6 TH\u1ed0NG N\u1ed0I \u0110\u1ea4T THI\u1ebeT B\u1eca CHO C\u00c1C C\u00d4NG TR\u00ccNH C\u00d4NG NGHI\u1ec6P- Y\u00caU C\u1ea6U CHUNG",
+      "symbolSize": 1,
+      "value": "/1.STANDARD/TCVN/TCVN%209358%20-2012/"
+    },
+    {
+      "id": "103",
+      "name": "TCVN 9206-2012",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/TCVN/TCVN9206_2012/"
+    },
+    {
+      "id": "104",
+      "name": "TCVN9207-2012",
+      "symbolSize": 2,
+      "value": "/1.STANDARD/TCVN/TCVN9207-2012/"
+    },
+    {
+      "id": "105",
+      "name": "TCVN9208-2012",
+      "symbolSize": 0,
+      "value": "/1.STANDARD/TCVN/TCVN9208-2012/"
+    },
+    {
+      "id": "106",
+      "name": "TCVN9385- 2012 CH\u1ed0NG S\u00c9T CHO C\u00d4NG TR\u00ccNH X\u00c2Y D\u1ef0NG",
+      "symbolSize": 1,
+      "value": "/1.STANDARD/TCVN/TCVN9385-2012/"
+    },
+    {
+      "id": "107",
+      "name": "b\u1ea3ng t\u00ednh to\u00e1n d\u00f2ng ng\u1eafn m\u1ea1ch t\u1ea1i \u0111\u1ea7u c\u1ef1c m\u00e1y bi\u1ebfn \u00e1p",
+      "symbolSize": 0,
+      "value": "/2.ELT/Short_circuit/"
+    },
+    {
+      "id": "108",
+      "name": null,
+      "symbolSize": 4,
+      "value": "/3.ELV/0001-Ch%E1%BB%A9c%20n%C4%83ng%20%C4%91%E1%BB%8Bnh%20tuy%E1%BA%BFn/"
+    },
+    {
+      "id": "109",
+      "name": "ELV OVERVIEW",
+      "symbolSize": 1,
+      "value": "/3.ELV/ELV-OVERVIEW/"
+    },
+    {
+      "id": "110",
+      "name": "Untitled",
+      "symbolSize": 0,
+      "value": "/3.ELV/BMS/Untitled/"
+    },
+    {
+      "id": "111",
+      "name": "B\u1ed9 t\u0103ng \u00e2m s\u1ed1 k\u00e8m mixer c\u1ee7a Toa",
+      "symbolSize": 0,
+      "value": "/3.ELV/B%E1%BB%99%20t%C4%83ng%20%C3%A2m%20s%E1%BB%91%20k%C3%A8m%20Mixer%20c%E1%BB%A7a%20Toa/B%E1%BB%99%20t%C4%83ng%20%C3%A2m%20s%E1%BB%91%20k%C3%A8m%20mixer%20c%E1%BB%A7a%20Toa/"
+    },
+    {
+      "id": "112",
+      "name": "B\u1ed9 \u0111i\u1ec1u khi\u1ec3n t\u00edch h\u1ee3p \u00e2m ly",
+      "symbolSize": 0,
+      "value": "/3.ELV/B%E1%BB%99%20t%C4%83ng%20%C3%A2m%20s%E1%BB%91%20k%C3%A8m%20Mixer%20c%E1%BB%A7a%20Toa/B%E1%BB%99%20%C4%91i%E1%BB%81u%20khi%E1%BB%83n%20t%C3%ADch%20h%E1%BB%A3p%20%C3%A2m%20ly/"
+    },
+    {
+      "id": "113",
+      "name": "CCTV MOC",
+      "symbolSize": 2,
+      "value": "/3.ELV/CCTV/CCTV%20MOC/"
+    },
+    {
+      "id": "114",
+      "name": "T\u00ednh To\u00e1n Dung l\u01b0\u1ee3ng \u1ed5 c\u1ee9ng cho  Camera",
+      "symbolSize": 0,
+      "value": "/3.ELV/CCTV/Camera-Storage/"
+    },
+    {
+      "id": "115",
+      "name": "Ch\u1ec9 s\u1ed1 v\u00f9ng nh\u00ecn c\u1ee7a camera",
+      "symbolSize": 1,
+      "value": "/3.ELV/CCTV/Ch%E1%BB%89%20s%E1%BB%91%20v%C3%B9ng%20nh%C3%ACn%20c%E1%BB%A7a%20camera/"
+    },
+    {
+      "id": "116",
+      "name": "TVL L\u00c0 G\u00cc",
+      "symbolSize": 1,
+      "value": "/3.ELV/CCTV/TVL%20L%C3%80%20G%C3%8C/"
+    },
+    {
+      "id": "117",
+      "name": "Ti\u00eau chu\u1ea9n Onvif l\u00e0 g\u00ec",
+      "symbolSize": 1,
+      "value": "/3.ELV/CCTV/Ti%C3%AAu%20chu%E1%BA%A9n%20Onvif%20l%C3%A0%20g%C3%AC/"
+    },
+    {
+      "id": "118",
+      "name": "B\u00c0I 10: H\u01af\u1edaNG D\u1eaaN \u0110\u1eccC B\u1ea2N V\u1ebc CCTV IP \u2013 CHUNG C\u01af | SUGAR MEPF",
+      "symbolSize": 0,
+      "value": "/3.ELV/CCTV/%C4%90%E1%BB%8CC%20B%E1%BA%A2N%20V%E1%BA%BC%20CCTV-IP/"
+    },
+    {
+      "id": "119",
+      "name": "B\u1ed8 CHIA KH\u00d4NG C\u00c2N B\u1eb0NG",
+      "symbolSize": 0,
+      "value": "/3.ELV/H%E1%BB%87%20Th%E1%BB%91ng%20IBS%20t%C3%B2a%20nh%C3%A0/BO-CHIA-KHONG-CAN-BANG/"
+    },
+    {
+      "id": "120",
+      "name": "C\u00c1C B\u1ed8 CHIA \u0110\u1ec0U SPLITTERS",
+      "symbolSize": 0,
+      "value": "/3.ELV/H%E1%BB%87%20Th%E1%BB%91ng%20IBS%20t%C3%B2a%20nh%C3%A0/CAC-BO-CHIA-DEU-SPLITTERS/"
+    },
+    {
+      "id": "121",
+      "name": "DAS SYSTEM",
+      "symbolSize": 1,
+      "value": "/3.ELV/H%E1%BB%87%20Th%E1%BB%91ng%20IBS%20t%C3%B2a%20nh%C3%A0/DAS-SYSTEM/"
+    },
+    {
+      "id": "122",
+      "name": "HE THONG HYBRID DAS AND PASSIVE DAS",
+      "symbolSize": 0,
+      "value": "/3.ELV/H%E1%BB%87%20Th%E1%BB%91ng%20IBS%20t%C3%B2a%20nh%C3%A0/HE-THONG-HYBRID-DAS-AND-PASSIVE-DAS/"
+    },
+    {
+      "id": "123",
+      "name": "H\u1ec7 Th\u1ed1ng IBS",
+      "symbolSize": 1,
+      "value": "/3.ELV/H%E1%BB%87%20Th%E1%BB%91ng%20IBS%20t%C3%B2a%20nh%C3%A0/H%E1%BB%87%20Th%E1%BB%91ng%20IBS/"
+    },
+    {
+      "id": "124",
+      "name": "MATV v\u00e0 CATV",
+      "symbolSize": 0,
+      "value": "/3.ELV/H%E1%BB%87%20th%E1%BB%91ng%20TV/01.%20C%C3%A1c%20h%E1%BB%87%20th%E1%BB%91ng%20TV/"
+    },
+    {
+      "id": "125",
+      "name": null,
+      "symbolSize": 1,
+      "value": "/3.ELV/Ki%E1%BB%83m%20so%C3%A1t%20v%C3%A0o%20ra-Access%20control/1.Nguy%C3%AAn%20l%C3%BD%20h%E1%BB%87%20th%E1%BB%91ng%20ACCESS%20CONTROL/"
+    },
+    {
+      "id": "126",
+      "name": "2.Gi\u1edbi thi\u1ec7u h\u1ec7 th\u1ed1ng-ACCESS CONTROL-HIKVISION",
+      "symbolSize": 3,
+      "value": "/3.ELV/Ki%E1%BB%83m%20so%C3%A1t%20v%C3%A0o%20ra-Access%20control/2.Gi%E1%BB%9Bi%20thi%E1%BB%87u%20h%E1%BB%87%20th%E1%BB%91ng-ACCESS%20CONTROL-HIKVISION/"
+    },
+    {
+      "id": "127",
+      "name": "KH\u00c1C G\u00cc C\u00c1P RS485",
+      "symbolSize": 1,
+      "value": "/3.ELV/Ki%E1%BB%83m%20so%C3%A1t%20v%C3%A0o%20ra-Access%20control/KH%C3%81C%20G%C3%8C%20C%C3%81P%20RS485/"
+    },
+    {
+      "id": "128",
+      "name": "K\u1ebeT N\u1ed0I WIEGAND V\u00c0 K\u1ebeT N\u1ed0I RS485",
+      "symbolSize": 1,
+      "value": "/3.ELV/Ki%E1%BB%83m%20so%C3%A1t%20v%C3%A0o%20ra-Access%20control/K%E1%BA%BET%20N%E1%BB%90I%20WIEGAND%20V%C3%80%20K%E1%BA%BET%20N%E1%BB%90I%20RS485/"
+    },
+    {
+      "id": "129",
+      "name": null,
+      "symbolSize": 0,
+      "value": "/3.ELV/Ki%E1%BB%83m%20so%C3%A1t%20v%C3%A0o%20ra-Access%20control/S%E1%BA%A3n%20ph%E1%BA%A9m%20v%C3%A0%20%E1%BB%A9ng%20d%E1%BB%A5ng%20part%203%20-%20HCSA%20Access%20Control%20-%20Hikvision/"
+    },
+    {
+      "id": "130",
+      "name": "c\u00e1p RVV",
+      "symbolSize": 2,
+      "value": "/3.ELV/Ki%E1%BB%83m%20so%C3%A1t%20v%C3%A0o%20ra-Access%20control/c%C3%A1p%20RVV/"
+    },
+    {
+      "id": "131",
+      "name": "kho\u1ea3ng c\u00e1ch b\u1ed1 tr\u00ed loa \u00e2m thanh th\u00f4ng b\u00e1o",
+      "symbolSize": 2,
+      "value": "/3.ELV/PAGA/BO-TRI-LOA-AM-THANH-THONG-BAO/"
+    },
+    {
+      "id": "132",
+      "name": "GI\u1ea2I TH\u00cdCH GI\u00c1 TR\u1eca TR\u1ede KH\u00c1NG C\u1ee6A AMPLI  TRONG H\u1ec6 TH\u1ed0NG LOA",
+      "symbolSize": 0,
+      "value": "/3.ELV/PAGA/GI%E1%BA%A2I%20TH%C3%8DCH%20GI%C3%81%20TR%E1%BB%8A%20TR%E1%BB%9E%20KH%C3%81NG%20C%E1%BB%A6A%20AMPLI%20%20TRONG%20H%E1%BB%86%20TH%E1%BB%90NG%20LOA/"
+    },
+    {
+      "id": "133",
+      "name": "C\u00e1c th\u00e0nh ph\u1ea7n kh\u00e1c c\u1ee7a h\u1ec7 th\u1ed1ng",
+      "symbolSize": 0,
+      "value": "/3.ELV/PAGA/PAGA_H%E1%BB%86%20FV%20200%20_TOA/C%C3%A1c%20th%C3%A0nh%20ph%E1%BA%A7n%20kh%C3%A1c%20c%E1%BB%A7a%20h%E1%BB%87%20th%E1%BB%91ng/"
+    },
+    {
+      "id": "134",
+      "name": "B\u1ed9 chuy\u1ec3n m\u1ea1ch t\u0103ng \u00e2m",
+      "symbolSize": 0,
+      "value": "/3.ELV/PAGA/PAGA_H%E1%BB%86%20FV%20200%20_TOA/FV-200CA-AS/"
+    },
+    {
+      "id": "135",
+      "name": "B\u1ed8 PH\u00c1T TIN NH\u1eaeN KH\u1ea8N C\u1ea4P",
+      "symbolSize": 1,
+      "value": "/3.ELV/PAGA/PAGA_H%E1%BB%86%20FV%20200%20_TOA/FV-200EV-AS/"
+    },
+    {
+      "id": "136",
+      "name": "B\u1ed9 mixer ti\u1ec1n khu\u1ebfch \u0111\u1ea1i",
+      "symbolSize": 1,
+      "value": "/3.ELV/PAGA/PAGA_H%E1%BB%86%20FV%20200%20_TOA/FV-200PP-AS/"
+    },
+    {
+      "id": "137",
+      "name": "B\u1ed8 C\u1ea4P NGU\u1ed2N",
+      "symbolSize": 1,
+      "value": "/3.ELV/PAGA/PAGA_H%E1%BB%86%20FV%20200%20_TOA/FV-200PS-AS/"
+    },
+    {
+      "id": "138",
+      "name": "B\u1ed9 giao ti\u1ebfp Micro ch\u1ecdn v\u00f9ng t\u1eeb xa",
+      "symbolSize": 2,
+      "value": "/3.ELV/PAGA/PAGA_H%E1%BB%86%20FV%20200%20_TOA/FV-200RF-AS/"
+    },
+    {
+      "id": "139",
+      "name": "T\u0103ng \u00e2m 224PA",
+      "symbolSize": 1,
+      "value": "/3.ELV/PAGA/PAGA_H%E1%BB%86%20FV%20200%20_TOA/FV-224PA-AS/"
+    },
+    {
+      "id": "140",
+      "name": "B\u1ed9 theo d\u00f5i \u0111\u01b0\u1eddng d\u00e2y loa",
+      "symbolSize": 1,
+      "value": "/3.ELV/PAGA/PAGA_H%E1%BB%86%20FV%20200%20_TOA/MP-210-AS/"
+    },
+    {
+      "id": "141",
+      "name": "Micro ch\u1ecdn vung t\u1eeb xa RM-200M",
+      "symbolSize": 1,
+      "value": "/3.ELV/PAGA/PAGA_H%E1%BB%86%20FV%20200%20_TOA/RM-200M/"
+    },
+    {
+      "id": "142",
+      "name": "T\u00ednh C\u00e1p cho Loa",
+      "symbolSize": 0,
+      "value": "/3.ELV/PAGA/T%C3%ADnh%20C%C3%A1p%20cho%20Loa/PAGA%20CABLE%20CALCULATION/"
+    },
+    {
+      "id": "143",
+      "name": "H\u1ec7 th\u1ed1ng \u0111\u1ed7 xe",
+      "symbolSize": 0,
+      "value": "/3.ELV/Parking%20system/he-thong-do-xe/"
+    },
+    {
+      "id": "144",
+      "name": "Smart home KNX",
+      "symbolSize": 0,
+      "value": "/3.ELV/Smart%20Home/Smart_home_KNX/"
+    },
+    {
+      "id": "145",
+      "name": "B\u00c0I 8 H\u01af\u1edaNG D\u1eaaN \u0110\u1eccC B\u1ea2N V\u1ebc ITT - PON GPON - CHUNG C\u01af",
+      "symbolSize": 0,
+      "value": "/3.ELV/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20h%E1%BB%87%20th%E1%BB%91ng%20Data/B%C3%80I%208%20H%C6%AF%E1%BB%9ANG%20D%E1%BA%AAN%20%C4%90%E1%BB%8CC%20B%E1%BA%A2N%20V%E1%BA%BC%20ITT%20-%20PON%20GPON%20-%20CHUNG%20C%C6%AF/"
+    },
+    {
+      "id": "146",
+      "name": "kho\u1ea3ng c\u00e1ch cat5e cat6",
+      "symbolSize": 0,
+      "value": "/3.ELV/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20h%E1%BB%87%20th%E1%BB%91ng%20Data/kho%E1%BA%A3ng%20c%C3%A1ch%20cat5e%20cat6/"
+    },
+    {
+      "id": "147",
+      "name": "Ph\u1ea7n 1  T\u1ea1o \u0111\u1ecba \u0111i\u1ec3m tr\u00ean ph\u1ea7n m\u1ec1m PV syst",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%206/Ph%E1%BA%A7n%201_%20T%E1%BA%A1o%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20tr%C3%AAn%20ph%E1%BA%A7n%20m%E1%BB%81m%20PV%20syst/"
+    },
+    {
+      "id": "148",
+      "name": "Ph\u1ea7n 2  T\u00ednh to\u00e1n ti\u1ec1n kh\u1ea3 thi",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%206/Ph%E1%BA%A7n%202_%20T%C3%ADnh%20to%C3%A1n%20ti%E1%BB%81n%20kh%E1%BA%A3%20thi/"
+    },
+    {
+      "id": "149",
+      "name": "0.PV SYST 7.0",
+      "symbolSize": 1,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/0.PV%20SYST%207.0/"
+    },
+    {
+      "id": "150",
+      "name": "1. T\u1ea0O \u0110\u1ecaA \u0110I\u1ec2M ( PV SYST 7.0)",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/1.%20T%E1%BA%A0O%20%C4%90%E1%BB%8AA%20%C4%90I%E1%BB%82M%20%28%20PV%20SYST%207.0%29/"
+    },
+    {
+      "id": "151",
+      "name": "10. XU\u1ea4T B\u00c1O C\u00c1O KINH T\u1ebe",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/10.%20XU%E1%BA%A4T%20B%C3%81O%20C%C3%81O%20KINH%20T%E1%BA%BE/"
+    },
+    {
+      "id": "152",
+      "name": "2. Khai b\u00e1o th\u00f4ng s\u1ed1 h\u1ec7 th\u1ed1ng tr\u00ean PV SYST 7.0",
+      "symbolSize": 1,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/2.%20Khai%20b%C3%A1o%20th%C3%B4ng%20s%E1%BB%91%20h%E1%BB%87%20th%E1%BB%91ng%20tr%C3%AAn%20PV%20SYST%207.0/"
+    },
+    {
+      "id": "153",
+      "name": "3. C\u1ea5u h\u00ecnh h\u1ec7 th\u1ed1ng",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/3.%20C%E1%BA%A5u%20h%C3%ACnh%20h%E1%BB%87%20th%E1%BB%91ng/"
+    },
+    {
+      "id": "154",
+      "name": "4. T\u00ednh To\u00e1n t\u1ed5n hao",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/4.%20T%C3%ADnh%20To%C3%A1n%20t%E1%BB%95n%20hao/"
+    },
+    {
+      "id": "155",
+      "name": "5. T\u00ednh to\u00e1n \u0111\u1ed5 b\u00f3ng",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/5.%20T%C3%ADnh%20to%C3%A1n%20%C4%91%E1%BB%95%20b%C3%B3ng/"
+    },
+    {
+      "id": "156",
+      "name": "7. Nhu c\u1ea7u s\u1eed d\u1ee5ng \u0111i\u1ec7n c\u1ee7a kh\u00e1ch h\u00e0ng",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/7.%20Nhu%20c%E1%BA%A7u%20s%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91i%E1%BB%87n%20c%E1%BB%A7a%20kh%C3%A1ch%20h%C3%A0ng/"
+    },
+    {
+      "id": "157",
+      "name": "8. T\u00ednh s\u1ea3n l\u01b0\u1ee3ng 25 n\u0103m",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/8.%20T%C3%ADnh%20s%E1%BA%A3n%20l%C6%B0%E1%BB%A3ng%2025%20n%C4%83m/"
+    },
+    {
+      "id": "158",
+      "name": "9. Ph\u00e2n t\u00edch kinh t\u1ebf",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/9.%20Ph%C3%A2n%20t%C3%ADch%20kinh%20t%E1%BA%BF/"
+    },
+    {
+      "id": "159",
+      "name": "THI\u1ebeT K\u1ebe H\u1ec6 M\u1eb6T TR\u1edcI 30 Kwp ( 2 M\u00c1I)",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/V%C3%8D%20D%E1%BB%A4%20THI%E1%BA%BET%20K%E1%BA%BE/THI%E1%BA%BET%20K%E1%BA%BE%20H%E1%BB%86%20M%E1%BA%B6T%20TR%E1%BB%9CI%2030%20Kwp%20%28%202%20M%C3%81I%29/"
+    },
+    {
+      "id": "160",
+      "name": "THI\u1ebeT K\u1ebe H\u1ec6 N\u0102NG L\u01af\u1ee2NG M\u1eb6T TR\u1edcI 10KWP",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/V%C3%8D%20D%E1%BB%A4%20THI%E1%BA%BET%20K%E1%BA%BE/THI%E1%BA%BET%20K%E1%BA%BE%20H%E1%BB%86%20N%C4%82NG%20L%C6%AF%E1%BB%A2NG%20M%E1%BA%B6T%20TR%E1%BB%9CI%2010KWP/"
+    },
+    {
+      "id": "161",
+      "name": "THI\u1ebeT K\u1ebe H\u1ec6 TH\u1ed0NG N\u0102NG L\u01af\u1ee2NG M\u1eb6T TR\u1edcI H\u1ec6 1MWP",
+      "symbolSize": 0,
+      "value": "/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B9ng%20PV%20SYST/PV%20SYST%207/V%C3%8D%20D%E1%BB%A4%20THI%E1%BA%BET%20K%E1%BA%BE/THI%E1%BA%BET%20K%E1%BA%BE%20H%E1%BB%86%20TH%E1%BB%90NG%20N%C4%82NG%20L%C6%AF%E1%BB%A2NG%20M%E1%BA%B6T%20TR%E1%BB%9CI%20H%E1%BB%86%201MWP/"
+    },
+    {
+      "id": "162",
+      "name": "YouTube Video: B\u00e0i 4 :Thi\u1ebft b\u1ecb \u0111i\u1ec7n 3 pha c\u00f3 c\u1ea7n d\u00e2y trung t\u00ednh kh\u00f4ng - N\u1ed1i ti\u1ebfp \u0111\u1ecba l\u00e0 g\u00ec, n\u1ed1i O v\u1ecf v\u1edbi ti\u1ebfp \u0111\u1ecba ? - YouTube",
+      "symbolSize": 0,
+      "value": "/K%E1%BB%B9%20thu%E1%BA%ADt%20%C4%91i%E1%BB%87n/YouTube%20Video-%20B%C3%A0i%204%20-Thi%E1%BA%BFt%20b%E1%BB%8B%20%C4%91i%E1%BB%87n%203%20pha%20c%C3%B3%20c%E1%BA%A7n%20d%C3%A2y%20trung%20t%C3%ADnh%20kh%C3%B4ng%20-%20N%E1%BB%91i%20ti%E1%BA%BFp%20%C4%91%E1%BB%8Ba%20l%C3%A0%20g%C3%AC%2C%20n%E1%BB%91i%20O%20v%E1%BB%8F%20v%E1%BB%9Bi%20ti%E1%BA%BFp%20%C4%91%E1%BB%8Ba%20-%20-%20YouTube/"
+    },
+    {
+      "id": "163",
+      "name": "C\u00e1ch \u0111\u1ecdc th\u00f4ng s\u1ed1 m\u00e1y b\u01a1m n\u01b0\u1edbc",
+      "symbolSize": 0,
+      "value": "/Question_Answer/C%C3%A1ch%20%C4%91%E1%BB%8Dc%20th%C3%B4ng%20s%E1%BB%91%20m%C3%A1y%20b%C6%A1m%20n%C6%B0%E1%BB%9Bc/"
+    },
+    {
+      "id": "164",
+      "name": "C\u00e1p quang OM3",
+      "symbolSize": 0,
+      "value": "/Question_Answer/C%C3%A1p%20quang/"
+    },
+    {
+      "id": "165",
+      "name": "M\u1eb6T \u0110\u1ed8 CHI\u1ebeU S\u00c1NG - SU\u1ea4T CHI\u1ebeU S\u00c1NG",
+      "symbolSize": 1,
+      "value": "/Question_Answer/MAT-DO-CHIEU-SANG/"
+    },
+    {
+      "id": "166",
+      "name": "Nominal power v\u00e0 absorbed power c\u1ee7a \u0111\u1ed9ng c\u01a1 \u0111i\u1ec7n",
+      "symbolSize": 0,
+      "value": "/Question_Answer/Nominal%20power%20v%C3%A0%20absorbed%20power%20c%E1%BB%A7a%20%C4%91%E1%BB%99ng%20c%C6%A1%20%C4%91i%E1%BB%87n/"
+    },
+    {
+      "id": "167",
+      "name": "PHONG CHAY CHUA CHAY",
+      "symbolSize": 0,
+      "value": "/Question_Answer/PHONG-CHAY-CHUA-CHAY/"
+    },
+    {
+      "id": "168",
+      "name": "Cong tac 2 chieu",
+      "symbolSize": 0,
+      "value": "/Question_Answer/cong-tac-2-chieu/"
+    },
+    {
+      "id": "169",
+      "name": "C\u00f4ng t\u1eafc \u0111i\u1ec7n c\u1ea7u thang",
+      "symbolSize": 0,
+      "value": "/Question_Answer/cong-tac-cau-thang/"
+    },
+    {
+      "id": "170",
+      "name": null,
+      "symbolSize": 0,
+      "value": "/Question_Answer/%C4%90%E1%BA%A5u%20n%E1%BB%91i%20%C4%91%E1%BB%99ng%20c%C6%A1%20Y-tam%20gi%C3%A1c/"
+    },
+    {
+      "id": "171",
+      "name": "Chiller",
+      "symbolSize": 0,
+      "value": "/Question_Answer/HVAC/Chiller/"
+    },
+    {
+      "id": "172",
+      "name": "Generator",
+      "symbolSize": 0,
+      "value": "/Question_Answer/Stuydies/Generator/"
+    },
+    {
+      "id": "173",
+      "name": "1.C\u00e1ch xu\u1ea5t IFC c\u00e1c \u0111\u1ed1i t\u01b0\u1ee3ng \u0111ang \u0111\u01b0\u1ee3c nh\u00ecn th\u1ea5y",
+      "symbolSize": 0,
+      "value": "/REVIT/1.C%C3%A1ch%20xu%E1%BA%A5t%20IFC%20c%C3%A1c%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20%C4%91ang%20%C4%91%C6%B0%E1%BB%A3c%20nh%C3%ACn%20th%E1%BA%A5y/"
+    },
+    {
+      "id": "174",
+      "name": "H\u01b0\u1edbng d\u1eabn \u0111\u1ed5i m\u00e0u link cad trong revit",
+      "symbolSize": 0,
+      "value": "/REVIT/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%E1%BB%95i%20m%C3%A0u%20link%20cad%20trong%20revit/"
+    },
+    {
+      "id": "175",
+      "name": "01",
+      "symbolSize": 0,
+      "value": "/SOFT/3D-CIVIL/01/"
+    },
+    {
+      "id": "176",
+      "name": "YouTube Video: (11) H\u1ecdc Civil3D - B\u00e0i 1 T\u1ea1o B\u1ec1 M\u1eb7t T\u1ef1 Nhi\u00ean - Tr\u1eafc D\u1ecdc T\u1ef1 nhi\u00ean - YouTube",
+      "symbolSize": 0,
+      "value": "/SOFT/3D-CIVIL/YouTube%20Video-%20%2811%29%20H%E1%BB%8Dc%20Civil3D%20-%20B%C3%A0i%201%20T%E1%BA%A1o%20B%E1%BB%81%20M%E1%BA%B7t%20T%E1%BB%B1%20Nhi%C3%AAn%20-%20Tr%E1%BA%AFc%20D%E1%BB%8Dc%20T%E1%BB%B1%20nhi%C3%AAn%20-%20YouTube/"
+    },
+    {
+      "id": "177",
+      "name": "Dim b\u1ecf h\u1ebft s\u1ed1 l\u1ebb \u0111i",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/B%E1%BB%8F/"
+    },
+    {
+      "id": "178",
+      "name": "Copy gi\u00e1 tr\u1ecb t\u0103ng d\u1ea7n trong auto cad",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/Copy%20gi%C3%A1%20tr%E1%BB%8B%20t%C4%83ng%20d%E1%BA%A7n%20trong%20auto%20cad/"
+    },
+    {
+      "id": "179",
+      "name": "load-lips-cad-1lan-dung-mai-mai",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/C%C3%A1ch%20load%20Lips%20cad%20v%C3%A0o%201%20l%E1%BA%A7n%20d%C3%B9ng%20%20nhi%E1%BB%81u%20l%E1%BA%A7n/"
+    },
+    {
+      "id": "180",
+      "name": "L\u00c0M CH\u1eee N\u1ed4I L\u00caN TR\u00caN CHE \u0110\u1ed0I T\u01af\u1ee2NG TRONG B\u1ea2N V\u1ebc CAD",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/MTEX-CHE-DOI-TUONG-AUTO-CAD/"
+    },
+    {
+      "id": "181",
+      "name": "V\u1ebd m\u00e1y bi\u1ebfn \u00e1p b\u1eb1ng lips cad",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/V%E1%BA%BD%20m%C3%A1y%20bi%E1%BA%BFn%20%C3%A1p%20b%E1%BA%B1ng%20lips%20cad/"
+    },
+    {
+      "id": "182",
+      "name": "V\u1ebd thang m\u00e1ng c\u00e1p trong Auto cad b\u1eb1ng lips",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/V%E1%BA%BD%20thang%20m%C3%A1ng%20c%C3%A1p%20trong%20Auto%20cad%20b%E1%BA%B1ng%20lips/"
+    },
+    {
+      "id": "183",
+      "name": "V\u1ebd \u1ed1ng Conduit trong auto cad b\u1eb1ng lips",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/V%E1%BA%BD%20%E1%BB%91ng%20Conduit%20trong%20auto%20cad%20b%E1%BA%B1ng%20lips/"
+    },
+    {
+      "id": "184",
+      "name": "WIPEOUT",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/WIPEOUT/"
+    },
+    {
+      "id": "185",
+      "name": "YouTube Video: (2) C\u00e1ch l\u00e0m r\u00f5 (s\u00e1ng) file xref ch\u1ee9a m\u1eb7t b\u1eb1ng ki\u1ebfn tr\u00fac \u0111\u1ec3 d\u1ec5 d\u00e0ng thao t\u00e1c - YouTube",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/YouTube%20Video-%20%282%29%20C%C3%A1ch%20l%C3%A0m%20r%C3%B5%20%28s%C3%A1ng%29%20file%20xref%20ch%E1%BB%A9a%20m%E1%BA%B7t%20b%E1%BA%B1ng%20ki%E1%BA%BFn%20tr%C3%BAc%20%C4%91%E1%BB%83%20d%E1%BB%85%20d%C3%A0ng%20thao%20t%C3%A1c%20-%20YouTube/"
+    },
+    {
+      "id": "186",
+      "name": "YouTube Video: L\u00c0M TH\u1ec0 N\u00c0O \u0110\u1ec2 T\u1ea0O M\u1ed8T KI\u1ec2U N\u00c9T V\u1ebc M\u1edaI T\u1eea \u0110\u01a0N GI\u1ea2N \u0110\u1ebeN PH\u1ee8C T\u1ea0P TRONG AUTOCAD? M\u1edcI C\u00c1C B\u1ea0N THEO D\u00d5I! - YouTube",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/YouTube%20Video-%20L%C3%80M%20TH%E1%BB%80%20N%C3%80O%20%C4%90%E1%BB%82%20T%E1%BA%A0O%20M%E1%BB%98T%20KI%E1%BB%82U%20N%C3%89T%20V%E1%BA%BC%20M%E1%BB%9AI%20T%E1%BB%AA%20%C4%90%C6%A0N%20GI%E1%BA%A2N%20%C4%90%E1%BA%BEN%20PH%E1%BB%A8C%20T%E1%BA%A0P%20TRONG%20AUTOCAD-%20M%E1%BB%9CI%20C%C3%81C%20B%E1%BA%A0N%20THEO%20D%C3%95I%21%20-%20YouTube/"
+    },
+    {
+      "id": "187",
+      "name": "YouTube Video: T\u1ea1o ki\u1ec3u n\u00e9t v\u1ebd c\u00f3 ch\u1eef k\u00e8m theo \u0111\u1ec3 v\u1ebd \u0111\u01b0\u1eddng \u0111i\u1ec7n, \u0111\u01b0\u1eddng \u1ed1ng ga, \u1ed1ng n\u01b0\u1edbc trong AutoCAD - YouTube",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/YouTube%20Video-%20T%E1%BA%A1o%20ki%E1%BB%83u%20n%C3%A9t%20v%E1%BA%BD%20c%C3%B3%20ch%E1%BB%AF%20k%C3%A8m%20theo%20%C4%91%E1%BB%83%20v%E1%BA%BD%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91i%E1%BB%87n%2C%20%C4%91%C6%B0%E1%BB%9Dng%20%E1%BB%91ng%20ga%2C%20%E1%BB%91ng%20n%C6%B0%E1%BB%9Bc%20trong%20AutoCAD%20-%20YouTube/"
+    },
+    {
+      "id": "188",
+      "name": "ki\u1ec3m tra di\u1ec7n t\u00edch c\u1ee7a m\u1ed9t h\u00ecnh b\u1ea5t k\u1ef3 b\u1eb1ng lips cad",
+      "symbolSize": 0,
+      "value": "/SOFT/CAD%20TIP/ki%E1%BB%83m%20tra%20di%E1%BB%87n%20t%C3%ADch%20c%E1%BB%A7a%20m%E1%BB%99t%20h%C3%ACnh%20b%E1%BA%A5t%20k%E1%BB%B3%20b%E1%BA%B1ng%20lips%20cad/"
+    },
+    {
+      "id": "189",
+      "name": "B\u00e0i 1- T\u1ed5ng Qu\u00e1t",
+      "symbolSize": 0,
+      "value": "/SOFT/DIALUX%20EVO/B%C3%A0i1/"
+    },
+    {
+      "id": "190",
+      "name": "Untitled",
+      "symbolSize": 0,
+      "value": "/SOFT/DIALUX%20EVO/Untitled/"
+    },
+    {
+      "id": "191",
+      "name": "01",
+      "symbolSize": 0,
+      "value": "/SOFT/ECODIAL_SCHNEIDER/01/"
+    },
+    {
+      "id": "192",
+      "name": "Untitled 1",
+      "symbolSize": 0,
+      "value": "/SOFT/ECODIAL_SCHNEIDER/Untitled%201/"
+    },
+    {
+      "id": "193",
+      "name": "Untitled",
+      "symbolSize": 0,
+      "value": "/SOFT/ECODIAL_SCHNEIDER/Untitled/"
+    },
+    {
+      "id": "194",
+      "name": "Ph\u1ea7n m\u1ec1m m\u00f4 ph\u1ecfng h\u1ec7 th\u1ed1ng \u00e2m thanh",
+      "symbolSize": 0,
+      "value": "/SOFT/Ph%E1%BA%A7n%20m%E1%BB%81m%20m%C3%B4%20ph%E1%BB%8Fng%20%C4%91%E1%BB%99%20%E1%BB%93n%20%C3%A2m%20thanh/Ph%E1%BA%A7n%20m%E1%BB%81m%20m%C3%B4%20ph%E1%BB%8Fng%20h%E1%BB%87%20th%E1%BB%91ng%20%C3%A2m%20thanh/"
+    },
+    {
+      "id": "195",
+      "name": "Project base point trong revit",
+      "symbolSize": 0,
+      "value": "/SOFT/REVIT/1.Project-base-point-trong-revit/"
+    },
+    {
+      "id": "196",
+      "name": "Access Control",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/Access%20control/"
+    },
+    {
+      "id": "197",
+      "name": "B\u00e0i 10 \u0110\u1ecdc s\u01a1 \u0111\u1ed3 CCTV IP",
+      "symbolSize": 6,
+      "value": "/SUGAR%20MEPF/B%C3%A0i%2010-%C4%90%E1%BB%8Dc%20s%C6%A1%20%C4%91%E1%BB%93%20CCTV-IP/"
+    },
+    {
+      "id": "198",
+      "name": "PH\u00c2N LO\u1ea0I T\u1ee6 \u0110I\u1ec6N V\u00c0 CH\u1ee8C N\u0102NG",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/Phan-loai-tu-dien/"
+    },
+    {
+      "id": "199",
+      "name": "Ph\u00e2n lo\u1ea1i c\u00e1p m\u1ea1ng, c\u1ea5u t\u1ea1o v\u00e0 \u1ee9ng d\u1ee5ng",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/Ph%C3%A2n%20Lo%E1%BA%A1i%20C%C3%A1p%20M%E1%BA%A1ng%2C%20C%E1%BA%A5u%20T%E1%BA%A1o%20v%C3%A0%20%E1%BB%A8ng%20D%E1%BB%A5ng/"
+    },
+    {
+      "id": "200",
+      "name": "Url a0fb18a4",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/url-a0fb18a4/"
+    },
+    {
+      "id": "201",
+      "name": "Url bus9nw93",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/url-bus9nw93/"
+    },
+    {
+      "id": "202",
+      "name": "Url huv2vjj3",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/url-huv2vjj3/"
+    },
+    {
+      "id": "203",
+      "name": "Url jmd5ic5b",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/url-jmd5ic5b/"
+    },
+    {
+      "id": "204",
+      "name": "Url kan2phud",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/url-kan2phud/"
+    },
+    {
+      "id": "205",
+      "name": "Url nau1jcha",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/url-nau1jcha/"
+    },
+    {
+      "id": "206",
+      "name": "Url pbrjz2ti",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/url-pbrjz2ti/"
+    },
+    {
+      "id": "207",
+      "name": "Url wn49cy45",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/url-wn49cy45/"
+    },
+    {
+      "id": "208",
+      "name": "Url wtwf6lev",
+      "symbolSize": 0,
+      "value": "/SUGAR%20MEPF/url-wtwf6lev/"
+    },
+    {
+      "id": "209",
+      "name": "Access Control",
+      "symbolSize": 0,
+      "value": "/Sample/Access%20Control/"
+    },
+    {
+      "id": "210",
+      "name": "Transformer Room Sizing",
+      "symbolSize": 0,
+      "value": "/Udemy/ELT/Transformer%20Room%20Sizing/"
+    },
+    {
+      "id": "211",
+      "name": "4.1 Introduction to Charge Controllers",
+      "symbolSize": 3,
+      "value": "/Udemy/PV%20SOLAR/04-Charge%20Controllers%20in%20PV%20system/4.1%20Introduction%20to%20Charge%20Controllers/"
+    },
+    {
+      "id": "212",
+      "name": "Ch\u1ee9c n\u0103ng ch\u00ednh c\u1ee7a B\u1ed9 \u0111i\u1ec1u khi\u1ec3n s\u1ea1c",
+      "symbolSize": 1,
+      "value": "/Udemy/PV%20SOLAR/04-Charge%20Controllers%20in%20PV%20system/Ch%E1%BB%A9c%20n%C4%83ng%20ch%C3%ADnh%20c%E1%BB%A7a%20B%E1%BB%99%20%C4%91i%E1%BB%81u%20khi%E1%BB%83n%20s%E1%BA%A1c/"
+    },
+    {
+      "id": "213",
+      "name": "MPPT",
+      "symbolSize": 1,
+      "value": "/Udemy/PV%20SOLAR/04-Charge%20Controllers%20in%20PV%20system/MPPT/"
+    },
+    {
+      "id": "214",
+      "name": "PWM",
+      "symbolSize": 1,
+      "value": "/Udemy/PV%20SOLAR/04-Charge%20Controllers%20in%20PV%20system/PWM/"
+    }
+  ],
+  "links": [
+    {
+      "source": "0",
+      "target": "37"
+    },
+    {
+      "source": "0",
+      "target": "35"
+    },
+    {
+      "source": "0",
+      "target": "36"
+    },
+    {
+      "source": "0",
+      "target": "37"
+    },
+    {
+      "source": "0",
+      "target": "33"
+    },
+    {
+      "source": "0",
+      "target": "34"
+    },
+    {
+      "source": "0",
+      "target": "135"
+    },
+    {
+      "source": "0",
+      "target": "140"
+    },
+    {
+      "source": "0",
+      "target": "136"
+    },
+    {
+      "source": "0",
+      "target": "138"
+    },
+    {
+      "source": "0",
+      "target": "139"
+    },
+    {
+      "source": "0",
+      "target": "137"
+    },
+    {
+      "source": "0",
+      "target": "131"
+    },
+    {
+      "source": "0",
+      "target": "92"
+    },
+    {
+      "source": "0",
+      "target": "91"
+    },
+    {
+      "source": "0",
+      "target": "88"
+    },
+    {
+      "source": "0",
+      "target": "89"
+    },
+    {
+      "source": "20",
+      "target": "30"
+    },
+    {
+      "source": "20",
+      "target": "57"
+    },
+    {
+      "source": "21",
+      "target": "37"
+    },
+    {
+      "source": "21",
+      "target": "80"
+    },
+    {
+      "source": "33",
+      "target": "34"
+    },
+    {
+      "source": "34",
+      "target": "33"
+    },
+    {
+      "source": "41",
+      "target": "45"
+    },
+    {
+      "source": "48",
+      "target": "104"
+    },
+    {
+      "source": "53",
+      "target": "84"
+    },
+    {
+      "source": "67",
+      "target": "100"
+    },
+    {
+      "source": "68",
+      "target": "100"
+    },
+    {
+      "source": "69",
+      "target": "104"
+    },
+    {
+      "source": "72",
+      "target": "37"
+    },
+    {
+      "source": "72",
+      "target": "80"
+    },
+    {
+      "source": "73",
+      "target": "51"
+    },
+    {
+      "source": "73",
+      "target": "75"
+    },
+    {
+      "source": "73",
+      "target": "16"
+    },
+    {
+      "source": "79",
+      "target": "36"
+    },
+    {
+      "source": "79",
+      "target": "37"
+    },
+    {
+      "source": "79",
+      "target": "60"
+    },
+    {
+      "source": "79",
+      "target": "33"
+    },
+    {
+      "source": "79",
+      "target": "21"
+    },
+    {
+      "source": "81",
+      "target": "60"
+    },
+    {
+      "source": "84",
+      "target": "53"
+    },
+    {
+      "source": "86",
+      "target": "91"
+    },
+    {
+      "source": "86",
+      "target": "92"
+    },
+    {
+      "source": "86",
+      "target": "88"
+    },
+    {
+      "source": "86",
+      "target": "89"
+    },
+    {
+      "source": "86",
+      "target": "87"
+    },
+    {
+      "source": "87",
+      "target": "98"
+    },
+    {
+      "source": "94",
+      "target": "106"
+    },
+    {
+      "source": "94",
+      "target": "102"
+    },
+    {
+      "source": "98",
+      "target": "87"
+    },
+    {
+      "source": "100",
+      "target": "68"
+    },
+    {
+      "source": "100",
+      "target": "70"
+    },
+    {
+      "source": "100",
+      "target": "67"
+    },
+    {
+      "source": "108",
+      "target": "64"
+    },
+    {
+      "source": "108",
+      "target": "55"
+    },
+    {
+      "source": "108",
+      "target": "52"
+    },
+    {
+      "source": "109",
+      "target": "108"
+    },
+    {
+      "source": "113",
+      "target": "116"
+    },
+    {
+      "source": "113",
+      "target": "43"
+    },
+    {
+      "source": "117",
+      "target": "115"
+    },
+    {
+      "source": "121",
+      "target": "24"
+    },
+    {
+      "source": "123",
+      "target": "30"
+    },
+    {
+      "source": "125",
+      "target": "126"
+    },
+    {
+      "source": "126",
+      "target": "130"
+    },
+    {
+      "source": "126",
+      "target": "128"
+    },
+    {
+      "source": "130",
+      "target": "127"
+    },
+    {
+      "source": "131",
+      "target": "3"
+    },
+    {
+      "source": "138",
+      "target": "141"
+    },
+    {
+      "source": "149",
+      "target": "152"
+    },
+    {
+      "source": "165",
+      "target": "99"
+    },
+    {
+      "source": "197",
+      "target": "17"
+    },
+    {
+      "source": "197",
+      "target": "28"
+    },
+    {
+      "source": "197",
+      "target": "29"
+    },
+    {
+      "source": "197",
+      "target": "38"
+    },
+    {
+      "source": "197",
+      "target": "14"
+    },
+    {
+      "source": "197",
+      "target": "44"
+    },
+    {
+      "source": "211",
+      "target": "212"
+    },
+    {
+      "source": "211",
+      "target": "213"
+    },
+    {
+      "source": "211",
+      "target": "214"
+    }
+  ]
+}

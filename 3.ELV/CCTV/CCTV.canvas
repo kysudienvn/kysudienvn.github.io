@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"964e721e5124f240","type":"text","text":"","x":-900,"y":-460,"width":250,"height":60},
+		{"id":"b7f65fd84472cee0","type":"text","text":"","x":-900,"y":-360,"width":250,"height":60},
+		{"id":"8884f5c833cf5c9c","type":"text","text":"Tốc độ Frame","x":-900,"y":-240,"width":250,"height":60},
+		{"id":"283e142d8ce7bff7","type":"text","text":"Tính toán khả năng lưu trữ của camera","x":-900,"y":-140,"width":250,"height":180},
+		{"id":"59b0a15c4911651e","type":"file","file":"docs/3.ELV/CCTV/Camera-Storage.md","x":-1213,"y":112,"width":1513,"height":888},
+		{"id":"c3dc4346cf146282","type":"text","text":"Chuẩn mã hóa- hay gọi là chuẩn nén.","x":-500,"y":-920,"width":250,"height":300},
+		{"id":"e0349198c3d0b33a","type":"text","text":"ĐỘ PHÂN GIẢI CAMERA ?","x":-1400,"y":-860,"width":500,"height":120},
+		{"id":"0a0626e8a9ec5ea7","type":"file","file":"docs/00.NOTES/Chuẩn nén hình ảnh của camera.md","x":-10,"y":-740,"width":620,"height":770}
+	],
+	"edges":[
+		{"id":"0f503f3f3d20acd4","fromNode":"283e142d8ce7bff7","fromSide":"right","toNode":"59b0a15c4911651e","toSide":"top"},
+		{"id":"acbdbdec1b69fb6a","fromNode":"c3dc4346cf146282","fromSide":"bottom","toNode":"0a0626e8a9ec5ea7","toSide":"top"}
+	]
+}
