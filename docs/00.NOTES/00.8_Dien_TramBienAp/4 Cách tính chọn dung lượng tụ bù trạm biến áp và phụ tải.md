@@ -37,7 +37,7 @@ Trong trường hợp chưa có phụ tải, tính toán dung lượng [**tụ b
 
 > **Q bù = (0,4 -> 0,5) x Smba**
 
-Ví dụ với trạm biến áp có Smba = 1500kVA, tương đương **dung lượng tụ bù tối thiểu = 0,4 x 1500 = 6000 kVAr**
+Ví dụ với trạm biến áp có Smba = 1500kVA, tương đương **dung lượng tụ bù tối thiểu = 0,4 x 1500 = 600 kVAr**
 
 Tuy nhiên, cách tính này chỉ phù hợp cho các tải có hệ số công suất cosφ đạt tối thiểu 0,75 và tải tối đa khoảng 80%. Nếu trạm biến áp có tải thấp hơn, đôi khi việc áp dụng công thức này vẫn dẫn đến tình trạng bù thiếu.
 
