@@ -1,3 +1,17 @@
+---
+title: Khởi động sao tam-giác
+TIME:
+aliases:
+tags:
+  - khoidongsaotamgiac
+date: 2026-03-25
+url:
+author:
+Releated:
+Platform:
+media:
+---
+
   
 # Khởi động sao tam-giác
 
