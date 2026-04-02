@@ -1,0 +1,3 @@
+# TẠI SAO PHẢI KHỞI ĐỘNG ĐỘNG CƠ SAO-TAM GIÁC?(Mục trả lời câu hỏi)-TIET47
+
+<iframe width="1200" height="600" src="https://www.youtube.com/embed/zBOt_tgu7KU?si=cNzaQ2SNgE_B4dT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
