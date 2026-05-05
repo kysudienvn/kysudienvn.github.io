@@ -1,4 +1,4 @@
-<iframe src="https://1drv.ms/b/c/5789757131c7dafa/IQQARtGN7eLqRYciVoie-UNvAdv4xkzrDWTYpskkSpIDmBk" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://drive.google.com/file/d/1mBjwZsrH4-U3G-H0W4ZSYexQ2bMR7fwL/preview" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
 
 ###  Đèn chiếu sáng sự cố và biển báo an toàn có nguồn điện dự phòng phải đảm bảo thời gian hoạt động ổn định liên tục tối thiểu 120 min khi có sự cố cháy, nổ.
 
