@@ -8,6 +8,7 @@ tags:
 
 
 khoảng cách lắp đặt các đèn chỉ dẫn thoát nạn không lớn hơn 25m. [^1]
+
 [[TCVN 13456-2022_ CHIẾU SÁNG SỰ CỐ]]
 
 [^1]: TCVN 13456-2022 CHIẾU SÁNG SỰ CỐ
