@@ -13,12 +13,12 @@ category: docs
 ### [[TCVN 7568-14-2025]]
 
 
-## [[Khoảng cách đầu báo cháy khói- TCVN 5768-14-2025]]
+## [[Khoảng cách đầu báo cháy khói-TCVN 7568-2025]]
 ## [[Khoảng cách đầu báo cháy nhiệt -TCVN 7568-2025]]
 
 ### [[Khoảng cách đầu báo cháy tia chiếu TCVN 7568-14-2025]]
-### [[Khoảng cách từ đầu báo cháy khói tới miệng gió-TCVN 7568-2025]]
-### [[Khoảng cách từ đầu báo nhiệt tới miệng gió-TCVN-7568-2025]]
+### [[Khoảng cách từ đầu báo cháy tới miệng gió-TCVN 7568-2025]]
+
 
 
 
